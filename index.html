@@ -1,0 +1,528 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+        <meta name="description" content="Lorem ipsum, dolor sit amet consecteturadipisicing elit. Aspernatur autem doloribus,et itaque dolor sit veniam saepe perferendisprovident nemo doloremque ratione eveniet earumsimilique quae. Animi ipsum vel provident">
+        
+        <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+
+        <link rel="icon" href="img/the artist web.jpg">
+        <!-- link css -->
+        <link rel="stylesheet" href="css/styles.css">
+        <title>THE ARTIST WEB</title>
+    </head>
+    <body>
+        <!-- start aside -->
+        <aside class="aside" id="aside">
+            <div class="aside-title">
+                <i class="fa-solid fa-palette i"></i>
+                <h3>the <span>artist</span></h3>
+                <i class="fa-solid fa-xmark" id="xmark"></i>
+            </div>
+            <ul class="aside-menu">
+                <li><i class="fa-solid fa-house"></i><a href="index.html" title="go to home">home</a></li>
+                <li><i class="fa-solid fa-file-signature"></i><a href="Main-page-names.html" title="go to Main page names">Main page names</a></li>
+                <li><i class="fa-sharp fa-solid fa-globe"></i><a href="#languge cards" title="go to languge cards">languge cards</a></li>
+                <li><i class="fa-sharp fa-solid fa-magnifying-glass"></i><a href="search.html" title="go to search">search</a></li>
+                <li><i class="fa-solid fa-book"></i><a href="daily-schedule.html" title="go to daily schedule">daily schedule</a></li>
+                <li><i class="fa-solid fa-laptop-code"></i><a href="visual-studio.html" title="go to visual studio">visual studio</a></li>
+                <li><i class="fa-solid fa-mobile"></i><a href="media-sizes.html" title="go to media sizes">media sizes</a></li>
+                <li><i class="fa-sharp fa-solid fa-laptop"></i><a href="auxiliarysites.html" title="go to auxiliary sites">auxiliarysites</a></li>
+                <li><i class="fa-brands fa-html5"></i><a href="html.html" title="go to html">html</a></li>
+                <li><i class="fa-brands fa-css3-alt"></i><a href="css.html" title="go to css">css</a></li>
+                <li><i class="fa-brands fa-bootstrap"></i><a href="bootstrap.html" title="go to bootstrap">bootstrap</a></li>
+                <li><i class="fa-brands fa-js"></i><a href="java-script.html" title="go to java script">java script</a></li>
+                <li><i class="fa-solid fa-code"></i><a href="oop.html" title="go to oop">oop</a></li>
+                <li><i class="fa-brands fa-js"></i><a href="type-script.html" title="go to type script">type script</a></li>
+                <li><i class="fa-brands fa-angular"></i><a href="Angular.html" title="go to angular">Angular</a></li>
+                <li><i class="fa-brands fa-react"></i><a href="react.html" title="go to react">react</a></li>
+                <li><i class="fa-brands fa-vuejs"></i><a href="vue.js.html" title="go to vuejs">vue.js</a></li>
+                <li><i class="fa-brands fa-git-alt"></i><a href="git.html" title="go to git">git</a></li>
+                <li><i class="fa-brands fa-github"></i><a href="github.html" title="go to github">github</a></li>
+                <li><i class="fa-brands fa-wordpress"></i><a href="WordPress.html" title="go to wordpress">wordpress</a></li>
+            </ul>
+        </aside>
+
+        <!-- start second body -->
+        <main class="second-body">
+            <!-- start header -->
+            <header class="header" id="header">
+                <div class="left">
+                    <i class="fa-solid fa-bars-staggered" id="bars"></i>
+                    <a href="index.html" class="logo">the <span>artist</span></a>
+                </div>
+
+                <form class="center">
+                    <div class="center-title">
+                        <i class="fa-sharp fa-solid fa-magnifying-glass"></i>
+                        <input onkeyup="searchmenu(this.value), searchInput(this.value.toLowerCase())" id="search" type="text" placeholder="Search for language..." dir="auto">
+                    </div>
+                    <ul class="search-menu">
+                        <li class="li"><i class="fa-brands fa-html5"></i><a href="html.html" id="a" title="go to html">html</a></li>
+                        <li class="li"><i class="fa-brands fa-css3-alt"></i><a href="css.html" id="a" title="go to css">css</a></li>
+                        <li class="li"><i class="fa-brands fa-bootstrap"></i><a href="bootstrap.html" id="a"title="go to bootstrap">bootstrap</a></li>
+                        <li class="li"><i class="fa-brands fa-js"></i><a href="java-script.html" id="a" title="go to java script">java script</a></li>
+                        <li class="li"><i class="fa-solid fa-code"></i><a href="oop.html" id="a" title="go to oop">oop</a></li>
+                        <li class="li"><i class="fa-brands fa-js"></i><a href="type-script.html" id="a" title="go to type script">type script</a></li>
+                        <li class="li"><i class="fa-brands fa-angular"></i><a href="Angular.html" id="a" title="go to angular">Angular</a></li>
+                        <li class="li"><i class="fa-brands fa-react"></i><a href="react.html" id="a" title="go to react">react</a></li>
+                        <li class="li"><i class="fa-brands fa-vuejs"></i><a href="vue.js.html" id="a" title="go to vuejs">vue.js</a></li>
+                        <li class="li"><i class="fa-brands fa-git-alt"></i><a href="git.html" id="a" title="go to git">git</a></li>
+                        <li class="li"><i class="fa-brands fa-github"></i><a href="github.html" id="a" title="go to github">github</a></li>
+                        <li class="li"><i class="fa-brands fa-wordpress"></i><a href="WordPress.html" id="a" title="go to wordpress">wordpress</a></li>
+                    </ul>
+                </form>
+
+                <div class="right">
+                    <i class="fa-solid fa-moon" id="moon"></i>
+                    <i class="fa-solid fa-sun" id="sun"></i>
+                    <a href="index-rtl.html">AR</a>
+                </div>
+            </header>
+
+            <!-- start home -->
+            <section class="home" id="home">
+                <div class="home-text">
+                    <h3>hi, thir!</h3>
+                    <h1>I'am a <span>the artist web</span></h1>
+                    <p>Welcome to my front-end learning site!
+                    Here, you will find interesting and education
+                    Content to acquire user interface development skills. Enjoy
+                    Our courses in interactive and practical projects,
+                    Be part of a community that supports you
+                    Step forward and immerse yourself in the world
+                    web and start your educational journey today!</p>
+                    <div class="btn-hero">
+                        <a href="#languge cards" class="btn1">Languge Cards</a>
+                        <div class="btn-go">
+                            <a href="html.html">Let's Go</a>
+                            <i class="fa fa-chevron-right"></i>
+                        </div>
+                    </div>
+                </div>
+                <div class="home-img">
+                    <img src="img/the artist web.jpg">
+                </div>
+            </section>
+
+            <!-- start Information box -->
+            <section class="Information-box" id="languge cards">
+                <div class="Information-box-title">
+                    <div class="Information-box-title-text">
+                        <h3>front end</h3>
+                        <p>Front End developer</p>
+                    </div>
+                    <a href="search.html" title="go to search">View ALL</a>
+                </div>
+
+                <div class="Information-box-all">
+                    <div class="box">
+                        <div class="box-title">
+                            <h3>What a cs50?</h3>
+                            <div class="box-title-icons">
+                                <i class="fa-solid fa-minus" id="minus"></i>
+                                <i class="fa-solid fa-plus" id="plus"></i>
+                            </div>
+                        </div>
+                        <p id="pragraf-height">
+                        "CS50" refers to an introductory computer science course offered 
+                        by Harvard University. The course is officially titled "CS50: Introduction 
+                        to Computer Science" and is designed to provide students with a solid foundation 
+                        in the fundamentals of computer science and programming. CS50 covers a 
+                        wide range of topics, including: C Programming: Students learn the basics of 
+                        programming using the C language. Algorithms and Data Structures: The course introduces 
+                        fundamental algorithms and data structures. Software Engineering: Students learn about 
+                        software development principles, debugging, and testing. Web Development: Basics of web 
+                        development, including HTML, CSS, and JavaScript, are covered. Databases: The course 
+                        introduces students to database management and SQL. Networking: Basics of computer networking 
+                        and the Internet are discussed. Security: An overview of computer security concepts is included. 
+                        CS50 is known for its engaging lectures, challenging problem sets, and a supportive online community. 
+                        It is often recommended for beginners interested in learning computer science, programming, and problem-solving. 
+                        The course is available online for free, allowing individuals around the world to access the material and participate in the assignments.</p>
+                    </div>
+                    <div class="box">
+                        <div class="box-title">
+                            <h3>What a language html?</h3>
+                            <div class="box-title-icons">
+                                <i class="fa-solid fa-minus" id="minus"></i>
+                                <i class="fa-solid fa-plus" id="plus"></i>
+                            </div>
+                        </div>
+                        <p id="pragraf-height">
+                        HTML stands for "HyperText Markup Language." 
+                        It is a standard markup language used for creating 
+                        and designing the structure of web pages. HTML uses 
+                        a system of tags (enclosed in angle brackets &lt>) to 
+                        define elements on a web page. These elements can include 
+                        headings, paragraphs, images, links, forms, and more. HTML 
+                        provides the basic building blocks for creating content on 
+                        the web. It is not a programming language; instead, it is a 
+                        markup language that structures the content and provides a way 
+                        to represent information on a web page. HTML works in conjunction 
+                        with Cascading Style Sheets (CSS) and JavaScript to create a 
+                        complete and interactive web experience. In summary, HTML is the 
+                        foundational language for creating the structure and content of web 
+                        pages. It defines the elements on a page and their relationships, but 
+                        it does not handle the presentation (styling) or dynamic behavior on its own.</p>
+                    </div>
+                    <div class="box">
+                        <div class="box-title">
+                            <h3>What a language css?</h3>
+                            <div class="box-title-icons">
+                                <i class="fa-solid fa-minus" id="minus"></i>
+                                <i class="fa-solid fa-plus" id="plus"></i>
+                            </div>
+                        </div>
+                        <p id="pragraf-height">
+                        CSS stands for "Cascading Style Sheets." It is a style sheet language used for 
+                        describing the presentation and formatting of a document written in HTML or XML. 
+                        CSS allows web developers to control the layout, appearance, and styling of web pages, 
+                        enhancing the visual presentation of the content. Key features and capabilities of CSS 
+                        include: Style Definition: CSS defines how HTML elements should be displayed. It enables 
+                        the separation of content (HTML) from presentation (CSS), making it easier to manage and 
+                        maintain the code. Selectors and Properties: CSS uses selectors to target HTML elements 
+                        and apply styles to them. Properties and values define how the selected elements should 
+                        be styled. For example, you can use CSS to set colors, fonts, margins, padding, and more. 
+                        Responsive Design: CSS supports responsive design, allowing developers to create layouts that 
+                        adapt to different screen sizes and devices. Media queries in CSS can be used to apply different 
+                        styles based on factors such as screen width or device type. Cascade and Specificity: The term 
+                        "cascading" in CSS refers to the way styles are applied in a hierarchical manner. Styles can be 
+                        inherited, overridden, or combined based on the specificity of selectors and the order in which 
+                        styles are declared. External Style Sheets: CSS can be written directly within HTML documents 
+                        (internal or inline CSS), or it can be stored in external style sheets. External style sheets 
+                        promote code reusability and consistency across multiple pages.</p>
+                    </div>
+                    <div class="box">
+                        <div class="box-title">
+                            <h3>What a frame work bootstrap?</h3>
+                            <div class="box-title-icons">
+                                <i class="fa-solid fa-minus" id="minus"></i>
+                                <i class="fa-solid fa-plus" id="plus"></i>
+                            </div>
+                        </div>
+                        <p id="pragraf-height">
+                        Bootstrap is not a programming language; rather, it is a popular open-source front-end framework 
+                        for developing responsive and mobile-first web applications. It is built using HTML, CSS, and JavaScript 
+                        and provides a collection of pre-designed components and styles that make it easier for developers to 
+                        create consistent and visually appealing user interfaces. Key features and components of Bootstrap include: 
+                        Grid System: Bootstrap includes a responsive grid system that allows developers to create flexible and 
+                        responsive layouts. The grid system is based on a 12-column layout, making it easy to design pages that 
+                        adapt to different screen sizes. Pre-styled Components: Bootstrap provides a set of pre-styled UI components 
+                        such as navigation bars, buttons, forms, cards, and more. These components help developers create a consistent 
+                        and professional-looking design without starting from scratch. Responsive Design: Bootstrap is designed with 
+                        mobile-first principles, ensuring that websites and applications look good and function well on various devices 
+                        and screen sizes. JavaScript Plugins: Bootstrap comes with a variety of JavaScript plugins, including modal dialogs, 
+                        carousels, tooltips, and popovers. These plugins enhance the interactivity and functionality of web pages. Customizable 
+                        Styles: While Bootstrap provides a default set of styles, it is highly customizable. Developers can easily modify the 
+                        appearance of components, or they can use the Bootstrap source files to create a custom build with only the components 
+                        they need. Community and Documentation: Bootstrap has a large and active community of developers, and it comes with 
+                        comprehensive documentation. This makes it easy for developers to get started, find solutions to common issues, and stay 
+                        updated on best practices.</p>
+                    </div>
+                    <div class="box">
+                        <div class="box-title">
+                            <h3>What a language java script?</h3>
+                            <div class="box-title-icons">
+                                <i class="fa-solid fa-minus" id="minus"></i>
+                                <i class="fa-solid fa-plus" id="plus"></i>
+                            </div>
+                        </div>
+                        <p id="pragraf-height">   
+                        JavaScript is a high-level, interpreted programming language primarily used for client-side web development. It was originally 
+                        designed to add interactivity and dynamic behavior to web pages. JavaScript allows developers to manipulate the content of a web 
+                        page, respond to user actions, and communicate with servers to update or retrieve data asynchronously. Key features and characteristics 
+                        of JavaScript include: Client-Side Scripting: JavaScript is primarily executed on the client's browser, allowing developers to create 
+                        interactive and dynamic user interfaces. It enhances the user experience by enabling features such as form validation, image sliders, 
+                        and responsive designs. Object-Oriented: JavaScript is an object-oriented programming language, and it supports object-based programming. 
+                        Developers can create and manipulate objects, making it versatile for various programming paradigms. Asynchronous Programming: JavaScript 
+                        supports asynchronous programming through features like callbacks, Promises, and the async/await syntax. This is crucial for handling tasks 
+                        such as fetching data from a server without blocking the execution of other operations. Event-Driven Programming: JavaScript is event-driven, 
+                        allowing developers to respond to user actions or events on a web page. Common events include clicks, mouse movements, keyboard inputs, and more. 
+                        Cross-Browser Compatibility: JavaScript is supported by most modern web browsers, making it a versatile choice for web development. Web developers 
+                        can write code that works consistently across different browsers. Integration with HTML and CSS: JavaScript interacts with HTML and CSS to 
+                        dynamically modify the structure and style of a web page. It can be embedded directly within HTML documents or included in separate files. 
+                        Server-Side Development: With the introduction of environments like Node.js, JavaScript can also be used for server-side development, allowing 
+                        developers to build complete web applications using a single programming language.</p>
+                    </div>
+                    <div class="box">
+                        <div class="box-title">
+                            <h3>What a oop?</h3>
+                            <div class="box-title-icons">
+                                <i class="fa-solid fa-minus" id="minus"></i>
+                                <i class="fa-solid fa-plus" id="plus"></i>
+                            </div>
+                        </div>
+                        <p id="pragraf-height">
+                        OOP stands for Object-Oriented Programming. It is not a specific programming language but rather a programming paradigm—a way of organizing and 
+                        designing code. Many programming languages support and implement OOP principles, and developers use OOP concepts to structure their code in a more 
+                        modular and maintainable way. Key concepts of Object-Oriented Programming include: Objects: Objects are instances of classes and represent real-world 
+                        entities. They encapsulate data (attributes or properties) and the methods (functions or procedures) that operate on that data. Classes: A class is a 
+                        blueprint or template for creating objects. It defines the properties and behaviors that its objects will have. For example, a "Car" class might have 
+                        properties like "color" and "model" and methods like "start" and "stop." Encapsulation: Encapsulation is the bundling of data (attributes) and the 
+                        methods that operate on that data into a single unit (class). It helps in hiding the internal details of an object and exposing only what is necessary. 
+                        Inheritance: Inheritance is a mechanism that allows a class (subclass or derived class) to inherit properties and behaviors from another class 
+                        (superclass or base class). It promotes code reusability and establishes a relationship between classes. Polymorphism: Polymorphism allows objects of 
+                        different classes to be treated as objects of a common base class. It enables a single interface to represent different types of objects. Polymorphism 
+                        can be achieved through method overloading and method overriding. Abstraction: Abstraction is the process of simplifying complex systems by modeling 
+                        classes based on their essential features while ignoring the less relevant details. It helps in managing complexity and focusing on what is essential. 
+                        Message Passing: Objects communicate with each other by sending messages. A method call is essentially a message being sent from one object to another, 
+                        requesting a particular operation. Languages that support OOP principles include: Java: A widely-used, general-purpose programming language that is 
+                        known for its "write once, run anywhere" philosophy. Java is strongly object-oriented. C++: An extension of the C programming language with additional 
+                        features for object-oriented programming, including classes and inheritance. C#: Developed by Microsoft, C# is a language that is part of the .NET 
+                        framework and is designed for building Windows applications. It incorporates many OOP features. Python: A versatile and widely-used programming language 
+                        that supports both procedural and object-oriented programming. Python allows developers to write code that is easy to read and maintain. Ruby: Known for 
+                        its simplicity and readability, Ruby is a dynamically-typed, object-oriented language. It is often used for web development with the Ruby on Rails 
+                        framework. JavaScript: Primarily used for client-side scripting in web browsers, JavaScript also supports object-oriented programming. Modern JavaScript 
+                        includes features such as classes and inheritance. Each of these languages implements OOP principles in its own way, but the fundamental concepts remain 
+                        consistent across them. Developers choose languages based on their specific needs and the characteristics of the projects they are working on.</p>
+                    </div>
+                    <div class="box">
+                        <div class="box-title">
+                            <h3>What a language type script?</h3>
+                            <div class="box-title-icons">
+                                <i class="fa-solid fa-minus" id="minus"></i>
+                                <i class="fa-solid fa-plus" id="plus"></i>
+                            </div>
+                        </div>
+                        <p id="pragraf-height">
+                        It seems like there might be a slight confusion in your question. If you're asking about 
+                        TypeScript, it is a programming language developed by Microsoft. TypeScript is a superset 
+                        of JavaScript, meaning that all valid JavaScript code is also valid TypeScript code, but 
+                        TypeScript adds static typing to the language. In TypeScript, you can explicitly declare 
+                        types for variables, function parameters, and return types. This can help catch errors during 
+                        development and provide better tooling support. TypeScript code is ultimately transpiled into 
+                        JavaScript, so it can run on any JavaScript runtime. If you meant something else by "language type 
+                        script," please provide more context or clarify your question so I can better assist you.</p>
+                    </div>
+                    <div class="box">
+                        <div class="box-title">
+                            <h3>What a frame work Angular?</h3>
+                            <div class="box-title-icons">
+                                <i class="fa-solid fa-minus" id="minus"></i>
+                                <i class="fa-solid fa-plus" id="plus"></i>
+                            </div>
+                        </div>
+                        <p id="pragraf-height">
+                        It seems like there might be a slight confusion in your question. Angular is a JavaScript 
+                        framework developed and maintained by Google. It is used for building dynamic, single-page 
+                        web applications (SPAs). Angular provides a structured framework for developing web applications 
+                        and follows the Model-View-Controller (MVC) architectural pattern. Angular is not a programming 
+                        language itself; rather, it's a framework written in TypeScript, which is a superset of JavaScript. 
+                        TypeScript adds static typing to JavaScript and brings features such as interfaces, classes, and modules. 
+                        Angular applications are typically written in TypeScript, and the framework provides tools for building 
+                        and organizing the code in a modular and maintainable way. In summary, Angular is a JavaScript framework, 
+                        and TypeScript is the programming language commonly associated with Angular development.</p>
+                    </div>
+                    <div class="box">
+                        <div class="box-title">
+                            <h3>What a frame work react?</h3>
+                            <div class="box-title-icons">
+                                <i class="fa-solid fa-minus" id="minus"></i>
+                                <i class="fa-solid fa-plus" id="plus"></i>
+                            </div>
+                        </div>
+                        <p id="pragraf-height">
+                        React is not a programming language; it is a JavaScript library for building user interfaces. Developed 
+                        and maintained by Facebook, React is open-source and widely used for creating dynamic and efficient web 
+                        applications with a focus on reusable UI components. Key features and concepts of React include: Component-Based 
+                        Architecture: React is built around the concept of reusable components. A React application is composed of independent, 
+                        self-contained components that manage their own state and can be combined to create complex user interfaces. Virtual DOM 
+                        (Document Object Model): React uses a virtual DOM to improve performance. Instead of directly manipulating the actual DOM 
+                        for every change, React creates a virtual representation of the DOM in memory. It then calculates the most efficient way 
+                        to update the actual DOM, minimizing the number of manipulations. JSX (JavaScript XML): React uses JSX, a syntax extension 
+                        for JavaScript that allows developers to write HTML elements and components in their JavaScript code. JSX makes the code 
+                        more readable and expressive. Unidirectional Data Flow: React follows a unidirectional data flow, meaning that data flows 
+                        in one direction—from parent components to child components. This simplifies the understanding of how data changes in an 
+                        application and helps prevent unexpected side effects. React Hooks: Introduced in React 16.8, hooks are functions that 
+                        enable developers to use state and other React features in functional components. Hooks, such as useState and useEffect, 
+                        provide a way to manage state and perform side effects in functional components. React Router: React Router is a library 
+                        for handling navigation in React applications. It allows developers to create single-page applications with client-side 
+                        routing, enabling a smoother user experience without full page reloads. React Context API: The Context API allows for the 
+                        creation of a global state that can be accessed by components without having to pass props down through 
+                        multiple levels of the component tree.</p>
+                    </div>
+                    <div class="box">
+                        <div class="box-title">
+                            <h3>What a frame work vue.js?</h3>
+                            <div class="box-title-icons">
+                                <i class="fa-solid fa-minus" id="minus"></i>
+                                <i class="fa-solid fa-plus" id="plus"></i>
+                            </div>
+                        </div>
+                        <p id="pragraf-height">
+                        Vue.js is not a programming language; it is a progressive JavaScript framework used for building user 
+                        interfaces. Vue.js is designed to be incrementally adoptable, meaning that developers can integrate it 
+                        into existing projects or use it to build applications from scratch. It provides a flexible and approachable 
+                        way to build interactive and reactive web interfaces. Key features and concepts of Vue.js include: Component-Based 
+                        Architecture: Vue.js follows a component-based architecture, similar to React. Vue components are reusable, 
+                        self-contained units that encapsulate the structure, behavior, and styles of a specific part of the user interface. 
+                        Reactivity: Vue.js makes it easy to create reactive applications. When the data in a Vue component changes, the associated 
+                        view automatically updates to reflect those changes. This is achieved through Vue's reactivity system, which uses a virtual 
+                        DOM similar to React. Directives: Vue.js uses directives to attach special behavior to elements in the DOM. Directives are 
+                        prefixed with "v-" and are used to perform tasks like conditionally rendering elements (v-if), binding attributes (v-bind), 
+                        and handling events (v-on). Vue Router: Vue Router is the official router for Vue.js applications. It enables the creation 
+                        of single-page applications with client-side routing. Developers can define routes, navigate between views, and load components 
+                        dynamically. Vuex: Vuex is the official state management library for Vue.js. It provides a centralized state management pattern 
+                        for managing the state of a Vue.js application in a predictable way. Vuex is especially useful for handling complex state and 
+                        communication between components. Vue CLI: Vue CLI (Command Line Interface) is a tool for scaffolding and managing Vue.js projects. 
+                        It simplifies the process of setting up a new Vue project, managing dependencies, and building for production. Single File Components: 
+                        Vue.js supports single file components, where the template, script, and styles for a component are defined in a single file with the 
+                        ".vue" extension. This promotes organization and maintainability by keeping related code together.</p>
+                    </div>
+                    <div class="box">
+                        <div class="box-title">
+                            <h3>What a website git?</h3>
+                            <div class="box-title-icons">
+                                <i class="fa-solid fa-minus" id="minus"></i>
+                                <i class="fa-solid fa-plus" id="plus"></i>
+                            </div>
+                        </div>
+                        <p id="pragraf-height">
+                        Git is a distributed version control system (DVCS) designed to track changes in source code during software development. 
+                        It was created by Linus Torvalds in 2005 and has become one of the most widely used version control systems in the world. 
+                        Git is free and open-source software, providing a robust and flexible solution for managing collaborative software projects. 
+                        Here are some key concepts and features of Git: Version Control: Git allows developers to track changes in their source code 
+                        over time. Each change is recorded in a commit, and the entire history of changes is stored in the Git repository. Distributed 
+                        System: Git is a distributed version control system, meaning that each developer has a complete copy of the entire repository, 
+                        including its history, on their local machine. This decentralization allows for offline work and faster access to version history. 
+                        Branching and Merging: Git supports branching, allowing developers to create separate branches for different features or bug fixes. 
+                        Branches can be merged back into the main codebase, facilitating parallel development and experimentation. Example: bash Copy code 
+                        # Create a new branch git branch feature-branch # Switch to the new branch git checkout feature-branch # Make changes, commit, and 
+                        then merge back git checkout main git merge feature-branch Committing Changes: Developers use the git commit command to save changes 
+                        to their local repository. Each commit has a unique identifier (hash) and includes a message describing the changes made. Example: 
+                        bash Copy code # Stage changes git add . # Commit changes with a message git commit -m "Implemented feature X" Remote Repositories: 
+                        Git allows developers to synchronize their local repositories with remote repositories hosted on platforms like GitHub, GitLab, or 
+                        Bitbucket. This enables collaboration among team members and provides a central location for the project. Example: bash Copy code 
+                        # Add a remote repository git remote add origin &ltrepository_url> # Push changes to the remote repository git push -u origin main 
+                        Pull Requests: On platforms like GitHub, developers can propose changes by creating pull requests. A pull request allows team 
+                        members to review and discuss proposed changes before merging them into the main branch. Tagging: Git allows developers to create 
+                        tags to mark specific points in the version history, such as release points or significant milestones. Example: bash Copy code 
+                        # Create an annotated tag git tag -a v1.0 -m "Release version 1.0" # Push tags to remote repository git push --tags Conflict Resolution: 
+                        When changes made by different developers conflict, Git provides tools to resolve conflicts manually. Developers can choose how to 
+                        merge conflicting changes. Git is widely used in the software development industry and is considered a fundamental tool for version 
+                        control and collaboration. It is supported on various operating systems, including Linux, macOS, and Windows.</p>
+                    </div>
+                    <div class="box">
+                        <div class="box-title">
+                            <h3>What a website github?</h3>
+                            <div class="box-title-icons">
+                                <i class="fa-solid fa-minus" id="minus"></i>
+                                <i class="fa-solid fa-plus" id="plus"></i>
+                            </div>
+                        </div>
+                        <p id="pragraf-height">
+                        GitHub is not a programming language; it is a web-based platform and service that provides hosting for software 
+                        development using version control systems. GitHub primarily supports Git, a distributed version control system, 
+                        and it allows developers to collaborate on software projects, manage code repositories, track changes, and engage 
+                        in collaboration through features like pull requests and issues. Key features and concepts of GitHub include: 
+                        Repository: A repository, or repo, is a container that holds a project's files, including the revision history. 
+                        It can be public, accessible to everyone, or private, restricted to specific users or teams. Git: GitHub is built 
+                        on top of the Git version control system. Developers use Git commands to manage and track changes in their code, 
+                        and GitHub provides a web-based interface to interact with Git repositories. Collaboration: GitHub facilitates 
+                        collaboration among developers. Multiple contributors can work on a project simultaneously by forking the repository, 
+                        making changes in their own branches, and creating pull requests to propose changes to the original project. Pull 
+                        Requests: A pull request is a proposed set of changes that a developer wants to merge into the main branch of a 
+                        repository. It allows team members to review the changes, provide feedback, and discuss the proposed modifications 
+                        before merging them. Issues: Issues are used to track bugs, enhancements, tasks, or other types of work within a 
+                        repository. They provide a way for team members to communicate, assign tasks, and keep track of project progress. 
+                        Branching: GitHub supports branching, allowing developers to work on different features or bug fixes in isolated 
+                        branches. Branches can be merged back into the main branch when the changes are ready. Actions: GitHub Actions is 
+                        a feature that automates workflows, allowing developers to build, test, and deploy their code directly from GitHub. 
+                        It supports continuous integration and continuous deployment (CI/CD). GitHub Pages: GitHub Pages is a feature that 
+                        allows users to host static websites directly from their GitHub repositories. It is often used for project documentation, 
+                        personal websites, or project landing pages. Security Features: GitHub provides security features, including vulnerability 
+                        scanning, dependency analysis, and security alerts, to help developers identify and address security issues in their code. 
+                        Community and Social Features: GitHub has a strong community aspect, with features like discussions, project wikis, and the 
+                        ability for users to follow and star repositories. It provides a social platform for developers to collaborate and share their 
+                        work. GitHub has become a central hub for open-source development and is widely used by individual developers, teams, and 
+                        organizations for managing and collaborating on software projects. While GitHub supports Git, it is important to note that 
+                        Git itself is the underlying version control system, and GitHub is a platform built around it.</p>
+                    </div>
+                    <div class="box">
+                        <div class="box-title">
+                            <h3>What a website WordPress?</h3>
+                            <div class="box-title-icons">
+                                <i class="fa-solid fa-minus" id="minus"></i>
+                                <i class="fa-solid fa-plus" id="plus"></i>
+                            </div>
+                        </div>
+                        <p id="pragraf-height">
+                        WordPress is a popular and widely used open-source content management system (CMS) that allows users to create and manage websites and blogs. 
+                        It was initially developed as a blogging platform but has evolved into a versatile CMS that can support a variety of websites, from simple 
+                        blogs to complex e-commerce sites. Key features of WordPress include: User-Friendly Interface: WordPress is known for its intuitive and 
+                        easy-to-use interface, making it accessible to users with varying levels of technical expertise. Themes: Users can choose from a wide range 
+                        of pre-designed themes to change the look and feel of their websites. Themes control the overall design, layout, and style of a site. Plugins:
+                        WordPress offers a vast repository of plugins, which are add-ons that extend the functionality of the core software. These plugins cover a wide 
+                        range of features, including SEO optimization, social media integration, e-commerce, and more. Content Management: WordPress allows users to easily 
+                        create, edit, and organize their content. It supports various content types, such as text, images, videos, and more. Customization: Users can 
+                        customize their websites using the built-in customizer and theme options. For more advanced customization, users can modify the code directly. 
+                        SEO-Friendly: WordPress is designed with SEO (Search Engine Optimization) in mind, making it easier for websites to rank well on search engines. 
+                        Community Support: With a large and active community of users, developers, and contributors, WordPress has a wealth of resources, forums, and 
+                        tutorials available for support. Security: WordPress takes security seriously and regularly releases updates to address vulnerabilities. Users 
+                        can enhance security through plugins and best practices. Multilingual Support: WordPress supports multiple languages, allowing users to create 
+                        content in various languages and cater to a global audience. Whether you're a blogger, a small business owner, or an enterprise, WordPress provides 
+                        a flexible and scalable platform for building and managing websites.</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- start footer -->
+            <section class="footer" id="footer">
+                <div class="footer-box">
+                    <h3>My <span>information</span></h3>
+                    <div class="footer-links">
+                        <a href="daily-schedule.html" title="go to daily schedule">daily schedule</a>
+                        <a href="visual-studio.html" title="go to visual studio">visual studio</a>
+                        <a href="media-sizes.html" title="go to media sizes">media sizes</a>
+                        <a href="auxiliarysites.html" title="go to auxiliary sites">auxiliarysites</a>
+                    </div>
+                </div>
+                <div class="footer-box">
+                    <h3>the <span>language</span></h3>
+                    <div class="footer-links">
+                        <a href="cs50.html" title="go to cs50">cs50</a>
+                        <a href="html.html" title="go to html">html</a>
+                        <a href="css.html" title="go to css">css</a></li>
+                        <a href="java-script.html" title="go to java script">java script</a>
+                        <a href="oop.html" title="go to oop">oop</a>
+                        <a href="type-script.html" title="go to type script">type script</a>
+                    </div>
+                </div>
+                <div class="footer-box">
+                    <h3><span>framework</span></h3>
+                    <div class="footer-links">
+                        <a href="bootstrap.html" title="go to bootstrap">bootstrap</a>
+                        <a href="Angular.html" title="go to angular">Angular</a>
+                        <a href="vue.js.html" title="go to react">react</a>
+                        <a href="vue.js.html" title="go to vuejs">vue.js</a>
+                    </div>
+                </div>
+                <div class="footer-box">
+                    <h3>Auxiliary <span>sites</span></h3>
+                    <div class="footer-links">
+                        <a href="git.html" title="go to git">git</a>
+                        <a href="github.html" title="go to github">github</a>
+                        <a href="WordPress.html" title="go to wordpress">wordpress</a>
+                    </div>
+                </div>
+            </section>
+
+            <!-- start btn scroll -->
+            <span class="fa fa-chevron-up arrow"></span>
+        </main>
+
+        <!-- link js -->
+        <script src="js/main.js"></script>
+    </body>
+</html>
