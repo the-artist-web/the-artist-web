@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1># Hello! I'm Mohamed yasser</h1>
 
-<!--
-**the-artist-web/the-artist-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>I'm 17 years old and I started programming when I was 15. I love all fields that involve <br>
+  design, but among them, I chose programming because it's the field that attracted me the most. <br>
+  I decided to learn and enhance my skills in it, and I've actually achieved most of what <br>
+  I needed, but I still aim to improve myself further. I won't stop here.</p>
 
-Here are some ideas to get you started:
+<h2>## My Skills</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>- HTML5</h3>
+<h3>- CSS3</h3>
+<h3>- JS</h3>
+<h3>- Bootstrap</h3>
+
+<h2>## How to Reach Me</h2>
+
+<p>You can contact me via email: <a target="_blank" href="mohamedyasserxd449@gamil.com">mohamedyasserxd449@gamil.com</a></p>
+
+## Social Media
+
+<p>You can also find me on social media platforms:</p>
+
+<p>- [Telegram] <a target="_blank" href="t.me/DEVELOPER.X">DEVELOPER.X</a></p>
+<p>- [LinkedIn] <a target="_blank" href="https://www.linkedin.com/in/mohamed-yasser-2706252aa/">https://www.linkedin.com/in/mohamed-yasser-2706252aa/</a></p>
+<p>- [watsapp] <a target="_blank" href="https://wa.me/+201064710784">https://wa.me/+201064710784</a></p>
+
+<p>Feel free to reach out to me through any of these channels!</p>
