@@ -1,6 +1,6 @@
-<h1># Hello! I'm Mohamed yasser</h1>
+<h1 align="center"># Hello! I'm Mohamed yasser</h1>
 
-<p>I'm 17 years old and I started programming when I was 15. I love all fields that involve <br>
+<p align="center">I'm 17 years old and I started programming when I was 15. I love all fields that involve <br>
   design, but among them, I chose programming because it's the field that attracted me the most. <br>
   I decided to learn and enhance my skills in it, and I've actually achieved most of what <br>
   I needed, but I still aim to improve myself further. I won't stop here.</p>
