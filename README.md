@@ -23,6 +23,6 @@ Social Media
 
 <p><i class="fa-brands fa-telegram"></i> <a target="_blank" href="t.me/DEVELOPER.X">DEVELOPER.X</a></p>
 <p>- [LinkedIn] <a target="_blank" href="https://www.linkedin.com/in/mohamed-yasser-2706252aa/">https://www.linkedin.com/in/mohamed-yasser-2706252aa/</a></p>
-<p>- [watsapp] <a target="_blank" href="https://wa.me/+201064710784">https://wa.me/+201064710784</a></p>
+<p>- [whatsapp] <a target="_blank" href="https://wa.me/+201064710784">https://wa.me/+201064710784</a></p>
 
 <p>Feel free to reach out to me through any of these channels!</p>
