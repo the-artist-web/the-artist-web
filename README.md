@@ -21,7 +21,7 @@ Social Media
 
 <p>You can also find me on social media platforms:</p>
 
-<p><i class="fa-brands fa-telegram"></i> <a target="_blank" href="t.me/DEVELOPER.X">DEVELOPER.X</a></p>
+<p>- [telegram] <a target="_blank" href="t.me/DEVELOPER.X">DEVELOPER.X</a></p>
 <p>- [LinkedIn] <a target="_blank" href="https://www.linkedin.com/in/mohamed-yasser-2706252aa/">https://www.linkedin.com/in/mohamed-yasser-2706252aa/</a></p>
 <p>- [whatsapp] <a target="_blank" href="https://wa.me/+201064710784">https://wa.me/+201064710784</a></p>
 
