@@ -16,7 +16,7 @@
 
 <h2>How to Reach Me</h2>
 
-<p>You can contact me via email: <a target="_blank" href="mohamedyasserxd449@gamil.com">mohamedyasserxd449@gamil.com</a></p>
+<p>You can contact me via email: <a target="_blank" href="mailto:mohamedyasserxd449@gamil.com">mohamedyasserxd449@gamil.com</a></p>
 
 Social Media
 
