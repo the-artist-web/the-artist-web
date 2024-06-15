@@ -13,6 +13,7 @@
 <h3>- JS</h3>
 <h3>- JSON</h3>
 <h3>- API</h3>
+<h3>- VUE.JS</h3>
 
 <h2>How to Reach Me</h2>
 
