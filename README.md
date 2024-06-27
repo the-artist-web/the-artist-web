@@ -11,6 +11,7 @@
 <h3>- CSS3</h3>
 <h3>- Bootstrap</h3>
 <h3>- JS</h3>
+<h3>- TS</h3>
 <h3>- JSON</h3>
 <h3>- API</h3>
 <h3>- VUE.JS</h3>
