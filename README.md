@@ -14,13 +14,17 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" alt="JSON" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Database-icon.svg" alt="Database" width="50"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/136/136525.png" alt="Database" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue.js" width="50"/>
 </p>
 
 <h2>How to Reach Me</h2>
 
-<p>You can contact me via email: <a target="_blank" href="mailto:mohamedyasserxd449@gamil.com">mohamedyasserxd449@gamil.com</a></p>
+<p>You can contact me via email: 
+  <a target="_blank" href="mailto:mohamedyasserxd449@gamil.com" style="background-color:#D14836; color:white; padding:10px; border-radius:5px; text-decoration:none;">
+    mohamedyasserxd449@gamil.com
+  </a>
+</p>
 
 <h2>Social Media</h2>
 
