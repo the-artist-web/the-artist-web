@@ -8,14 +8,14 @@
 <h2>My Skills</h2>
 
 <p align="left">
-  <img src="https://github.com/the-artist-web/the-artist-web/assets/162612001/386525f1-f904-497d-8ef1-0f3cbe562d8f" alt="HTML5" width="50"/>
-  <img src="https://github.com/the-artist-web/the-artist-web/assets/162612001/386525f1-f904-497d-8ef1-0f3cbe562d8f" alt="CSS3" width="50"/>
-  <img src="https://github.com/the-artist-web/the-artist-web/assets/162612001/386525f1-f904-497d-8ef1-0f3cbe562d8f" alt="Bootstrap" width="50"/>
-  <img src="https://github.com/the-artist-web/the-artist-web/assets/162612001/386525f1-f904-497d-8ef1-0f3cbe562d8f" alt="JavaScript" width="50"/>
-  <img src="https://github.com/the-artist-web/the-artist-web/assets/162612001/386525f1-f904-497d-8ef1-0f3cbe562d8f" alt="TypeScript" width="50"/>
-  <img src="https://github.com/the-artist-web/the-artist-web/assets/162612001/386525f1-f904-497d-8ef1-0f3cbe562d8f" alt="JSON" width="50"/>
-  <img src="https://github.com/the-artist-web/the-artist-web/assets/162612001/386525f1-f904-497d-8ef1-0f3cbe562d8f" alt="API" width="50"/>
-  <img src="https://github.com/the-artist-web/the-artist-web/assets/162612001/386525f1-f904-497d-8ef1-0f3cbe562d8f" alt="Vue.js" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" alt="JSON" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Api.svg" alt="API" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue.js" width="50"/>
 </p>
 
 <h2>How to Reach Me</h2>
@@ -26,8 +26,16 @@
 
 <p>You can also find me on social media platforms:</p>
 
-<p>- <a target="_blank" href="https://www.linkedin.com/in/mohamed-yasser-2706252aa/">LinkedIn</a></p>
-<p>- <a target="_blank" href="https://wa.me/+201064710784">WhatsApp</a></p>
+<p>
+  <a target="_blank" href="https://www.linkedin.com/in/mohamed-yasser-2706252aa/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/> LinkedIn
+  </a>
+</p>
+
+<p>
+  <a target="_blank" href="https://wa.me/+201064710784">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="20"/> WhatsApp
+  </a>
+</p>
 
 <p>Feel free to reach out to me through any of these channels!</p>
-
