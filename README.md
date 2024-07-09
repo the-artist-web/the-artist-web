@@ -14,7 +14,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" alt="JSON" width="50"/>
-  <img src="https://avatars.githubusercontent.com/u/1335026?s=200&v=4" alt="API" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Database-icon.svg" alt="Database" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue.js" width="50"/>
 </p>
 
@@ -30,21 +30,12 @@
   <a target="_blank" href="https://www.linkedin.com/in/mohamed-yasser-2706252aa/">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</p>
-
-<p>
   <a target="_blank" href="https://wa.me/+201064710784">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-</p>
-
-<p>
   <a target="_blank" href="https://www.instagram.com/the_artists_web">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-</p>
-
-<p>
   <a target="_blank" href="https://www.youtube.com/@theartistweb">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
