@@ -21,7 +21,7 @@
 <h2>How to Reach Me</h2>
 
 <p>You can contact me via email: 
-  <a target="_blank" href="mailto:mohamedyasserxd449@gamil.com" style="background-image: url('https://img.icons8.com/fluent/48/000000/email-open.png'); background-size: contain; background-repeat: no-repeat; display: inline-block; padding: 15px 20px; color: transparent;">
+  <a target="_blank" href="mailto:mohamedyasserxd449@gamil.com" style="background-color:#D14836; color:white; padding:10px; border-radius:5px; text-decoration:none;">
     mohamedyasserxd449@gamil.com
   </a>
 </p>
