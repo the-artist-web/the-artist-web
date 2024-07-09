@@ -14,7 +14,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" alt="JSON" width="50"/>
-  <img src="https://cdn-icons-png.flaticon.com/512/136/136525.png" alt="Database" width="50"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hiclipart.com%2Fsearch%3Fclipart%3Dapi%2BIcon&psig=AOvVaw2YyzWEm3T2iSvCcREMF4u6&ust=1720573756056000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjJ3-_imIcDFQAAAAAdAAAAABAE" alt="Database" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue.js" width="50"/>
 </p>
 
