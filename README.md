@@ -27,26 +27,26 @@
 <p>You can also find me on social media platforms:</p>
 
 <p>
-  <a target="_blank" href="https://www.linkedin.com/in/mohamed-yasser-2706252aa/" style="background-color:#0077b5; color:white; padding:10px; border-radius:5px; text-decoration:none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/> LinkedIn
+  <a target="_blank" href="https://www.linkedin.com/in/mohamed-yasser-2706252aa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 <p>
-  <a target="_blank" href="https://wa.me/+201064710784" style="background-color:#25D366; color:white; padding:10px; border-radius:5px; text-decoration:none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="20"/> WhatsApp
+  <a target="_blank" href="https://wa.me/+201064710784">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
 
 <p>
-  <a target="_blank" href="https://www.instagram.com/the_artists_web" style="background-color:#E4405F; color:white; padding:10px; border-radius:5px; text-decoration:none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="20"/> Instagram
+  <a target="_blank" href="https://www.instagram.com/the_artists_web">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
 <p>
-  <a target="_blank" href="https://www.youtube.com/@theartistweb" style="background-color:#FF0000; color:white; padding:10px; border-radius:5px; text-decoration:none;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="20"/> YouTube
+  <a target="_blank" href="https://www.youtube.com/@theartistweb">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
 
