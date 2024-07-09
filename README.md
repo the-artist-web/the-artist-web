@@ -31,17 +31,17 @@
 <p>You can also find me on social media platforms:</p>
 
 <p>
-  <a target="_blank" href="https://www.linkedin.com/in/mohamed-yasser-2706252aa/" style="background-image: url('https://img.icons8.com/color/48/000000/linkedin.png'); background-size: contain; background-repeat: no-repeat; display: inline-block; padding: 15px 20px; color: transparent;">
-    LinkedIn
+  <a target="_blank" href="https://www.linkedin.com/in/mohamed-yasser-2706252aa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a target="_blank" href="https://wa.me/+201064710784" style="background-image: url('https://img.icons8.com/color/48/000000/whatsapp--v1.png'); background-size: contain; background-repeat: no-repeat; display: inline-block; padding: 15px 20px; color: transparent;">
-    WhatsApp
+  <a target="_blank" href="https://wa.me/+201064710784">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a target="_blank" href="https://www.instagram.com/the_artists_web" style="background-image: url('https://img.icons8.com/color/48/000000/instagram-new--v1.png'); background-size: contain; background-repeat: no-repeat; display: inline-block; padding: 15px 20px; color: transparent;">
-    Instagram
+  <a target="_blank" href="https://www.instagram.com/the_artists_web">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a target="_blank" href="https://www.youtube.com/@theartistweb" style="background-image: url('https://img.icons8.com/color/48/000000/youtube-play.png'); background-size: contain; background-repeat: no-repeat; display: inline-block; padding: 15px 20px; color: transparent;">
-    YouTube
+  <a target="_blank" href="https://www.youtube.com/@theartistweb">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
 
