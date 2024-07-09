@@ -38,4 +38,16 @@
   </a>
 </p>
 
+<p>
+  <a target="_blank" href="https://www.instagram.com/the_artists_web">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="20"/> Instagram
+  </a>
+</p>
+
+<p>
+  <a target="_blank" href="https://www.youtube.com/@theartistweb">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="20"/> YouTube
+  </a>
+</p>
+
 <p>Feel free to reach out to me through any of these channels!</p>
