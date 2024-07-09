@@ -21,8 +21,8 @@
 <h2>How to Reach Me</h2>
 
 <p>You can contact me via email: 
-  <a target="_blank" href="mailto:mohamedyasserxd449@gmail.com" style="background-color:#D14836; color:white; padding:10px; border-radius:5px; text-decoration:none;">
-    mohamedyasserxd449@gmail.com
+  <a target="_blank" href="mailto:mohamedyasserxd449@gamil.com" style="background-color:#D14836; color:white; padding:10px; border-radius:5px; text-decoration:none;">
+    mohamedyasserxd449@gamil.com
   </a>
 </p>
 
@@ -31,17 +31,17 @@
 <p>You can also find me on social media platforms:</p>
 
 <p>
-  <a target="_blank" href="https://www.linkedin.com/in/mohamed-yasser-2706252aa/" style="background-color:#0077b5; color:white; padding:10px; border-radius:5px; text-decoration:none;">
-    LinkedIn
+  <a target="_blank" href="https://www.linkedin.com/in/mohamed-yasser-2706252aa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a target="_blank" href="https://wa.me/+201064710784" style="background-color:#25D366; color:white; padding:10px; border-radius:5px; text-decoration:none;">
-    WhatsApp
+  <a target="_blank" href="https://wa.me/+201064710784">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a target="_blank" href="https://www.instagram.com/the_artists_web" style="background-color:#E4405F; color:white; padding:10px; border-radius:5px; text-decoration:none;">
-    Instagram
+  <a target="_blank" href="https://www.instagram.com/the_artists_web">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a target="_blank" href="https://www.youtube.com/@theartistweb" style="background-color:#FF0000; color:white; padding:10px; border-radius:5px; text-decoration:none;">
-    YouTube
+  <a target="_blank" href="https://www.youtube.com/@theartistweb">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
 
