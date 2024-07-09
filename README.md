@@ -13,8 +13,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" alt="JSON" width="50"/>
   <img src="https://cdn-icons-png.flaticon.com/512/136/136525.png" alt="Database" width="50"/>
+  <img src="https://github.com/the-artist-web/the-artist-web/assets/162612001/005a84b0-434d-4051-bc94-21f6d21e2dbc" alt="API" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="Vue.js" width="50"/>
 </p>
 
