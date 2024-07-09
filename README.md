@@ -27,25 +27,25 @@
 <p>You can also find me on social media platforms:</p>
 
 <p>
-  <a target="_blank" href="https://www.linkedin.com/in/mohamed-yasser-2706252aa/">
+  <a target="_blank" href="https://www.linkedin.com/in/mohamed-yasser-2706252aa/" style="background-color:#0077b5; color:white; padding:10px; border-radius:5px; text-decoration:none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20"/> LinkedIn
   </a>
 </p>
 
 <p>
-  <a target="_blank" href="https://wa.me/+201064710784">
+  <a target="_blank" href="https://wa.me/+201064710784" style="background-color:#25D366; color:white; padding:10px; border-radius:5px; text-decoration:none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" width="20"/> WhatsApp
   </a>
 </p>
 
 <p>
-  <a target="_blank" href="https://www.instagram.com/the_artists_web">
+  <a target="_blank" href="https://www.instagram.com/the_artists_web" style="background-color:#E4405F; color:white; padding:10px; border-radius:5px; text-decoration:none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="20"/> Instagram
   </a>
 </p>
 
 <p>
-  <a target="_blank" href="https://www.youtube.com/@theartistweb">
+  <a target="_blank" href="https://www.youtube.com/@theartistweb" style="background-color:#FF0000; color:white; padding:10px; border-radius:5px; text-decoration:none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="20"/> YouTube
   </a>
 </p>
