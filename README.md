@@ -44,6 +44,9 @@
   <a target="_blank" href="https://www.youtube.com/@theartistweb">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
+  <a target="_blank" href="https://www.facebook.com/profile.php?id=100013677881896">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
 </p>
 
 <p>Feel free to reach out to me through any of these channels!</p>
