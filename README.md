@@ -15,7 +15,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="60" height="60"/>
   <img src="https://cdn-icons-png.flaticon.com/512/136/136525.png" alt="Database" width="60" height="60"/>
   <img src="https://img.icons8.com/ios-filled/50/000000/database-restore.png" alt="API" width="60" height="60"/>
-  <img src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dreact&psig=AOvVaw33LiD8AOKHWWcb8NVUKDHM&ust=1726029962390000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDr9-fIt4gDFQAAAAAdAAAAABAE" alt="React.js" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" width="60" height="60"/>
 </p>
 
 <h2>How to Reach Me</h2>
