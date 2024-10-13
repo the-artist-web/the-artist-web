@@ -14,7 +14,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="60" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="60" height="60"/>
   <img src="https://cdn-icons-png.flaticon.com/512/136/136525.png" alt="Database" width="60" height="60"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/database-restore.png" alt="API" width="60" height="60"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" width="60" height="60"/>
 </p>
 
