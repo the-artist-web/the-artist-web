@@ -1,36 +1,53 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<h1 align="center">Hello! I'm Mohamed Yasser</h1>
 
-## Getting Started
+<p align="center">I'm 17 years old and I started programming when I was 15. I love all fields that involve 
+  design, but among them, I chose programming because it's the field that attracted me the most. 
+  I decided to learn and enhance my skills in it, and I've actually achieved most of what 
+  I needed, but I still aim to improve myself further. I won't stop here.</p>
 
-First, run the development server:
+<h2>My Skills</h2>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="75" height="75"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="75" height="75"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" alt="SCSS" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="Bootstrap" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="60" height="60"/>
+</p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<h2>How to Reach Me</h2>
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+<p>
+  You can contact me via email:<br>
+  <a target="_blank" href="mailto:teamtheartistweb@gmail.com" style="background-image: url('https://img.icons8.com/fluent/48/000000/email-open.png'); background-size: contain; background-repeat: no-repeat; display: inline-block; padding: 10px 40px 10px 20px; border-radius: 5px; text-decoration: none; color: white; background-color: #D14836;">
+    teamtheartistweb@gmail.com
+  </a>
+</p>
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+<h2>Social Media</h2>
 
-## Learn More
+<p>You can also find me on social media platforms:</p>
 
-To learn more about Next.js, take a look at the following resources:
+<p>
+  <a target="_blank" href="https://www.linkedin.com/in/mohamed-yasser-2706252aa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a target="_blank" href="https://wa.me/message/YEX6SYAH54GFC1">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a target="_blank" href="https://www.instagram.com/the_artists_web">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a target="_blank" href="https://www.youtube.com/@theartistweb">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+  <a target="_blank" href="https://www.facebook.com/profile.php?id=100013677881896">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</p>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<p>Feel free to reach out to me through any of these channels!</p>

@@ -1,0 +1,69 @@
+/* ---------------------------------------------------- *\
+ * TYPOGRAPHY
+\* ---------------------------------------------------- */
+
+.display-large {
+    font-size: var(--fs-display-large);
+    font-weight: var(--weight-medium);
+    letter-spacing: 0.5px;
+}
+
+.display-medium {
+    font-size: var(--fs-display-medium);
+    font-weight: var(--weight-medium);
+    letter-spacing: 0.5px;
+}
+
+.display-small {
+    font-size: var(--fs-display-small);
+    font-weight: var(--weight-regular);
+    letter-spacing: 0.5px;
+}
+
+.headline-small {
+    font-size: var(--fs-headline-small);
+    font-weight: var(--weight-regular);
+    letter-spacing: 0.5px;
+}
+
+.title-medium {
+    font-size: var(--fs-title-medium);
+    font-weight: var(--weight-medium);
+    letter-spacing: 0.5px;
+}
+
+.title-small {
+    font-size: var(--fs-title-small);
+    font-weight: var(--weight-regular);
+    letter-spacing: 0.5px;
+}
+
+.body-large {
+    font-size: var(--fs-body-large);
+    font-weight: var(--weight-medium);
+    letter-spacing: 0.5px;
+}
+
+.body-medium {
+    font-size: var(--fs-body-medium);
+    font-weight: var(--weight-medium);
+    letter-spacing: 0.5px;
+}
+
+.label-large {
+    font-size: var(--fs-label-large);
+    font-weight: var(--weight-medium);
+    letter-spacing: 0.5px;
+}
+
+.label-medium {
+    font-size: var(--fs-label-medium);
+    font-weight: var(--weight-medium);
+    letter-spacing: 0.5px;
+}
+
+.label-small {
+    font-size: var(--fs-label-small);
+    font-weight: var(--weight-regular);
+    letter-spacing: 0.5px;
+}

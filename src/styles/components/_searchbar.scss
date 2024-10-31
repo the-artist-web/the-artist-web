@@ -1,0 +1,50 @@
+/* ---------------------------------------------------- *\
+ * SEARCHBAR
+\* ---------------------------------------------------- */
+
+.searchbar {
+    .modal-content {
+        background-color: var(--bg-color) !important;
+    }
+
+    .modal-header {
+        border-bottom: 2px solid var(--border-color) !important;
+        height: 60px !important;
+
+        .close-searchbar {
+            color: var(--second-color);
+            transition: 0.4s;
+
+            &:hover {
+                color: var(--text-color);
+                transition: 0.4s;
+            }
+        }
+    }
+
+    .modal-body {
+        .text-search { min-height: 300px; }
+
+        .searchbar-link {
+            border-left: 2px solid var(--second-color);
+            color: var(--second-color);
+            height: max-content;
+            padding: 12px 20px;
+            transition: 0.4s;
+
+            &:hover {
+                border-left: 2px solid var(--text-color);
+                background-color: var(--border-color);
+                color: var(--text-color);
+                transition: 0.4s;
+            }
+        }
+    }
+
+    .modal-footer {
+        border-top: 2px solid var(--border-color) !important;
+        height: 60px !important;
+
+        .copyright { color: var(--second-color); }
+    }
+}

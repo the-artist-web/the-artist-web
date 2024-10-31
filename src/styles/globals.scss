@@ -1,0 +1,31 @@
+// style guid
+@use "./style-guid";
+
+// layout
+@use "./layout";
+
+// typography
+@use "./typography";
+
+// dublicate items
+@use "./dublicateItem";
+
+// utilities
+@use "./utilities";
+
+// components
+@use "./components/navbar";
+@use "./components/navbar-docs";
+@use "./components/aside";
+@use "./components/searchbar";
+@use "./components/slider-docs";
+@use "./components/footer";
+
+// pages
+@use "./pages/home";
+@use "./pages/cv";
+@use "./pages/blog";
+@use "./pages/showcase";
+
+// media query
+@use "./media-query";

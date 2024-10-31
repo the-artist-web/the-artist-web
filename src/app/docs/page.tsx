@@ -4,15 +4,15 @@ import Aside from "@/components/Aside";
 import Searchbar from "@/components/Searchbar";
 import Footer from "@/components/Footer";
 
-const Home = () => {
+const Docs = () => {
   return (
     <>
       <Navbar />
       <Aside />
-      <Searchbar file="Skills.json" />
+      <Searchbar file="Sliderbar-html.json" />
       <main className="main">
         <article>
-          Body Home
+          Body Docs
 
           <Footer />
         </article>
@@ -21,4 +21,4 @@ const Home = () => {
   )
 }
 
-export default Home
+export default Docs

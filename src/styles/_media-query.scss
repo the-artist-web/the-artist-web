@@ -1,0 +1,57 @@
+/* ---------------------------------------------------- *\
+ * MEDIA QUERY
+\* ---------------------------------------------------- */
+
+/**
+ * FIT SIZE: 768PX
+ */
+@media screen and (min-width: 768px) {
+    /* STYLE GUIDE */
+    :root {
+      --fs-display-large: 3.6rem;
+      --fs-display-medium: 3.6rem;
+      --fs-display-small: 3rem;
+    }
+}
+
+/**
+ * FIT SIZE: 992px
+ */
+@media screen and (min-width: 992px) {
+    /* STYLE GUIDE */
+    :root {
+        --header-height: 72px;
+        --mobile-nav-height: 0;
+    }
+
+    // ASIDE
+    .aside {
+        max-width: 110px;
+        .aside-list {
+            .aside-link { width: 110px; }
+        }
+
+        .btn-group {
+            .open-dropmenu { width: 110px; }
+        }
+    }
+
+    // HOME PAGE
+    .main {
+        width: calc(100% - 160px);
+        position: relative;
+        left: 160px;
+    }
+}
+
+/**
+ * FIT SIZE: 1320px
+ */
+@media screen and (min-width: 1320px) {
+    /* STYLE GUIDE */
+    :root {
+        --fs-display-large: 5.7rem;
+        --fs-display-medium: 4.5rem;
+        --fs-display-small: 3.6rem;
+    }
+}

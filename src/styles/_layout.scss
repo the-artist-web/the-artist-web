@@ -1,0 +1,66 @@
+/* ---------------------------------------------------- *\
+ * LAYOUT
+\* ---------------------------------------------------- */
+
+li { list-style: none; }
+
+a,
+img,
+span,
+input,
+button,
+textarea { display: block; }
+
+a {
+    font-family: var(--font-family);
+    color: var(--text-color);
+    text-decoration: none;
+}
+
+img { height: auto; }
+
+input,
+button,
+textarea {
+    font-family: var(--font-family);
+    background: none;
+    border: none;
+}
+
+input,
+textarea {
+    outline: none;
+    width: 100%;
+}
+
+input { &::placeholder { color: var(--second-color); } }
+
+textarea { &::placeholder { color: var(--second-color); } }
+
+button { cursor: pointer; }
+
+html { scroll-behavior: smooth; }
+
+body {
+    font-family: var(--font-family);
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    font-size: var(--fs-base);
+    font-weight: normal;
+    display: flex;
+    flex-direction: column;
+}
+
+::-webkit-scrollbar {
+    height: 10px;
+    width: 10px;
+}
+
+::-webkit-scrollbar-track { background-color: var(--bg-color); }
+
+::-webkit-scrollbar-thumb {
+    background-color: var(--second-bg-color);
+    border-radius: 1000px;
+}
+
+::-webkit-scrollbar-thumb:hover { background-color: var(--second-color); }

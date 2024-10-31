@@ -4,7 +4,7 @@ import Aside from "@/components/Aside";
 import Searchbar from "@/components/Searchbar";
 import Footer from "@/components/Footer";
 
-const Home = () => {
+const Blog = () => {
   return (
     <>
       <Navbar />
@@ -12,7 +12,7 @@ const Home = () => {
       <Searchbar file="Skills.json" />
       <main className="main">
         <article>
-          Body Home
+          Body Blog
 
           <Footer />
         </article>
@@ -21,4 +21,4 @@ const Home = () => {
   )
 }
 
-export default Home
+export default Blog
