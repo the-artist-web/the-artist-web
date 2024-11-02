@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "bootstrap": "^5.3.3",
+    "gsap": "^3.12.5",
     "gsap-trial": "^3.12.5",
     "next": "15.0.1",
     "prismjs": "^1.29.0",

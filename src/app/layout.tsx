@@ -6,6 +6,7 @@ import { useEffect } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 // custom css link
 import '@/styles/globals.css';
+import "@/styles/globals-rtl.css"
 
 export default function RootLayout({
   children,

@@ -8,15 +8,17 @@
   --dark-bg-color: #0f0f11;
   --dark-second-bg-color: #413e46;
   --dark-text-color: #ffffff;
-  --dark-red-color: #bc2634;
-  --dark-yellow-color: #f8ac33;
+  --dark-red-color: #f60849;
+  --dark-rosy-color: #f731c1;
+  --dark-purple-color: #9219f0;
   --dark-second-color: #7e7b83;
   --dark-border-color: #222024;
   --light-bg-color: #ffffff;
   --light-second-bg-color: #dfdfdf;
   --light-text-color: #000000;
-  --light-red-color: #bc2634;
-  --light-yellow-color: #f8ac33;
+  --light-red-color: #f60849;
+  --light-rosy-color: #f731c1;
+  --light-purple-color: #9219f0;
   --light-second-color: #97939d;
   --light-border-color: #ededed;
   /**
@@ -34,8 +36,8 @@
   --fs-label-large: 1.4rem;
   --fs-label-medium: 1.2rem;
   --fs-label-small: 1.1rem;
-  --weight-regular: 400;
-  --weight-medium: 500;
+  --weight-regular: 500;
+  --weight-medium: 600;
   /**
    * Border Radius
    */
@@ -55,7 +57,8 @@
   --second-bg-color: var(--dark-second-bg-color);
   --text-color: var(--dark-text-color);
   --red-color: var(--dark-red-color);
-  --yellow-color: var(--dark-yellow-color);
+  --rosy-color: var(--dark-rosy-color);
+  --purple-color: var(--dark-purple-color);
   --second-color: var(--dark-second-color);
   --border-color: var(--dark-border-color);
 }
@@ -66,7 +69,8 @@
   --second-bg-color: var(--light-second-bg-color);
   --text-color: var(--light-text-color);
   --red-color: var(--light-red-color);
-  --yellow-color: var(--light-yellow-color);
+  --rosy-color: var(--light-rosy-color);
+  --purple-color: var(--light-purple-color);
   --second-color: var(--light-second-color);
   --border-color: var(--light-border-color);
 }
@@ -236,7 +240,7 @@ body {
  * DUBLICATE ITEMS
 \* ---------------------------------------------------- */
 .section {
-  padding-block: 0 60px;
+  padding-block: 60px;
 }
 
 .container {
@@ -361,12 +365,6 @@ body {
   max-width: 80px;
   height: 100vh;
 }
-.aside.show {
-  position: fixed !important;
-  bottom: 0 !important;
-  left: 0 !important;
-  top: 0 !important;
-}
 .aside .close-aside {
   padding: 20px 0;
   color: var(--text-color) !important;
@@ -386,10 +384,6 @@ body {
 }
 .aside .aside-list .aside-link.active {
   border-left: 4px solid var(--text-color);
-}
-.aside .aside-list .aside-link [dir=rtl].active {
-  border-left: transparent;
-  border-right: 4px solid var(--text-color);
 }
 .aside .aside-list .aside-link .img-logo {
   min-width: 40px;
@@ -492,12 +486,134 @@ body {
 /* ---------------------------------------------------- *\
  * FOOTER
 \* ---------------------------------------------------- */
+.footer {
+  padding-block: 0 60px;
+}
+.footer .footer-top {
+  padding-block: 0 35px;
+}
+.footer .footer-top .container .footer-list .footer-link {
+  color: var(--second-color);
+  transition: 0.4s;
+}
+.footer .footer-top .container .footer-list .footer-link:hover {
+  color: var(--text-color);
+  transition: 0.4s;
+}
+.footer .footer-bottom .container .copyright {
+  font-size: 14px;
+}
+
 /* ---------------------------------------------------- *\
- * HOME PAGE
+ * HOME
 \* ---------------------------------------------------- */
-[dir=rtl] .main {
-  right: 160px;
-  left: auto;
+.home {
+  padding-block: 0 60px;
+  height: 100vh;
+}
+.home .container {
+  height: 100vh;
+}
+.home .text-home {
+  font-weight: 900;
+  background: linear-gradient(90deg, var(--red-color) 0%, var(--rosy-color) 50%, var(--purple-color) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+  animation: text_home 5s linear infinite;
+}
+@keyframes text_home {
+  0% {
+    background: linear-gradient(40deg, var(--red-color) 0%, var(--rosy-color) 50%, var(--purple-color) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+  }
+  25% {
+    background: linear-gradient(90deg, var(--red-color) 0%, var(--rosy-color) 50%, var(--purple-color) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+  }
+  50% {
+    background: linear-gradient(180deg, var(--red-color) 0%, var(--rosy-color) 50%, var(--purple-color) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+  }
+  75% {
+    background: linear-gradient(90deg, var(--red-color) 0%, var(--rosy-color) 50%, var(--purple-color) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+  }
+  100% {
+    background: linear-gradient(40deg, var(--red-color) 0%, var(--rosy-color) 50%, var(--purple-color) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+  }
+}
+.home .btn-home {
+  border: 2px solid transparent;
+  -o-border-image: linear-gradient(90deg, var(--red-color), var(--rosy-color), var(--purple-color)) 1;
+     border-image: linear-gradient(90deg, var(--red-color), var(--rosy-color), var(--purple-color)) 1;
+  padding: 13px 35px;
+  background-color: transparent;
+  color: var(--text-color);
+  position: fixed;
+  left: 50%;
+  bottom: 80px;
+  transform: translateX(-50%);
+  transition: 0.4s;
+}
+.home .btn-home.active {
+  opacity: 0;
+  transition: 0.4s;
+}
+.home .btn-home:hover {
+  background: linear-gradient(90deg, var(--red-color) 0%, var(--rosy-color) 50%, var(--purple-color) 100%);
+  color: var(--bg-color);
+  transition: 0.4s;
+}
+.home .arrow-bottom {
+  position: fixed;
+  left: 50%;
+  bottom: 20px;
+  transform: translateX(-50%);
+  transition: 0.4s;
+}
+.home .arrow-bottom.active {
+  opacity: 0;
+  transition: 0.4s;
+}
+
+/* ---------------------------------------------------- *\
+ * SKILLS
+\* ---------------------------------------------------- */
+.skills .container .card-skill {
+  background-color: var(--bg-color) !important;
+  border: 2px solid var(--border-color) !important;
+  color: var(--text-color);
+  padding: 20px;
+  height: 100%;
+  transition: 0.4s;
+}
+.skills .container .card-skill:hover {
+  background-color: var(--border-color) !important;
+  transition: 0.4s;
+}
+.skills .container .card-skill .img-card {
+  min-width: 80px;
+  max-width: 80px;
+  min-height: 80px;
+  max-height: 80px;
 }
 
 /* ---------------------------------------------------- *\
@@ -518,7 +634,7 @@ body {
 @media screen and (min-width: 768px) {
   /* STYLE GUIDE */
   :root {
-    --fs-display-large: 3.6rem;
+    --fs-display-large: 6rem;
     --fs-display-medium: 3.6rem;
     --fs-display-small: 3rem;
   }
@@ -529,11 +645,20 @@ body {
 @media screen and (min-width: 992px) {
   /* STYLE GUIDE */
   :root {
+    --fs-display-large: 8rem;
     --header-height: 72px;
     --mobile-nav-height: 0;
   }
+  .container {
+    margin-inline: 0;
+  }
   .aside {
     max-width: 110px;
+    transform: none !important;
+    visibility: visible !important;
+  }
+  .aside.show {
+    transform: none;
   }
   .aside .aside-list .aside-link {
     width: 110px;
@@ -553,7 +678,7 @@ body {
 @media screen and (min-width: 1320px) {
   /* STYLE GUIDE */
   :root {
-    --fs-display-large: 5.7rem;
+    --fs-display-large: 10rem;
     --fs-display-medium: 4.5rem;
     --fs-display-small: 3.6rem;
   }

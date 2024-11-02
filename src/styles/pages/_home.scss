@@ -1,10 +1,128 @@
 /* ---------------------------------------------------- *\
- * HOME PAGE
+ * HOME
 \* ---------------------------------------------------- */
 
-[dir="rtl"] {
-    .main {
-        right: 160px;
-        left: auto;
+.home {
+    padding-block: 0 60px;
+    height: 100vh;
+
+    .container { height: 100vh; }
+
+    .text-home {
+        font-weight: 900;
+        background: linear-gradient(90deg, var(--red-color) 0%, var(--rosy-color) 50%, var(--purple-color) 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        text-fill-color: transparent;
+        animation: text_home 5s linear infinite;
+    
+        @keyframes text_home {
+            0% {
+                background: linear-gradient(40deg, var(--red-color) 0%, var(--rosy-color) 50%, var(--purple-color) 100%);
+                -webkit-background-clip: text;
+                -webkit-text-fill-color: transparent;
+                background-clip: text;
+                text-fill-color: transparent;
+            }
+    
+            25% {
+                background: linear-gradient(90deg, var(--red-color) 0%, var(--rosy-color) 50%, var(--purple-color) 100%);
+                -webkit-background-clip: text;
+                -webkit-text-fill-color: transparent;
+                background-clip: text;
+                text-fill-color: transparent;
+            }
+    
+            50% {
+                background: linear-gradient(180deg, var(--red-color) 0%, var(--rosy-color) 50%, var(--purple-color) 100%);
+                -webkit-background-clip: text;
+                -webkit-text-fill-color: transparent;
+                background-clip: text;
+                text-fill-color: transparent;
+            }
+    
+            75% {
+                background: linear-gradient(90deg, var(--red-color) 0%, var(--rosy-color) 50%, var(--purple-color) 100%);
+                -webkit-background-clip: text;
+                -webkit-text-fill-color: transparent;
+                background-clip: text;
+                text-fill-color: transparent;
+            }
+    
+            100% {
+                background: linear-gradient(40deg, var(--red-color) 0%, var(--rosy-color) 50%, var(--purple-color) 100%);
+                -webkit-background-clip: text;
+                -webkit-text-fill-color: transparent;
+                background-clip: text;
+                text-fill-color: transparent;
+            }
+        }
+    }
+    
+    .btn-home {
+        border: 2px solid transparent;
+        border-image: linear-gradient(90deg, var(--red-color), var(--rosy-color), var(--purple-color)) 1;
+        padding: 13px 35px;
+        background-color: transparent;
+        color: var(--text-color);
+        position: fixed;
+        left: 50%;
+        bottom: 80px;
+        transform: translateX(-50%);
+        transition: 0.4s;
+
+        &.active {
+            opacity: 0;
+            transition: 0.4s;
+        }
+
+        &:hover {
+            background: linear-gradient(90deg, var(--red-color) 0%, var(--rosy-color) 50%, var(--purple-color) 100%);
+            color: var(--bg-color);
+            transition: 0.4s;
+        }
+    }
+
+    .arrow-bottom {
+        position: fixed;
+        left: 50%;
+        bottom: 20px;
+        transform: translateX(-50%);
+        transition: 0.4s;
+
+        &.active {
+            opacity: 0;
+            transition: 0.4s;
+        }
+    }
+}
+
+/* ---------------------------------------------------- *\
+ * SKILLS
+\* ---------------------------------------------------- */
+
+.skills {
+    .container {
+        .card-skill {
+            background-color: var(--bg-color) !important;
+            border: 2px solid var(--border-color) !important;
+            color: var(--text-color);
+            padding: 20px;
+            height: 100%;
+            transition: 0.4s;
+
+            &:hover {
+                background-color: var(--border-color) !important;
+                transition: 0.4s;
+            }
+
+            .img-card {
+                min-width: 80px;
+                max-width: 80px;
+                min-height: 80px;
+                max-height: 80px;
+            }
+        }
     }
 }

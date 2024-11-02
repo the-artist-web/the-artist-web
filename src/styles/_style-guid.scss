@@ -11,8 +11,11 @@
     --dark-bg-color: #0f0f11;
     --dark-second-bg-color: #413e46;
     --dark-text-color: #ffffff;
-    --dark-red-color: #bc2634;
-    --dark-yellow-color: #f8ac33;
+
+    --dark-red-color: #f60849;
+    --dark-rosy-color: #f731c1;
+    --dark-purple-color: #9219f0;
+
     --dark-second-color: #7e7b83;
     --dark-border-color: #222024;
     
@@ -20,8 +23,9 @@
     --light-bg-color: #ffffff;
     --light-second-bg-color: #dfdfdf;
     --light-text-color: #000000;
-    --light-red-color: #bc2634;
-    --light-yellow-color: #f8ac33;
+    --light-red-color: #f60849;
+    --light-rosy-color: #f731c1;
+    --light-purple-color: #9219f0;
     --light-second-color: #97939d;
     --light-border-color: #ededed;
 
@@ -44,8 +48,8 @@
     --fs-label-small: 1.1rem;
 
     // Font weight
-    --weight-regular: 400;
-    --weight-medium: 500;
+    --weight-regular: 500;
+    --weight-medium: 600;
 
     /**
      * Border Radius
@@ -68,7 +72,8 @@
     --second-bg-color: var(--dark-second-bg-color);
     --text-color: var(--dark-text-color);
     --red-color: var(--dark-red-color);
-    --yellow-color: var(--dark-yellow-color);
+    --rosy-color: var(--dark-rosy-color);
+    --purple-color: var(--dark-purple-color);
     --second-color: var(--dark-second-color);
     --border-color: var(--dark-border-color);
 }
@@ -80,7 +85,8 @@
     --second-bg-color: var(--light-second-bg-color);
     --text-color: var(--light-text-color);
     --red-color: var(--light-red-color);
-    --yellow-color: var(--light-yellow-color);
+    --rosy-color: var(--light-rosy-color);
+    --purple-color: var(--light-purple-color);
     --second-color: var(--light-second-color);
     --border-color: var(--light-border-color);
 }

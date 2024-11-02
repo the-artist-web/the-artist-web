@@ -3,16 +3,10 @@
 import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { useEffect, useState } from "react";
+import { useEffect } from "react";
 
 const Aside = () => {
-  const [offCanvasClass, setOffCanvasClass] = useState("offcanvas-start");
   const pathname = usePathname();
-
-  useEffect(() => {
-    const HTML = document.documentElement as HTMLHtmlElement;
-    setOffCanvasClass(HTML.dir === "ltr" ? "offcanvas-start" : "offcanvas-end");
-  }, []);
 
   useEffect(() => {
     const open_navbar = document.querySelector("[data-open-navbar]") as HTMLButtonElement;
@@ -51,18 +45,8 @@ const Aside = () => {
     };
   }, []);
 
-  useEffect(() => {
-    const aside = document.querySelector("[data-aside]") as HTMLElement;
-
-    if (window.innerWidth >= 992) {
-      aside.classList.add("show");
-    } else {
-      aside.classList.remove("show");
-    };
-  }, []);
-
   return (
-    <aside className={`offcanvas ${offCanvasClass} aside d-flex flex-column align-self-center justify-content-between gap-3`} id="open-aside" data-bs-backdrop="false" data-aside>
+    <aside className={`offcanvas offcanvas-start aside d-flex flex-column align-self-center justify-content-between gap-3`} id="open-aside" data-bs-backdrop="false" data-aside>
       <button type="button" className="btn close-aside border-0 bg-transparent d-md-none title-medium" data-bs-dismiss="offcanvas" data-open-navbar>
         <i className="fa-solid fa-xmark"></i>
       </button>

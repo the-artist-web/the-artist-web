@@ -8,7 +8,7 @@
 @media screen and (min-width: 768px) {
     /* STYLE GUIDE */
     :root {
-      --fs-display-large: 3.6rem;
+      --fs-display-large: 6rem;
       --fs-display-medium: 3.6rem;
       --fs-display-small: 3rem;
     }
@@ -20,13 +20,24 @@
 @media screen and (min-width: 992px) {
     /* STYLE GUIDE */
     :root {
+        --fs-display-large: 8rem;
         --header-height: 72px;
         --mobile-nav-height: 0;
     }
 
+    // DUBLICATE ITEMS
+    .container { margin-inline: 0; }
+
     // ASIDE
     .aside {
         max-width: 110px;
+        transform: none !important;
+        visibility: visible !important;
+
+        &.show {
+            transform: none;
+        }
+
         .aside-list {
             .aside-link { width: 110px; }
         }
@@ -50,7 +61,7 @@
 @media screen and (min-width: 1320px) {
     /* STYLE GUIDE */
     :root {
-        --fs-display-large: 5.7rem;
+        --fs-display-large: 10rem;
         --fs-display-medium: 4.5rem;
         --fs-display-small: 3.6rem;
     }

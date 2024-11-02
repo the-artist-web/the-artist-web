@@ -1,3 +1,31 @@
 /* ---------------------------------------------------- *\
  * FOOTER
 \* ---------------------------------------------------- */
+
+.footer {
+    padding-block: 0 60px;
+
+    .footer-top {
+        padding-block: 0 35px;
+
+        .container {
+            .footer-list {
+                .footer-link {
+                    color: var(--second-color);
+                    transition: 0.4s;
+
+                    &:hover {
+                        color: var(--text-color);
+                        transition: 0.4s;
+                    }
+                }
+            }
+        }
+    }
+
+    .footer-bottom {
+        .container {
+            .copyright { font-size: 14px; }
+        }
+    }
+}

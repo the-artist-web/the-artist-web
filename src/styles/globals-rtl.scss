@@ -1,0 +1,54 @@
+/* ---------------------------------------------------- *\
+ * ASIDE
+\* ---------------------------------------------------- */
+
+html[dir="rtl"] .aside {
+    right: 0 !important;
+    left: auto;
+    transform: translateX(100%);
+    border-right: transparent !important;
+    border-left: 2px solid var(--border-color) !important;
+
+    .aside-list {
+        .aside-link {
+            &.active { 
+                border-left: transparent;
+                border-right: 4px solid var(--text-color);
+            }
+        }
+    }
+}
+
+/* ---------------------------------------------------- *\
+ * SEARCHBAR
+\* ---------------------------------------------------- */
+
+html[dir="rtl"] .searchbar {
+    .modal-body {
+        .searchbar-link {
+            border-left: transparent;
+            border-right: 2px solid var(--second-color);
+
+            &:hover {
+                border-left: transparent;
+                border-right: 2px solid var(--text-color);
+            }
+        }
+    }
+}
+
+/* ---------------------------------------------------- *\
+ * MEDIA QUERY
+\* ---------------------------------------------------- */
+
+/**
+ * FIT SIZE: 992px
+ */
+@media screen and (min-width: 992px) {
+    // HOME PAGE
+    .main {
+        width: calc(100% - 160px);
+        position: relative;
+        right: 160px;
+    }
+}
