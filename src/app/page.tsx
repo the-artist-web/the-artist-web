@@ -5,8 +5,6 @@ import { useEffect } from 'react';
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 
-gsap.registerPlugin(ScrollTrigger);
-
 // components
 import Navbar from "@/components/Navbar";
 import Aside from "@/components/Aside";
@@ -19,18 +17,22 @@ const Home = () => {
   }, []);
 
   useEffect(() => {
-    gsap.set("[data-gsap-title]", { perspective: 400 });
-    
-    gsap.from("[data-gsap-title]", {
-      duration: 0.8,
-      opacity: 0,
-      scale: 0,
-      y: 80,
-      rotationX: 360,
-      transformOrigin: "0% 50% -50",
-      ease: "back",
-      stagger: 0.5
-    });
+    if (typeof window !== 'undefined') {
+      gsap.registerPlugin(ScrollTrigger);
+      
+      gsap.set("[data-gsap-title]", { perspective: 400 });
+        
+      gsap.from("[data-gsap-title]", {
+        duration: 0.8,
+        opacity: 0,
+        scale: 0,
+        y: 80,
+        rotationX: 360,
+        transformOrigin: "0% 50% -50",
+        ease: "back",
+        stagger: 0.5
+      });
+    };
   }, []);
 
   useEffect(() => {

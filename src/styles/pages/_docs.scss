@@ -16,6 +16,20 @@
         }
 
         .description { padding-inline: 44px 0; }
+
+        .btn-element {
+            background-color: var(--second-bg-color);
+            color: var(--second-color);
+            width: 100%;
+            padding: 15px 20px;
+            transition: 0.4s;
+
+            &:hover {
+                background-color: var(--border-color);
+                color: var(--text-color);
+                transition: 0.4s;
+            }
+        }
     }
 }
 

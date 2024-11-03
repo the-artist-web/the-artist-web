@@ -1,13 +1,15 @@
 /* ---------------------------------------------------- *\
  * PRISMJS
 \* ---------------------------------------------------- */
-@import 'prismjs/themes/prism.css';
 pre {
   border: 2px solid var(--border-color) !important;
-  background-color: var(--bg-color) !important;
+  background-color: var(--second-bg-color) !important;
   border-radius: 12px !important;
   padding: 20px !important;
   direction: ltr;
+}
+pre::-webkit-scrollbar {
+  display: block;
 }
 pre code {
   font-size: var(--fs-label-small) !important;
@@ -34,14 +36,14 @@ pre code {
    * Colors
    */
   --dark-bg-color: #0f0f11;
-  --dark-second-bg-color: #413e46;
+  --dark-second-bg-color: #1c1c1c;
   --dark-text-color: #ffffff;
   --dark-main-color: #f731c1;
   --dark-red-color: #f60849;
   --dark-rosy-color: #f731c1;
   --dark-purple-color: #9219f0;
   --dark-second-color: #7e7b83;
-  --dark-border-color: #222024;
+  --dark-border-color: #28262a;
   --light-bg-color: #ffffff;
   --light-second-bg-color: #dfdfdf;
   --light-text-color: #000000;
@@ -190,7 +192,7 @@ body {
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: var(--second-bg-color);
+  background-color: var(--border-color);
   border-radius: 1000px;
 }
 
@@ -420,6 +422,7 @@ body {
 }
 .aside .aside-list .aside-link.active {
   border-left: 4px solid var(--text-color);
+  color: var(--text-color);
 }
 .aside .aside-list .aside-link .img-logo {
   min-width: 40px;
@@ -700,6 +703,18 @@ body {
 }
 .main-docs .docs-body .description {
   padding-inline: 44px 0;
+}
+.main-docs .docs-body .btn-element {
+  background-color: var(--second-bg-color);
+  color: var(--second-color);
+  width: 100%;
+  padding: 15px 20px;
+  transition: 0.4s;
+}
+.main-docs .docs-body .btn-element:hover {
+  background-color: var(--border-color);
+  color: var(--text-color);
+  transition: 0.4s;
 }
 
 .open-aside-docs {

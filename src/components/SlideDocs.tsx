@@ -5,16 +5,16 @@ import { usePathname } from "next/navigation";
 import { useEffect, useState } from "react";
 
 type TypeProps = {
-  file: string
-}
+  file: string;
+};
 
 type DataType = {
-  title: string,
+  title: string;
   items: {
-    name: string,
-    link: string
+    name: string;
+    link: string;
   }[]
-}
+};
 
 const Spinners = () => {
   return (
@@ -24,7 +24,7 @@ const Spinners = () => {
       </div>
     </div>
   );
-}
+};
 
 const SlideDocs = (props: TypeProps) => {
   const pathname = usePathname();

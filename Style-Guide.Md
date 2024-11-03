@@ -13,7 +13,7 @@ The designs were created to the following widths:
 ### Dark
 
 --dark-bg-color: #0f0f11;
---dark-second-bg-color: #413e46;
+--dark-second-bg-color: #1c1c1c;
 --dark-text-color: #ffffff;
 --dark-main-color: #f731c1;
 --dark-red-color: #f60849;

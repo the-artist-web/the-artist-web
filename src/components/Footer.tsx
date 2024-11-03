@@ -5,30 +5,32 @@ import { useEffect } from "react";
 import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 
-gsap.registerPlugin(ScrollTrigger);
-
 const Footer = () => {
   useEffect(() => {
-    gsap.set("[data-gsap-footer]", {
-      opacity: 0,
-      y: 100
-    });
-    
-    const animation = gsap.to("[data-gsap-footer]", {
-      opacity: 1,
-      y: 0,
-      stagger: 0.3,
-      scrollTrigger: {
-        trigger: "[data-gsap-footer]",
-        start: "top 75%",
-        end: "top 25%"
-      },
-      paused: true 
-    });
+    if (typeof window !== 'undefined') {
+      gsap.registerPlugin(ScrollTrigger);
 
-    return () => {
-      animation.kill();
-      ScrollTrigger.getAll().forEach(trigger => trigger.kill());
+      gsap.set("[data-gsap-footer]", {
+        opacity: 0,
+        y: 100
+      });
+      
+      const animation = gsap.to("[data-gsap-footer]", {
+        opacity: 1,
+        y: 0,
+        stagger: 0.3,
+        scrollTrigger: {
+          trigger: "[data-gsap-footer]",
+          start: "top 75%",
+          end: "top 25%"
+        },
+        paused: true 
+      });
+
+      return () => {
+        animation.kill();
+        ScrollTrigger.getAll().forEach(trigger => trigger.kill());
+      };
     };
   }, []);
 

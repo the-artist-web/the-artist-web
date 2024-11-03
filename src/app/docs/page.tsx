@@ -3,9 +3,7 @@
 import { useEffect } from "react";
 
 // Prism
-import Prism from 'prismjs';
-import 'prismjs/themes/prism.css';
-import('prismjs/themes/prism-okaidia.css');
+import 'prismjs/themes/prism-okaidia.css';
 
 // components
 import Navbar from "@/components/Navbar";
@@ -15,7 +13,7 @@ import Searchbar from "@/components/Searchbar";
 import Footer from "@/components/Footer";
 
 const htmlCode = `<!DOCTYPE html>
-  <html>
+<html>
   <head>
     <title>Page Title</title>
   </head>
@@ -124,6 +122,8 @@ export default function Home() {
 const Docs = () => {
   useEffect(() => {
     document.title = "docs | the artist web";
+    
+    const Prism = require('prismjs');
     Prism.highlightAll();
   }, []);
 
@@ -131,7 +131,7 @@ const Docs = () => {
     <>
       <Navbar />
       <Aside />
-      <SlideDocs file="none" />
+      <SlideDocs file="Sliderbar-html.json" />
       <Searchbar file="Sliderbar-html.json" />
       
       <main className="main-docs">
@@ -142,9 +142,9 @@ const Docs = () => {
 
               <h1 className="text-capitalize mb-3 headline-small">the artist web</h1>
               
-              <p className="text-second label-small">a platform dedicated to showcasing my front-end development skills in <span className="text-main">HTML</span>, <span className="text-main">CSS</span>, <span className="text-main">Sass</span>, <span className="text-main">Bootstrap</span>, <span className="text-main">JavaScript</span>, <span className="text-main">TypeScript</span>, <span className="text-main">JSON</span>, <span className="text-main">React.js</span>, <span className="text-main">Next.js</span>, <span className="text-main">Git</span>, and <span className="text-main">GitHub</span>. Enjoy exploring a responsive and visually appealing design that ensures a smooth user experience.</p>
+              <p className="label-small">a platform dedicated to showcasing my front-end development skills in <span className="text-second">HTML</span>, <span className="text-second">CSS</span>, <span className="text-second">Sass</span>, <span className="text-second">Bootstrap</span>, <span className="text-second">JavaScript</span>, <span className="text-second">TypeScript</span>, <span className="text-second">JSON</span>, <span className="text-second">React.js</span>, <span className="text-second">Next.js</span>, <span className="text-second">Git</span>, and <span className="text-second">GitHub</span>. Enjoy exploring a responsive and visually appealing design that ensures a smooth user experience.</p>
             
-              <p className="text-second mb-5 label-small">Here you will find everything you will need to get started. Let's take a look at what we will be doing.</p>
+              <p className="mb-5 label-small">Here you will find everything you will need to get started. Let's take a look at what we will be doing.</p>
 
               <div className="d-flex flex-column gap-5">
                 <div className="row row-cols-1 row-cols-lg-2 g-4 g-lg-5">

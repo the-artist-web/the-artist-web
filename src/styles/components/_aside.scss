@@ -29,7 +29,10 @@
                 transition: 0.4s;
             }
             
-            &.active { border-left: 4px solid var(--text-color); }
+            &.active { 
+                border-left: 4px solid var(--text-color); 
+                color: var(--text-color);
+            }
     
             .img-logo {
                 min-width: 40px;
