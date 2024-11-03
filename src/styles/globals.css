@@ -45,7 +45,7 @@ pre code {
   --dark-second-color: #7e7b83;
   --dark-border-color: #28262a;
   --light-bg-color: #ffffff;
-  --light-second-bg-color: #dfdfdf;
+  --light-second-bg-color: #f2f2f2;
   --light-text-color: #000000;
   --light-main-color: #f731c1;
   --light-red-color: #f60849;
@@ -718,9 +718,7 @@ body {
 }
 
 .open-aside-docs {
-  border: 2px solid transparent;
-  -o-border-image: linear-gradient(90deg, var(--red-color), var(--rosy-color), var(--purple-color)) 2;
-     border-image: linear-gradient(90deg, var(--red-color), var(--rosy-color), var(--purple-color)) 2;
+  background-color: var(--main-color) !important;
   color: var(--text-color);
   bottom: 20px;
   right: 20px;
@@ -731,8 +729,7 @@ body {
   transition: 0.4s;
 }
 .open-aside-docs:hover {
-  background: linear-gradient(90deg, var(--red-color) 0%, var(--rosy-color) 50%, var(--purple-color) 100%);
-  color: var(--bg-color);
+  transform: scale(1.1) translateY(-10px);
   transition: 0.4s;
 }
 

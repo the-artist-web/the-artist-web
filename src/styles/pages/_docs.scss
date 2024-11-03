@@ -34,8 +34,7 @@
 }
 
 .open-aside-docs {
-    border: 2px solid transparent;
-    border-image: linear-gradient(90deg, var(--red-color), var(--rosy-color), var(--purple-color)) 2;
+    background-color: var(--main-color) !important;
     color: var(--text-color);
     bottom: 20px;
     right: 20px;
@@ -46,8 +45,7 @@
     transition: 0.4s;
 
     &:hover {
-        background: linear-gradient(90deg, var(--red-color) 0%, var(--rosy-color) 50%, var(--purple-color) 100%);
-        color: var(--bg-color);
+        transform: scale(1.1) translateY(-10px);
         transition: 0.4s;
     }
 }

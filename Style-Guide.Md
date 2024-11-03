@@ -20,12 +20,12 @@ The designs were created to the following widths:
 --dark-rosy-color: #f731c1;
 --dark-purple-color: #9219f0;
 --dark-second-color: #7e7b83;
---dark-border-color: #222024;
+--dark-border-color: #28262a;
 
 ### Light
 
 --light-bg-color: #ffffff;
---light-second-bg-color: #dfdfdf;
+--light-second-bg-color: #fbfbfb;
 --light-text-color: #000000;
 --light-main-color: #f731c1;
 --light-red-color: #f60849;

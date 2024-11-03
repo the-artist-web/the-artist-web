@@ -326,7 +326,7 @@ const Docs = () => {
 
       <button 
         type="button" 
-        className="btn open-aside-docs p-0 d-flex align-items-center justify-content-center position-fixed z-3 d-lg-none label-small" 
+        className="btn open-aside-docs rounded-pill border-0 p-0 d-flex align-items-center justify-content-center position-fixed z-3 d-lg-none label-small" 
         data-bs-toggle="offcanvas" 
         data-bs-target="#open-aside-docs"
       >
