@@ -1,3 +1,39 @@
 /* ---------------------------------------------------- *\
  * DOCS PAGE
 \* ---------------------------------------------------- */
+
+.main-docs {
+    padding: 76px 0 0;
+
+    .docs-body {
+        padding-block: 0 60px;
+
+        .number {
+            background-color: var(--main-color);
+            font-size: 1rem;
+            width: 28px;
+            height: 28px;
+        }
+
+        .description { padding-inline: 44px 0; }
+    }
+}
+
+.open-aside-docs {
+    border: 2px solid transparent;
+    border-image: linear-gradient(90deg, var(--red-color), var(--rosy-color), var(--purple-color)) 2;
+    color: var(--text-color);
+    bottom: 20px;
+    right: 20px;
+    min-width: 50px;
+    min-height: 50px;
+    max-width: 50px;
+    max-height: 50px;
+    transition: 0.4s;
+
+    &:hover {
+        background: linear-gradient(90deg, var(--red-color) 0%, var(--rosy-color) 50%, var(--purple-color) 100%);
+        color: var(--bg-color);
+        transition: 0.4s;
+    }
+}

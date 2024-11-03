@@ -21,8 +21,7 @@ const Footer = () => {
       scrollTrigger: {
         trigger: "[data-gsap-footer]",
         start: "top 75%",
-        end: "top 25%",
-        toggleActions: "play none none reverse",
+        end: "top 25%"
       },
       paused: true 
     });

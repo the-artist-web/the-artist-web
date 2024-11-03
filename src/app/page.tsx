@@ -1,6 +1,5 @@
 "use client";
 
-
 import Link from 'next/link';
 import { useEffect } from 'react';
 import { gsap } from "gsap";
@@ -15,6 +14,10 @@ import Searchbar from "@/components/Searchbar";
 import Footer from "@/components/Footer";
 
 const Home = () => {
+  useEffect(() => {
+    document.title = "Welcome to the Artists Network – Showcasing My Front-End Development Journey!";
+  }, []);
+
   useEffect(() => {
     gsap.set("[data-gsap-title]", { perspective: 400 });
     
@@ -32,14 +35,14 @@ const Home = () => {
 
   useEffect(() => {
     const scrollyElement = () => {
-      const scrolly_element = document.querySelectorAll("[data-scrolly-element]") as NodeListOf<HTMLButtonElement>;
+      const scrolly_element = document.querySelectorAll("[data-scrolly-element]");
   
-      scrolly_element.forEach((ele: any) => {
-        if (scrollY >= 100) {
+      scrolly_element.forEach((ele) => {
+        if (window.scrollY >= 100) {
           ele.classList.add("active");
         } else {
           ele.classList.remove("active");
-        };
+        }
       });
     };
 
@@ -63,10 +66,8 @@ const Home = () => {
       scrollTrigger: {
         trigger: "[data-gsap-skills]",
         start: "top 75%",
-        end: "top 25%",
-        toggleActions: "play none none reverse",
-      },
-      paused: true 
+        end: "top 25%"
+      }
     });
 
     return () => {
@@ -91,7 +92,7 @@ const Home = () => {
                 <h1 className="text-home text-capitalize display-large" data-gsap-title>web</h1>
               </div>
 
-              <Link href="/docs/html" className="btn btn-home text-capitalize label-small" data-scrolly-element>learn more</Link>
+              <Link href="/docs" className="btn btn-home text-capitalize label-small" data-scrolly-element>learn more</Link>
 
               <span className="arrow-bottom title-medium" data-scrolly-element>
                 <i className="fa-solid fa-chevron-down"></i>

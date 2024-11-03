@@ -11,6 +11,7 @@
       --fs-display-large: 6rem;
       --fs-display-medium: 3.6rem;
       --fs-display-small: 3rem;
+      --fs-headline-small: 4rem;
     }
 }
 
@@ -19,10 +20,9 @@
  */
 @media screen and (min-width: 992px) {
     /* STYLE GUIDE */
-    :root {
-        --fs-display-large: 8rem;
-        --header-height: 72px;
-        --mobile-nav-height: 0;
+    :root { 
+        --fs-display-large: 8rem; 
+        --fs-headline-small: 4.5rem;
     }
 
     // DUBLICATE ITEMS
@@ -47,11 +47,28 @@
         }
     }
 
+    // ASIDE DOCS
+    .slide-docs {
+        padding: 36px 16px 16px;
+        left: 110px !important;
+        transform: none !important;
+        visibility: visible !important;
+    }
+
     // HOME PAGE
     .main {
         width: calc(100% - 160px);
         position: relative;
         left: 160px;
+    }
+
+    // DOCS PAGE
+    .main-docs {
+        padding: 36px 0 0;
+        width: calc(100% - 444px);
+        position: relative;
+        left: 410px;
+        right: 34px;
     }
 }
 

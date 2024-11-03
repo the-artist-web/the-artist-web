@@ -46,8 +46,8 @@ const Aside = () => {
   }, []);
 
   return (
-    <aside className={`offcanvas offcanvas-start aside d-flex flex-column align-self-center justify-content-between gap-3`} id="open-aside" data-bs-backdrop="false" data-aside>
-      <button type="button" className="btn close-aside border-0 bg-transparent d-md-none title-medium" data-bs-dismiss="offcanvas" data-open-navbar>
+    <aside className="offcanvas offcanvas-start aside z-3 d-flex flex-column align-self-center justify-content-between gap-3" id="open-aside" data-bs-backdrop="false">
+      <button type="button" className="btn close-aside border-0 bg-transparent d-lg-none title-medium" data-bs-dismiss="offcanvas" data-open-navbar>
         <i className="fa-solid fa-xmark"></i>
       </button>
 
@@ -81,7 +81,7 @@ const Aside = () => {
         </li>
 
         <li className="aside-item">
-          <Link href="/docs" className={`aside-link d-flex flex-column align-items-center justify-content-center gap-2 ${pathname === "/docs" ? "active" : ""} label-medium`}>
+          <Link href="/docs" className={`aside-link d-flex flex-column align-items-center justify-content-center gap-2 ${pathname.includes("/docs") ? "active" : ""} label-medium`}>
             <i className="fa-regular fa-file-lines"></i>
             <p className="text-capitalize p-0 m-0 label-small">docs</p>
           </Link>
@@ -95,7 +95,7 @@ const Aside = () => {
         </li>
 
         <li className="aside-item">
-          <Link href="/blog" className={`aside-link d-flex flex-column align-items-center justify-content-center gap-2 ${pathname === "/blog" ? "active" : ""} label-medium`}>
+          <Link href="/blog" className={`aside-link d-flex flex-column align-items-center justify-content-center gap-2 ${pathname.includes("/blog") ? "active" : ""} label-medium`}>
             <i className="fa-brands fa-blogger-b"></i>
             <p className="text-capitalize p-0 m-0 label-small">blog</p>
           </Link>

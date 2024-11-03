@@ -1,5 +1,0 @@
-Get all the information you want without leaving the site
-
-a platform dedicated to showcasing my front-end development skills in <span className="text-primary">HTML</span>, <span className="text-primary">CSS</span>, <span className="text-primary">Tailwind Css</span>, <span className="text-primary">JavaScript</span>, <span className="text-primary">TypeScript</span>, <span className="text-primary">JSON</span>, <span className="text-primary">React.js</span>, <span className="text-primary">Git</span>, and <span className="text-primary">GitHub</span>. Enjoy exploring a responsive and visually appealing design that ensures a smooth user experience.
-
-Let's go

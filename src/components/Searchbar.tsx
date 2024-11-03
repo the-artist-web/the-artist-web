@@ -82,7 +82,7 @@ const Searchbar = (props: TypeProps) => {
             ) : (
               filterData.map((ele, index) => (
                 <div className="d-flex flex-column gap-2" key={index}>
-                  <h2 className="text-capitalize label-large">{ele.title}</h2>
+                  <h2 className="text-capitalize label-small">{ele.title}</h2>
                   <div className="d-flex flex-column">
                     {ele.items.map((ele, index) => (
                       <Link href={ele.link} className="searchbar-link text-capitalize d-flex align-items-center justify-content-between label-small" key={index}>

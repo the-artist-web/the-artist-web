@@ -11,11 +11,10 @@
     --dark-bg-color: #0f0f11;
     --dark-second-bg-color: #413e46;
     --dark-text-color: #ffffff;
-
+    --dark-main-color: #f731c1;
     --dark-red-color: #f60849;
     --dark-rosy-color: #f731c1;
     --dark-purple-color: #9219f0;
-
     --dark-second-color: #7e7b83;
     --dark-border-color: #222024;
     
@@ -23,6 +22,7 @@
     --light-bg-color: #ffffff;
     --light-second-bg-color: #dfdfdf;
     --light-text-color: #000000;
+    --light-main-color: #f731c1;
     --light-red-color: #f60849;
     --light-rosy-color: #f731c1;
     --light-purple-color: #9219f0;
@@ -38,7 +38,7 @@
     --fs-display-large: 2.8rem;
     --fs-display-medium: 3.2rem;
     --fs-display-small: 2.6rem;
-    --fs-headline-small: 2.4rem;
+    --fs-headline-small: 3rem;
     --fs-title-medium: 1.6rem;
     --fs-title-small: 1.4rem;
     --fs-body-large: 1.6rem;
@@ -71,6 +71,7 @@
     --bg-color: var(--dark-bg-color);
     --second-bg-color: var(--dark-second-bg-color);
     --text-color: var(--dark-text-color);
+    --main-color: var(--dark-main-color);
     --red-color: var(--dark-red-color);
     --rosy-color: var(--dark-rosy-color);
     --purple-color: var(--dark-purple-color);
@@ -84,6 +85,7 @@
     --bg-color: var(--light-bg-color);
     --second-bg-color: var(--light-second-bg-color);
     --text-color: var(--light-text-color);
+    --main-color: var(--light-main-color);
     --red-color: var(--light-red-color);
     --rosy-color: var(--light-rosy-color);
     --purple-color: var(--light-purple-color);

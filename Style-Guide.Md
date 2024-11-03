@@ -13,22 +13,26 @@ The designs were created to the following widths:
 ### Dark
 
 --dark-bg-color: #0f0f11;
---dark-second-bg-color: #232125;
+--dark-second-bg-color: #413e46;
 --dark-text-color: #ffffff;
---dark-red-color: #bc2634;
---dark-yellow-color: #f8ac33;
+--dark-main-color: #f731c1;
+--dark-red-color: #f60849;
+--dark-rosy-color: #f731c1;
+--dark-purple-color: #9219f0;
 --dark-second-color: #7e7b83;
 --dark-border-color: #222024;
 
 ### Light
 
 --light-bg-color: #ffffff;
---light-second-bg-color: #f6f5f6;
+--light-second-bg-color: #dfdfdf;
 --light-text-color: #000000;
---light-red-color: #bc2634;
---light-yellow-color: #f8ac33;
+--light-main-color: #f731c1;
+--light-red-color: #f60849;
+--light-rosy-color: #f731c1;
+--light-purple-color: #9219f0;
 --light-second-color: #97939d;
---light-border-color: #f6f5f6;
+--light-border-color: #ededed;
 
 ## Typography
 
@@ -38,7 +42,7 @@ The designs were created to the following widths:
 --fs-display-large: 2.8rem;
 --fs-display-medium: 3.2rem;
 --fs-display-small: 2.6rem;
---fs-headline-small: 2.4rem;
+--fs-headline-small: 3rem;
 --fs-title-medium: 1.6rem;
 --fs-title-small: 1.4rem;
 --fs-body-large: 1.6rem;

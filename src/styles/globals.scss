@@ -1,3 +1,5 @@
+@use "./prism";
+
 // style guid
 @use "./style-guid";
 
@@ -15,7 +17,6 @@
 
 // components
 @use "./components/navbar";
-@use "./components/navbar-docs";
 @use "./components/aside";
 @use "./components/searchbar";
 @use "./components/slider-docs";
@@ -23,6 +24,7 @@
 
 // pages
 @use "./pages/home";
+@use "./pages/docs";
 @use "./pages/cv";
 @use "./pages/blog";
 @use "./pages/showcase";
