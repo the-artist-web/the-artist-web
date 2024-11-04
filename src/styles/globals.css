@@ -369,6 +369,17 @@ body {
   color: var(--border-color);
 }
 
+/**
+ * padding-top
+ */
+.pt-help {
+  padding: 76px 0 0;
+}
+
+.pb-help {
+  padding-block: 0 60px;
+}
+
 /* ---------------------------------------------------- *\
  * NAVBAR
 \* ---------------------------------------------------- */
@@ -705,15 +716,37 @@ body {
   padding-inline: 44px 0;
 }
 .main-docs .docs-body .btn-element {
-  background-color: var(--second-bg-color);
+  border-left: 2px solid var(--second-color) !important;
+  border: none;
+  background-color: transparent !important;
   color: var(--second-color);
+  text-align: start;
+  padding: 10px 16px;
   width: 100%;
-  padding: 15px 20px;
   transition: 0.4s;
 }
 .main-docs .docs-body .btn-element:hover {
+  border-left: 2px solid var(--main-color) !important;
+  color: var(--main-color);
+  transition: 0.4s;
+}
+
+.card-help {
+  background-color: var(--bg-color);
+  border: 2px solid var(--main-color);
+  padding: 16px;
+  height: 100%;
+}
+
+.card-help-site {
+  background-color: var(--second-bg-color);
+  border: 2px solid var(--border-color);
+  padding: 16px;
+  height: 100%;
+  transition: 0.4s;
+}
+.card-help-site:hover {
   background-color: var(--border-color);
-  color: var(--text-color);
   transition: 0.4s;
 }
 
@@ -768,6 +801,9 @@ body {
   }
   .container {
     margin-inline: 0;
+  }
+  .pt-help {
+    padding: 36px 0 0;
   }
   .aside {
     max-width: 110px;

@@ -70,6 +70,24 @@ html[dir="rtl"] .searchbar {
 }
 
 /* ---------------------------------------------------- *\
+ * DOCS PAGE
+\* ---------------------------------------------------- */
+
+html[dir="rtl"] .main-docs {
+    .docs-body {
+        .btn-element {
+            border-left: transparent !important;            
+            border-right: 2px solid var(--second-color) !important;
+
+            &:hover {
+                border-left: transparent !important;                
+                border-right: 2px solid var(--main-color) !important;
+            }
+        }
+    }
+}
+
+/* ---------------------------------------------------- *\
  * MEDIA QUERY
 \* ---------------------------------------------------- */
 

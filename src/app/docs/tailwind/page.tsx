@@ -13,24 +13,28 @@ import SlideDocs from "@/components/SlideDocs";
 import Searchbar from "@/components/Searchbar";
 import Footer from "@/components/Footer";
 
-const htmlCode = `<!DOCTYPE html>
-<html>
-  <head>
-    <title>Page Title</title>
-  </head>
-  <body>
-    <h1>This is a Heading</h1>
-    <p>This is a paragraph.</p>
-  </body>
-</html>`;
-
 type DataType = {
-  title: string;
-  items: {
-    name: string;
-    link: string;
-  }[]
+    title: string;
+    items: {
+      name: string;
+      link: string;
+    }[]
 };
+
+const tailwindCssCode = `<div class="space-y-4">
+  <div class="w-96 bg-white shadow rounded">
+      w-96
+  </div>
+  <div class="w-80 bg-white shadow rounded">
+      w-80
+  </div>
+  <div class="w-72 bg-white shadow rounded">
+      w-72
+  </div>
+  <div class="w-64 bg-white shadow rounded">
+      w-64
+  </div>
+</div>`;
 
 const Spinners = () => {
   return (
@@ -49,12 +53,12 @@ const page = () => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const res = await fetch("/docs/Sliderbar-html.json");
+        const res = await fetch("/docs/Sliderbar-tailwind.json");
         const data = await res.json();
         setData(data);
         setLoading(false);
       } catch (error) {
-        console.error("Error Fetch Data In Html", error);
+        console.error("Error Fetch Data In Tailwind Css", error);
         setLoading(false);
       };
     };
@@ -63,7 +67,7 @@ const page = () => {
   }, []);
 
   useEffect(() => {
-    document.title = "html | the artist web";
+    document.title = "tailwind css | the artist web";
 
     const Prism = require('prismjs');
     Prism.highlightAll();
@@ -73,21 +77,21 @@ const page = () => {
     <>
       <Navbar />
       <Aside />
-      <SlideDocs file="Sliderbar-html.json" />
-      <Searchbar file="Sliderbar-html.json" />
+      <SlideDocs file="Sliderbar-tailwind.json" />
+      <Searchbar file="Sliderbar-tailwind.json" />
 
       <main className="main-docs">
         <article>
           <div className="docs-body">
             <div className="container">
-              <p className="text-capitalize text-main label-small">docs / html</p>
+              <p className="text-capitalize text-main label-small">docs / tailwind css</p>
 
-              <h1 className="text-capitalize mb-3 headline-small">HTML Tutorial</h1>
+              <h1 className="text-capitalize mb-3 headline-small">Tailwind CSS Tutorial</h1>
 
-              <p className="mb-4 label-small">HTML, short for HyperText Markup Language, is a markup language used for building and designing web pages. HTML structures website content and defines its essential elements, such as text, images, links, tables, and forms.</p>
+              <p className="mb-4 label-small">Tailwind CSS is a front-end design framework, primarily used to make building and designing websites and web applications easier. Tailwind features a utility-first CSS approach, providing a set of ready-made utility classes that can be used to style elements directly in HTML, making front-end development more efficient and flexible.</p>
 
               <pre>
-                <code className="language-html">{htmlCode}</code>
+                <code className="language-html">{tailwindCssCode}</code>
               </pre>
 
               {loading ? (
@@ -125,7 +129,7 @@ const page = () => {
         <i className="fa-regular fa-file-lines"></i>
       </button>
     </>
-  )
+  );
 }
 
 export default page

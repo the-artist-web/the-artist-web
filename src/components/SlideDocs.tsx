@@ -78,8 +78,8 @@ const SlideDocs = (props: TypeProps) => {
           </Link>
 
           <Link 
-            href="/docs/tailwindcss" 
-            className={`slide-link text-capitalize d-flex align-items-center gap-2 ${pathname.includes("/docs/tailwindcss") ? "active" : ""} label-small`}
+            href="/docs/tailwind" 
+            className={`slide-link text-capitalize d-flex align-items-center gap-2 ${pathname.includes("/docs/tailwind") ? "active" : ""} label-small`}
           >
             <i className="fa-regular fa-file-lines"></i>
             tailwind css
