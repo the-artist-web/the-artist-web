@@ -114,14 +114,6 @@ const Footer = () => {
                 <li className="footer-list">
                   <Link href="/cv" className="footer-link text-capitalize label-small">cv</Link>
                 </li>
-
-                <li className="footer-list">
-                  <Link href="/blog" className="footer-link text-capitalize label-small">blog</Link>
-                </li>
-
-                <li className="footer-list">
-                  <Link href="/showcase" className="footer-link text-capitalize label-small">showcase</Link>
-                </li>
               </ul>
             </div>
 
