@@ -94,7 +94,7 @@ const Home = () => {
                 <h1 className="text-home text-capitalize display-large" data-gsap-title>web</h1>
               </div>
 
-              <Link href="/docs" className="btn btn-home text-capitalize label-small" data-scrolly-element>learn more</Link>
+              <Link href="/docs" className="btn btn-home text-capitalize label-small" data-scrolly-element>get started</Link>
 
               <span className="arrow-bottom title-medium" data-scrolly-element>
                 <i className="fa-solid fa-chevron-down"></i>
