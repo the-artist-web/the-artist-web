@@ -144,7 +144,7 @@ const Page = () => {
               
               <p className="label-small">a platform dedicated to showcasing my front-end development skills in <span className="text-second">HTML</span>, <span className="text-second">CSS</span>, <span className="text-second">Sass</span>, <span className="text-second">Bootstrap</span>, <span className="text-second">JavaScript</span>, <span className="text-second">TypeScript</span>, <span className="text-second">JSON</span>, <span className="text-second">React.js</span>, <span className="text-second">Next.js</span>, <span className="text-second">Git</span>, and <span className="text-second">GitHub</span>. Enjoy exploring a responsive and visually appealing design that ensures a smooth user experience.</p>
             
-              <p className="mb-5 label-small">Here you will find everything you will need to get started. Let's take a look at what we will be doing.</p>
+              <p className="mb-5 label-small">Here you will find everything you will need to get started. Let&apos;s take a look at what we will be doing.</p>
 
               <div className="d-flex flex-column gap-5">
                 <div className="row row-cols-1 row-cols-lg-2 g-4 g-lg-5">
