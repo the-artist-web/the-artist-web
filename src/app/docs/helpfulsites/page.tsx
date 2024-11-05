@@ -56,7 +56,7 @@ const page = () => {
       <>
         <Navbar />
         <Aside />
-        <Searchbar file="Sliderbar-helpfulsites.json" />
+        <Searchbar file="Skills.json" />
   
         <main className="main pt-help">
           <article>

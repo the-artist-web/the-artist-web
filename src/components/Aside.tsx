@@ -93,20 +93,6 @@ const Aside = () => {
             <p className="text-capitalize p-0 m-0 label-small">cv</p>
           </Link>
         </li>
-
-        <li className="aside-item">
-          <Link href="/blog" className={`aside-link d-flex flex-column align-items-center justify-content-center gap-2 ${pathname.includes("/blog") ? "active" : ""} label-medium`}>
-            <i className="fa-brands fa-blogger-b"></i>
-            <p className="text-capitalize p-0 m-0 label-small">blog</p>
-          </Link>
-        </li>
-
-        <li className="aside-item">
-          <Link href="/showcase" className={`aside-link d-flex flex-column align-items-center justify-content-center gap-2 ${pathname === "/showcase" ? "active" : ""} label-medium`}>
-            <i className="fa-solid fa-globe"></i>
-            <p className="text-capitalize p-0 m-0 label-small">showcase</p>
-          </Link>
-        </li>
       </ul>
 
       <div className="d-flex flex-column align-self-center gap-2">
