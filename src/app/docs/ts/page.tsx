@@ -41,7 +41,7 @@ const Page = () => {
     useEffect(() => {
       const fetchData = async () => {
         try {
-          const res = await fetch("/docs/Sliderbar-ts.json");
+          const res = await fetch("/the-artist-web/docs/Sliderbar-ts.json");
           const data = await res.json();
           setData(data);
           setLoading(false);

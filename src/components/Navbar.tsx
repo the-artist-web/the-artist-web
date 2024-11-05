@@ -18,7 +18,7 @@ const Navbar = () => {
     <nav className="navbar px-3 py-0 w-100 position-fixed top-0 left-0 right-0 z-3 bg-bg d-lg-none" data-navbar>
       <button type="button" className="btn open-aside p-0 d-flex align-items-center gap-2 border-0 title-medium" data-bs-toggle="offcanvas" data-bs-target="#open-aside" data-close-navbar>
         <Image 
-          src="/image/logo.png"
+          src="/the-artist-web/image/logo.png"
           alt="the artist web"
           width="35"
           height="35"
