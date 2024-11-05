@@ -1,3 +1,4 @@
+/** @type {import('next').NextConfig} */
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
@@ -5,6 +6,7 @@ const nextConfig: NextConfig = {
   images: {
     domains: ['i.ibb.co'],
   },
+  output: 'export',
 };
 
 export default nextConfig;
