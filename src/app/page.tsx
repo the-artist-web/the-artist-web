@@ -11,7 +11,7 @@ import Aside from "@/components/Aside";
 import Searchbar from "@/components/Searchbar";
 import Footer from "@/components/Footer";
 
-const Home = () => {
+const Page = () => {
   useEffect(() => {
     document.title = "Welcome to the Artists Network – Showcasing My Front-End Development Journey!";
   }, []);
@@ -240,4 +240,4 @@ const Home = () => {
   );
 };
 
-export default Home;
+export default Page;

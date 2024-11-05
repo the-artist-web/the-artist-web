@@ -8,7 +8,7 @@ import Aside from "@/components/Aside";
 import Searchbar from "@/components/Searchbar";
 import Footer from "@/components/Footer";
 
-const Cv = () => {
+const Page = () => {
   useEffect(() => {
     document.title = "cv | the artist web";
   }, []);
@@ -29,4 +29,4 @@ const Cv = () => {
   )
 }
 
-export default Cv
+export default Page

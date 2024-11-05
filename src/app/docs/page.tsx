@@ -119,7 +119,7 @@ export default function Home() {
   );
 }`;
 
-const page = () => {
+const Page = () => {
   useEffect(() => {
     document.title = "docs | the artist web";
     
@@ -336,4 +336,4 @@ const page = () => {
   )
 }
 
-export default page
+export default Page

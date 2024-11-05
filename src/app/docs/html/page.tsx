@@ -42,7 +42,7 @@ const Spinners = () => {
   );
 };
 
-const page = () => {
+const Page = () => {
   const [data, setData] = useState<DataType[]>([]);
   const [loading, setLoading] = useState<boolean>(true);
 
@@ -128,4 +128,4 @@ const page = () => {
   )
 }
 
-export default page
+export default Page
