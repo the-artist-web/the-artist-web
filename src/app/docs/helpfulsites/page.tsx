@@ -66,7 +66,9 @@ const Page = () => {
   
                 <h1 className="text-capitalize mb-3 headline-small">help ful sites</h1>
   
-                <p className="mb-3 label-small">This page is dedicated to curating a comprehensive list of all the essential websites and tools I use for frontend development. Whether you're a beginner or an experienced developer, you'll find valuable resources here that can enhance your workflow, boost productivity, and inspire creativity. From coding tutorials and design inspiration to frameworks and libraries, HelpfulSites is your one-stop shop for all things frontend. Explore, discover, and elevate your development journey!</p>
+                <p className="mb-3 label-small">
+                  This page is dedicated to curating a comprehensive list of all the essential websites and tools I use for frontend development. Whether you&apos;re a beginner or an experienced developer, you&apos;ll find valuable resources here that can enhance your workflow, boost productivity, and inspire creativity. From coding tutorials and design inspiration to frameworks and libraries, HelpfulSites is your one-stop shop for all things frontend. Explore, discover, and elevate your development journey!
+                </p>
   
                 {loading ? (
                   <Spinners />
