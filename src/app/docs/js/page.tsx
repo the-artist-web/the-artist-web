@@ -4,6 +4,7 @@ import Link from "next/link";
 import { useEffect, useState } from "react";
 
 // Prism
+import Prism from 'prismjs';
 import 'prismjs/themes/prism-okaidia.css';
 
 // components
@@ -56,7 +57,6 @@ const Page = () => {
     useEffect(() => {
       document.title = "java script | the artist web";
   
-      const Prism = require('prismjs');
       Prism.highlightAll();
     }, []);
   
