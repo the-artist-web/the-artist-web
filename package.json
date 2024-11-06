@@ -5,8 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "deploy": "gh-pages -d out",
-    "predeploy": "npm run build"
+    "predeploy": "rmdir /S /Q .cache && npm run build",
+    "deploy": "gh-pages -d out"
   },
   "dependencies": {
     "bootstrap": "^5.3.3",
