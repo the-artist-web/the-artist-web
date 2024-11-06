@@ -3,6 +3,7 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   basePath: '/the-artist-web',
+  assetPrefix: '/the-artist-web/',
   images: {
     domains: ['i.ibb.co'],
     unoptimized: true,
