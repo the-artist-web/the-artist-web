@@ -163,7 +163,7 @@ const Page = () => {
 
               <div className="col" data-gsap-skills>
                 <Link
-                  href="/docs/tailwindcss"
+                  href="/docs/tailwind"
                   className="card card-skill border-0 d-flex align-items-center"
                 >
                   <div className="card-body p-0">
