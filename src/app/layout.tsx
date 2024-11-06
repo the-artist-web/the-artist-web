@@ -3,10 +3,10 @@
 import { useEffect } from 'react';
 
 // custom bootstrap min css link
-import 'bootstrap/dist/css/bootstrap.min.css';
+import '/the-artist-web/bootstrap/dist/css/bootstrap.min.css';
 // custom css link
-import '@/styles/globals.css';
-import "@/styles/globals-rtl.css"
+import '/the-artist-web/styles/globals.css';
+import "/the-artist-web/styles/globals-rtl.css"
 
 export default function RootLayout({
   children,
