@@ -61,7 +61,7 @@ const Page = () => {
     useEffect(() => {
       const fetchData = async () => {
         try {
-          const res = await fetch("/docs/Sliderbar-bootstrap.json");
+          const res = await fetch("/docs/Sliderbar-Bootstrap.json");
           const data = await res.json();
           setData(data);
           setLoading(false);
@@ -84,8 +84,8 @@ const Page = () => {
       <>
         <Navbar />
         <Aside />
-        <SlideDocs file="Sliderbar-bootstrap.json" />
-        <Searchbar file="Sliderbar-bootstrap.json" />
+        <SlideDocs file="Sliderbar-Bootstrap.json" />
+        <Searchbar file="Sliderbar-Bootstrap.json" />
   
         <main className="main-docs">
           <article>
