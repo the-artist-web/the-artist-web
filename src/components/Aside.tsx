@@ -55,7 +55,7 @@ const Aside = () => {
         <li className="aside-item">
           <Link href="/" className={`aside-link d-flex align-items-center justify-content-center ${pathname === "/" ? "active" : ""}`}>
             <Image 
-              src="/the-artist-web/image/logo.png"
+              src="/image/logo.png"
               alt="the artist web"
               width="40"
               height="40"

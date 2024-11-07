@@ -34,7 +34,7 @@ const SlideDocs = (props: TypeProps) => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const res = await fetch(`/the-artist-web/docs/${props.file}`);
+        const res = await fetch(`/docs/${props.file}`);
         const data = await res.json();
         setData(data);
         setLoading(false);

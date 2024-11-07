@@ -29,7 +29,7 @@ export default function RootLayout({
         <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         {/* favicon */}
-        <link rel="icon" href="/the-artist-web/image/favicon.png" />
+        <link rel="icon" href="/image/favicon.png" />
         {/* meta tags */}
         <title>Welcome to the Artists Network – Showcasing My Front-End Development Journey!</title>
         <meta name="title" content="Welcome to the Artists Network – Showcasing My Front-End Development Journey!" />
