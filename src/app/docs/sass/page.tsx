@@ -49,7 +49,7 @@ const Page = () => {
     useEffect(() => {
       const fetchData = async () => {
         try {
-          const res = await fetch("/docs/Sliderbar-sass.json");
+          const res = await fetch("/docs/Sliderbar-Sass.json");
           const data = await res.json();
           setData(data);
           setLoading(false);
@@ -72,8 +72,8 @@ const Page = () => {
       <>
         <Navbar />
         <Aside />
-        <SlideDocs file="Sliderbar-sass.json" />
-        <Searchbar file="Sliderbar-sass.json" />
+        <SlideDocs file="Sliderbar-Sass.json" />
+        <Searchbar file="Sliderbar-Sass.json" />
   
         <main className="main-docs">
           <article>
