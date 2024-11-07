@@ -1,0 +1,798 @@
+[
+    {
+        "title": "Core Concepts",
+        "items": [
+            {
+                "name": "Utility-First Fundamentals",
+                "link": "/docs/tailwind/Utility-First-Fundamentals"
+            },
+            {
+                "name": "Handling Hover, Focus, and Other States",
+                "link": "/docs/tailwind/handling-hover-focus-and-other-states"
+            },
+            {
+                "name": "Responsive Design",
+                "link": "/docs/tailwind/responsive-design"
+            },
+            {
+                "name": "Dark Mode",
+                "link": "/docs/tailwind/dark-mode"
+            },
+            {
+                "name": "Reusing Styles",
+                "link": "/docs/tailwind/reusing-styles"
+            },
+            {
+                "name": "Functions & Directives",
+                "link": "/docs/tailwind/functions&directives"
+            }
+        ]
+    },
+    {
+        "title": "Customization",
+        "items": [
+            {
+                "name": "Configuration",
+                "link": "/docs/tailwind/configuration"
+            },
+            {
+                "name": "Content Configuration",
+                "link": "/docs/tailwind/content-configuration"
+            },
+            {
+                "name": "Theme Configuration",
+                "link": "/docs/tailwind/theme-configuration"
+            },
+            {
+                "name": "Customizing Screens",
+                "link": "/docs/tailwind/customizing-screens"
+            },
+            {
+                "name": "Customizing Spacing",
+                "link": "/docs/tailwind/customizing-spacing"
+            },
+            {
+                "name": "Plugins",
+                "link": "/docs/tailwind/plugins"
+            },
+            {
+                "name": "Presets",
+                "link": "/docs/tailwind/presets"
+            }
+        ]
+    },
+    {
+        "title": "Customization",
+        "items": [
+            {
+                "name": "Configuration",
+                "link": "/docs/tailwind/configuration"
+            },
+            {
+                "name": "Content Configuration",
+                "link": "/docs/tailwind/content-configuration"
+            },
+            {
+                "name": "Theme Configuration",
+                "link": "/docs/tailwind/theme-configuration"
+            },
+            {
+                "name": "Customizing Screens",
+                "link": "/docs/tailwind/customizing-screens"
+            },
+            {
+                "name": "Customizing Spacing",
+                "link": "/docs/tailwind/customizing-spacing"
+            },
+            {
+                "name": "Plugins",
+                "link": "/docs/tailwind/plugins"
+            },
+            {
+                "name": "Presets",
+                "link": "/docs/tailwind/presets"
+            }
+        ]
+    },
+    {
+        "title": "Layout",
+        "items": [
+            {
+                "name": "Aspect Ratio",
+                "link": "/docs/tailwind/aspect-ratio"
+            },
+            {
+                "name": "Container",
+                "link": "/docs/tailwind/container"
+            },
+            {
+                "name": "Columns",
+                "link": "/docs/tailwind/columns"
+            },
+            {
+                "name": "Break After",
+                "link": "/docs/tailwind/break-after"
+            },
+            {
+                "name": "Break Before",
+                "link": "/docs/tailwind/break-before"
+            },
+            {
+                "name": "Break Inside",
+                "link": "/docs/tailwind/break-inside"
+            },
+            {
+                "name": "Box Decoration Break",
+                "link": "/docs/tailwind/box-decoration-break"
+            },
+            {
+                "name": "Box Sizing",
+                "link": "/docs/tailwind/box-sizing"
+            },
+            {
+                "name": "Display",
+                "link": "/docs/tailwind/display"
+            },
+            {
+                "name": "Floats",
+                "link": "/docs/tailwind/floats"
+            },
+            {
+                "name": "Clear",
+                "link": "/docs/tailwind/clear"
+            },
+            {
+                "name": "Isolation",
+                "link": "/docs/tailwind/isolation"
+            },
+            {
+                "name": "Object Fit",
+                "link": "/docs/tailwind/object-fit"
+            },
+            {
+                "name": "Object Position",
+                "link": "/docs/tailwind/object-position"
+            },
+            {
+                "name": "Overflow",
+                "link": "/docs/tailwind/overflow"
+            },
+            {
+                "name": "Overscroll Behavior",
+                "link": "/docs/tailwind/overscroll-behavior"
+            },
+            {
+                "name": "Position",
+                "link": "/docs/tailwind/position"
+            },
+            {
+                "name": "Top / Right / Bottom / Left",
+                "link": "/docs/tailwind/Top-Right-Bottom-Left"
+            },
+            {
+                "name": "Visibility",
+                "link": "/docs/tailwind/visibility"
+            },
+            {
+                "name": "Z-Index",
+                "link": "/docs/tailwind/z-Index"
+            }
+        ]
+    },
+    {
+        "title": "Flexbox & Grid",
+        "items": [
+            {
+                "name": "Flex Basis",
+                "link": "/docs/tailwind/flex-basis"
+            },
+            {
+                "name": "Flex Direction",
+                "link": "/docs/tailwind/flex-direction"
+            },
+            {
+                "name": "Flex Wrap",
+                "link": "/docs/tailwind/flex-wrap"
+            },
+            {
+                "name": "Flex",
+                "link": "/docs/tailwind/flex"
+            },
+            {
+                "name": "Flex Grow",
+                "link": "/docs/tailwind/flex-grow"
+            },
+            {
+                "name": "Flex Shrink",
+                "link": "/docs/tailwind/flex-shrink"
+            },
+            {
+                "name": "Order",
+                "link": "/docs/tailwind/order"
+            },
+            {
+                "name": "Grid Template Columns",
+                "link": "/docs/tailwind/grid-template-columns"
+            },
+            {
+                "name": "Grid Column Start / End",
+                "link": "/docs/tailwind/grid-column-start-end"
+            },
+            {
+                "name": "Grid Template Rows",
+                "link": "/docs/tailwind/grid-template-rows"
+            },
+            {
+                "name": "Grid Row Start / End",
+                "link": "/docs/tailwind/grid-row-start-end"
+            },
+            {
+                "name": "Grid Auto Flow",
+                "link": "/docs/tailwind/grid-auto-flow"
+            },
+            {
+                "name": "Grid Auto Columns",
+                "link": "/docs/tailwind/grid-auto-columns"
+            },
+            {
+                "name": "Grid Auto Rows",
+                "link": "/docs/tailwind/grid-auto-rows"
+            },
+            {
+                "name": "Gap",
+                "link": "/docs/tailwind/gap"
+            },
+            {
+                "name": "Justify Content",
+                "link": "/docs/tailwind/justify-content"
+            },
+            {
+                "name": "Justify Items",
+                "link": "/docs/tailwind/justify-items"
+            },
+            {
+                "name": "Justify Self",
+                "link": "/docs/tailwind/justify-self"
+            },
+            {
+                "name": "Align Content",
+                "link": "/docs/tailwind/align-content"
+            },
+            {
+                "name": "Align Items",
+                "link": "/docs/tailwind/align-items"
+            },
+            {
+                "name": "Align Self",
+                "link": "/docs/tailwind/align-self"
+            },
+            {
+                "name": "Place Content",
+                "link": "/docs/tailwind/place-content"
+            },
+            {
+                "name": "Place Items",
+                "link": "/docs/tailwind/place-items"
+            },
+            {
+                "name": "Place Self",
+                "link": "/docs/tailwind/place-self"
+            }
+        ]
+    },
+    {
+        "title": "Spacing",
+        "items": [
+            {
+                "name": "Padding",
+                "link": "/docs/tailwind/padding"
+            },
+            {
+                "name": "Margin",
+                "link": "/docs/tailwind/margin"
+            },
+            {
+                "name": "Space Between",
+                "link": "/docs/tailwind/space-between"
+            }
+        ]
+    },
+    {
+        "title": "Sizing",
+        "items": [
+            {
+                "name": "Width",
+                "link": "/docs/tailwind/width"
+            },
+            {
+                "name": "Min-Width",
+                "link": "/docs/tailwind/min-width"
+            },
+            {
+                "name": "Max-Width",
+                "link": "/docs/tailwind/max-width"
+            },
+            {
+                "name": "Height",
+                "link": "/docs/tailwind/height"
+            },
+            {
+                "name": "Min-Height",
+                "link": "/docs/tailwind/min-height"
+            },
+            {
+                "name": "Max-Height",
+                "link": "/docs/tailwind/max-height"
+            },
+            {
+                "name": "Size",
+                "link": "/docs/tailwind/size"
+            }
+        ]
+    },
+    {
+        "title": "Typography",
+        "items": [
+            {
+                "name": "Font Family",
+                "link": "/docs/tailwind/font-family"
+            },
+            {
+                "name": "Font Size",
+                "link": "/docs/tailwind/font-size"
+            },
+            {
+                "name": "Font Smoothing",
+                "link": "/docs/tailwind/font-smoothing"
+            },
+            {
+                "name": "Font Style",
+                "link": "/docs/tailwind/font-style"
+            },
+            {
+                "name": "Font Weight",
+                "link": "/docs/tailwind/font-weight"
+            },
+            {
+                "name": "Font Variant Numeric",
+                "link": "/docs/tailwind/font-variant-numeric"
+            },
+            {
+                "name": "Letter Spacing",
+                "link": "/docs/tailwind/letter-spacing"
+            },
+            {
+                "name": "Line Clamp",
+                "link": "/docs/tailwind/line-clamp"
+            },
+            {
+                "name": "Line Height",
+                "link": "/docs/tailwind/line-height"
+            },
+            {
+                "name": "List Style Image",
+                "link": "/docs/tailwind/list-style-image"
+            },
+            {
+                "name": "List Style Position",
+                "link": "/docs/tailwind/list-style-position"
+            },
+            {
+                "name": "List Style Type",
+                "link": "/docs/tailwind/list-style-type"
+            },
+            {
+                "name": "Text Align",
+                "link": "/docs/tailwind/text-align"
+            },
+            {
+                "name": "Text Color",
+                "link": "/docs/tailwind/text-color"
+            },
+            {
+                "name": "Text Decoration",
+                "link": "/docs/tailwind/text-decoration"
+            },
+            {
+                "name": "Text Decoration Color",
+                "link": "/docs/tailwind/text-decoration-color"
+            },
+            {
+                "name": "Text Decoration Style",
+                "link": "/docs/tailwind/text-decoration-style"
+            },
+            {
+                "name": "Text Decoration Thickness",
+                "link": "/docs/tailwind/text-decoration-thickness"
+            },
+            {
+                "name": "Text Underline Offset",
+                "link": "/docs/tailwind/text-underline-offset"
+            },
+            {
+                "name": "Text Transform",
+                "link": "/docs/tailwind/text-transform"
+            },
+            {
+                "name": "Text Overflow",
+                "link": "/docs/tailwind/text-overflow"
+            },
+            {
+                "name": "Text Wrap",
+                "link": "/docs/tailwind/text-wrap"
+            },
+            {
+                "name": "Text Indent",
+                "link": "/docs/tailwind/text-indent"
+            },
+            {
+                "name": "Vertical Align",
+                "link": "/docs/tailwind/vertical-align"
+            },
+            {
+                "name": "Whitespace",
+                "link": "/docs/tailwind/whitespace"
+            },
+            {
+                "name": "Word Break",
+                "link": "/docs/tailwind/word-break"
+            },
+            {
+                "name": "Hyphens",
+                "link": "/docs/tailwind/hyphens"
+            },
+            {
+                "name": "Content",
+                "link": "/docs/tailwind/content"
+            }
+        ]
+    },
+    {
+        "title": "Backgrounds",
+        "items": [
+            {
+                "name": "Background Attachment",
+                "link": "/docs/tailwind/background-attachment"
+            },
+            {
+                "name": "Background Clip",
+                "link": "/docs/tailwind/background-clip"
+            },
+            {
+                "name": "Background Color",
+                "link": "/docs/tailwind/background-color"
+            },
+            {
+                "name": "Background Origin",
+                "link": "/docs/tailwind/background-origin"
+            },
+            {
+                "name": "Background Position",
+                "link": "/docs/tailwind/background-position"
+            },
+            {
+                "name": "Background Position",
+                "link": "/docs/tailwind/background-position"
+            },
+            {
+                "name": "Background Repeat",
+                "link": "/docs/tailwind/background-repeat"
+            },
+            {
+                "name": "Background Size",
+                "link": "/docs/tailwind/background-size"
+            },
+            {
+                "name": "Background Image",
+                "link": "/docs/tailwind/background-image"
+            },
+            {
+                "name": "Gradient Color Stops",
+                "link": "/docs/tailwind/gradient-color-stops"
+            }
+        ]
+    },
+    {
+        "title": "Borders",
+        "items": [
+            {
+                "name": "Border Radius",
+                "link": "/docs/tailwind/border-radius"
+            },
+            {
+                "name": "Border Width",
+                "link": "/docs/tailwind/border-width"
+            },
+            {
+                "name": "Border Color",
+                "link": "/docs/tailwind/border-color"
+            },
+            {
+                "name": "Border Style",
+                "link": "/docs/tailwind/border-style"
+            },
+            {
+                "name": "Divide Width",
+                "link": "/docs/tailwind/divide-width"
+            },
+            {
+                "name": "Divide Color",
+                "link": "/docs/tailwind/divide-color"
+            },
+            {
+                "name": "Divide Style",
+                "link": "/docs/tailwind/divide-style"
+            },
+            {
+                "name": "Outline Width",
+                "link": "/docs/tailwind/outline-width"
+            },
+            {
+                "name": "Outline Color",
+                "link": "/docs/tailwind/outline-color"
+            },
+            {
+                "name": "Outline Style",
+                "link": "/docs/tailwind/outline-style"
+            },
+            {
+                "name": "Outline Offset",
+                "link": "/docs/tailwind/outline-offset"
+            },
+            {
+                "name": "Ring Width",
+                "link": "/docs/tailwind/ring-width"
+            },
+            {
+                "name": "Ring Color",
+                "link": "/docs/tailwind/ring-color"
+            },
+            {
+                "name": "Ring Offset Width",
+                "link": "/docs/tailwind/ring-offset-width"
+            },
+            {
+                "name": "Ring Offset Color",
+                "link": "/docs/tailwind/ring-offset-color"
+            }
+        ]
+    },
+    {
+        "title": "Effects",
+        "items": [
+            {
+                "name": "Box Shadow",
+                "link": "/docs/tailwind/box-shadow"
+            },
+            {
+                "name": "Box Shadow Color",
+                "link": "/docs/tailwind/box-shadow-color"
+            },
+            {
+                "name": "Opacity",
+                "link": "/docs/tailwind/opacity"
+            },
+            {
+                "name": "Mix Blend Mode",
+                "link": "/docs/tailwind/mix-blend-mode"
+            },
+            {
+                "name": "Background Blend Mode",
+                "link": "/docs/tailwind/background-blend-mode"
+            }
+        ]
+    },
+    {
+        "title": "Filters",
+        "items": [
+            {
+                "name": "Blur",
+                "link": "/docs/tailwind/blur"
+            },
+            {
+                "name": "Brightness",
+                "link": "/docs/tailwind/brightness"
+            },
+            {
+                "name": "Contrast",
+                "link": "/docs/tailwind/contrast"
+            },
+            {
+                "name": "Drop Shadow",
+                "link": "/docs/tailwind/drop-shadow"
+            },
+            {
+                "name": "Grayscale",
+                "link": "/docs/tailwind/grayscale"
+            },
+            {
+                "name": "Hue Rotate",
+                "link": "/docs/tailwind/hue-rotate"
+            },
+            {
+                "name": "Invert",
+                "link": "/docs/tailwind/invert"
+            },
+            {
+                "name": "Saturate",
+                "link": "/docs/tailwind/saturate"
+            },
+            {
+                "name": "Sepia",
+                "link": "/docs/tailwind/sepia"
+            },
+            {
+                "name": "Backdrop Blur",
+                "link": "/docs/tailwind/backdrop-blur"
+            },
+            {
+                "name": "Backdrop Brightness",
+                "link": "/docs/tailwind/backdrop-brightness"
+            },
+            {
+                "name": "Backdrop Contrast",
+                "link": "/docs/tailwind/backdrop-contrast"
+            },
+            {
+                "name": "Backdrop Grayscale",
+                "link": "/docs/tailwind/backdrop-grayscale"
+            },
+            {
+                "name": "Backdrop Hue Rotate",
+                "link": "/docs/tailwind/backdrop-hue-rotate"
+            },
+            {
+                "name": "Backdrop Invert",
+                "link": "/docs/tailwind/backdrop-invert"
+            },
+            {
+                "name": "Backdrop Opacity",
+                "link": "/docs/tailwind/backdrop-opacity"
+            },
+            {
+                "name": "Backdrop Saturate",
+                "link": "/docs/tailwind/backdrop-saturate"
+            },
+            {
+                "name": "Backdrop Sepia",
+                "link": "/docs/tailwind/backdrop-sepia"
+            }
+        ]
+    },
+    {
+        "title": "Tables",
+        "items": [
+            {
+                "name": "Border Collapse",
+                "link": "/docs/tailwind/border-collapse"
+            },
+            {
+                "name": "Border Spacing",
+                "link": "/docs/tailwind/border-spacing"
+            },
+            {
+                "name": "Table Layout",
+                "link": "/docs/tailwind/table-layout"
+            },
+            {
+                "name": "Caption Side",
+                "link": "/docs/tailwind/caption-side"
+            }
+        ]
+    },
+    {
+        "title": "Transitions & Animation",
+        "items": [
+            {
+                "name": "Transition Property",
+                "link": "/docs/tailwind/transition-property"
+            },
+            {
+                "name": "Transition Duration",
+                "link": "/docs/tailwind/transition-duration"
+            },
+            {
+                "name": "Transition Timing Function",
+                "link": "/docs/tailwind/transition-timing-function"
+            },
+            {
+                "name": "Transition Delay",
+                "link": "/docs/tailwind/transition-delay"
+            },
+            {
+                "name": "Animation",
+                "link": "/docs/tailwind/animation"
+            }
+        ]
+    },
+    {
+        "title": "Transforms",
+        "items": [
+            {
+                "name": "Scale",
+                "link": "/docs/tailwind/scale"
+            },
+            {
+                "name": "Rotate",
+                "link": "/docs/tailwind/rotate"
+            },
+            {
+                "name": "Translate",
+                "link": "/docs/tailwind/translate"
+            },
+            {
+                "name": "Skew",
+                "link": "/docs/tailwind/skew"
+            },
+            {
+                "name": "Transform Origin",
+                "link": "/docs/tailwind/transform-origin"
+            }
+        ]
+    },
+    {
+        "title": "Interactivity",
+        "items": [
+            {
+                "name": "Accent Color",
+                "link": "/docs/tailwind/accent-color"
+            },
+            {
+                "name": "Appearance",
+                "link": "/docs/tailwind/appearance"
+            },
+            {
+                "name": "Cursor",
+                "link": "/docs/tailwind/cursor"
+            },
+            {
+                "name": "Caret Color",
+                "link": "/docs/tailwind/caret-color"
+            },
+            {
+                "name": "Pointer Events",
+                "link": "/docs/tailwind/pointer-events"
+            },
+            {
+                "name": "Resize",
+                "link": "/docs/tailwind/resize"
+            },
+            {
+                "name": "Scroll Behavior",
+                "link": "/docs/tailwind/scroll-behavior"
+            },
+            {
+                "name": "Scroll Margin",
+                "link": "/docs/tailwind/scroll-margin"
+            },
+            {
+                "name": "Scroll Padding",
+                "link": "/docs/tailwind/scroll-padding"
+            },
+            {
+                "name": "Scroll Snap Align",
+                "link": "/docs/tailwind/scroll-snap-align"
+            },
+            {
+                "name": "Scroll Snap Stop",
+                "link": "/docs/tailwind/scroll-snap-stop"
+            },
+            {
+                "name": "Scroll Snap Type",
+                "link": "/docs/tailwind/scroll-snap-type"
+            },
+            {
+                "name": "Touch Action",
+                "link": "/docs/tailwind/touch-action"
+            },
+            {
+                "name": "User Select",
+                "link": "/docs/tailwind/user-select"
+            },
+            {
+                "name": "Will Change",
+                "link": "/docs/tailwind/will-change"
+            }
+        ]
+    }
+]

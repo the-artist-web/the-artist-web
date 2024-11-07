@@ -1,0 +1,23 @@
+/* ---------------------------------------------------- *\
+ * NAVBAR
+\* ---------------------------------------------------- */
+
+.navbar {
+    border-bottom: 2px solid var(--border-color);
+    height: 60px;
+    transition: 0.4s;
+    &.active {
+        transform: translateY(-60px);
+        transition: 0.4s;
+    }
+    .open-aside {
+        color: var(--text-color);
+        .img-logo {
+            min-width: 35px;
+            min-height: 35px;
+            max-width: 35px;
+            max-height: 35px;
+            filter: drop-shadow(0 0 1px black);
+        }
+    }
+}

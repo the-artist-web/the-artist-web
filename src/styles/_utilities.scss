@@ -1,0 +1,52 @@
+/* ---------------------------------------------------- *\
+ * UTILITIES
+\* ---------------------------------------------------- */
+
+/**
+ * bg colors
+ */
+.bg-bg { background-color: var(--bg-color); }
+
+.bg-second-bg { background-color: var(--second-bg-color); }
+
+.bg-text { background-color: var(--text-color); }
+
+.bg-main { background-color: var(--main-color); }
+
+.bg-red { background-color: var(--red-color); }
+
+.bg-purple { background-color: var(--purple-color); }
+
+.bg-rosy { background-color: var(--rosy-color); }
+
+.bg-second { background-color: var(--second-color); }
+
+.bg-border { background-color: var(--border-color); }
+
+/**
+ * text colors
+ */
+.text-bg { color: var(--bg-color); }
+
+.text-second-bg { color: var(--second-bg-color); }
+
+.text-text { color: var(--text-color); }
+
+.text-main { color: var(--main-color); }
+
+.text-red { color: var(--red-color); }
+
+.text-purple { color: var(--purple-color); }
+
+.text-rosy { color: var(--rosy-color); }
+
+.text-second { color: var(--second-color); }
+
+.text-border { color: var(--border-color); }
+
+/**
+ * padding-top
+ */
+.pt-help { padding: 76px 0 0; }
+
+.pb-help { padding-block: 0 60px; }

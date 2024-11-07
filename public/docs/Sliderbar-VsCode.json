@@ -1,0 +1,87 @@
+[
+    {
+        "title": "VS Code Shortcuts",
+        "items": [
+            {
+                "name": "Command Palette",
+                "shortcut": "Ctrl+Shift+P (Windows/Linux), Cmd+Shift+P (Mac)",
+                "description": "Opens the command palette, allowing you to run commands quickly."
+            },
+            {
+                "name": "Open File",
+                "shortcut": "Ctrl+P (Windows/Linux), Cmd+P (Mac)",
+                "description": "Quickly opens a file by typing part of its name."
+            },
+            {
+                "name": "Toggle Sidebar",
+                "shortcut": "Ctrl+B (Windows/Linux), Cmd+B (Mac)",
+                "description": "Shows or hides the sidebar."
+            },
+            {
+                "name": "Split Editor",
+                "shortcut": "Ctrl+\\ (Windows/Linux), Cmd+\\ (Mac)",
+                "description": "Splits the editor into multiple views."
+            },
+            {
+                "name": "Navigate Between Tabs",
+                "shortcut": "Ctrl+Tab (Windows/Linux), Cmd+Tab (Mac)",
+                "description": "Switches between open editor tabs."
+            },
+            {
+                "name": "Save All",
+                "shortcut": "Ctrl+K S (Windows/Linux), Cmd+Option+S (Mac)",
+                "description": "Saves all open files."
+            },
+            {
+                "name": "Close Tab",
+                "shortcut": "Ctrl+W (Windows/Linux), Cmd+W (Mac)",
+                "description": "Closes the current editor tab."
+            },
+            {
+                "name": "Find",
+                "shortcut": "Ctrl+F (Windows/Linux), Cmd+F (Mac)",
+                "description": "Finds text within the current file."
+            },
+            {
+                "name": "Replace",
+                "shortcut": "Ctrl+H (Windows/Linux), Cmd+Option+F (Mac)",
+                "description": "Replaces text within the current file."
+            },
+            {
+                "name": "Go to Line",
+                "shortcut": "Ctrl+G (Windows/Linux), Cmd+G (Mac)",
+                "description": "Jumps to a specific line number."
+            },
+            {
+                "name": "Comment Line",
+                "shortcut": "Ctrl+/ (Windows/Linux), Cmd+/ (Mac)",
+                "description": "Toggles commenting for the current line."
+            },
+            {
+                "name": "Open Integrated Terminal",
+                "shortcut": "Ctrl+` (Windows/Linux), Cmd+` (Mac)",
+                "description": "Opens or hides the integrated terminal."
+            },
+            {
+                "name": "Format Document",
+                "shortcut": "Shift+Alt+F (Windows/Linux), Shift+Option+F (Mac)",
+                "description": "Formats the entire document based on the language rules."
+            },
+            {
+                "name": "Rename Symbol",
+                "shortcut": "F2",
+                "description": "Renames all occurrences of a symbol."
+            },
+            {
+                "name": "Toggle Full Screen",
+                "shortcut": "F11",
+                "description": "Enters or exits full-screen mode."
+            },
+            {
+                "name": "Zoom In/Out",
+                "shortcut": "Ctrl+= or Ctrl+- (Windows/Linux), Cmd+= or Cmd+- (Mac)",
+                "description": "Zooms in or out of the editor view."
+            }
+        ]
+    }
+]

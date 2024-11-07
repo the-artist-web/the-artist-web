@@ -1,0 +1,99 @@
+/* ---------------------------------------------------- *\
+ * ASIDE
+\* ---------------------------------------------------- */
+
+.aside {
+    background-color: var(--bg-color);
+    border-right: 2px solid var(--border-color) !important;
+    color: var(--text-color);
+    padding-block: 16px;
+    max-width: 80px;
+    height: 100vh;
+
+    .close-aside {
+        padding: 20px 0;
+        color: var(--text-color) !important;
+    }
+
+    .aside-list {
+        &::-webkit-scrollbar { display: none; }
+
+        .aside-link {
+            color: var(--second-color);
+            padding: 20px 0;
+            width: 80px;
+            transition: 0.4s;
+    
+            &:hover {
+                color: var(--text-color);
+                transition: 0.4s;
+            }
+            
+            &.active { 
+                border-left: 4px solid var(--text-color); 
+                color: var(--text-color);
+            }
+    
+            .img-logo {
+                min-width: 40px;
+                min-height: 40px;
+                max-width: 40px;
+                max-height: 40px;
+                filter: drop-shadow(0 0 1px black);
+            }
+            
+            .ctrl-k {
+                border: 1px solid var(--second-color);
+                font-size: 13px;
+                padding: 3px 6px;
+            }
+        }
+    }
+    
+    .btn-group {
+        &:hover .open-dropmenu { color: var(--text-color) !important; } 
+
+        .open-dropmenu {
+            color: var(--second-color) !important;
+            width: 80px;
+            transition: 0.4s;
+            
+            &:hover {
+                color: var(--text-color) !important;
+                transition: 0.4s;
+            }
+        }
+
+        .dropdown-menu {
+            background-color: var(--bg-color) !important;
+            border: 2px solid var(--second-bg-color);
+            color: var(--text-color);
+            min-width: 80px;
+            max-width: 80px;
+
+            .dropmenu-item {
+                color: var(--second-color);
+                height: 60px;
+                transition: 0.4s;
+
+                &:hover {
+                    background-color: var(--second-bg-color);
+                    color: var(--text-color);
+                    transition: 0.4s;
+                }
+            }
+
+            .dropmenu-theme {
+                padding-block: 16px;
+                color: var(--second-color);
+                transition: 0.4s;
+
+                &:hover {
+                    background-color: var(--second-bg-color);
+                    color: var(--text-color);
+                    transition: 0.4s;
+                }
+            }
+        }
+    }
+}

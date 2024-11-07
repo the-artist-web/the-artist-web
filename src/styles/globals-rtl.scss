@@ -1,0 +1,118 @@
+/* ---------------------------------------------------- *\
+ * ASIDE
+\* ---------------------------------------------------- */
+
+html[dir="rtl"] .aside {
+    right: 0 !important;
+    left: auto;
+    transform: translateX(100%);
+    border-right: transparent !important;
+    border-left: 2px solid var(--border-color) !important;
+
+    .aside-list {
+        .aside-link {
+            &.active { 
+                border-left: transparent;
+                border-right: 4px solid var(--text-color);
+            }
+        }
+    }
+}
+
+/* ---------------------------------------------------- *\
+ * ASIDE DOCS
+\* ---------------------------------------------------- */
+
+html[dir="rtl"] .slide-docs {
+    border-right: transparent !important;
+    border-left: 2px solid var(--border-color) !important;
+    transform: translateX(100%);
+    left: auto !important;
+    right: 0 !important;
+
+    .close-slide-docs {
+        right: auto;
+        left: 16px;
+    }
+
+    .slide-link {
+        border-left: transparent;        
+        border-right: 2px solid var(--border-color);
+
+        &.active {
+            border-left: transparent;            
+            border-right: 2px solid var(--main-color);
+        }
+
+        &:hover {
+            border-left: transparent;            
+            border-right: 2px solid var(--main-color);
+        }
+    }
+}
+
+/* ---------------------------------------------------- *\
+ * SEARCHBAR
+\* ---------------------------------------------------- */
+
+html[dir="rtl"] .searchbar {
+    .modal-body {
+        .searchbar-link {
+            border-left: transparent;
+            border-right: 2px solid var(--second-color);
+
+            &:hover {
+                border-left: transparent;
+                border-right: 2px solid var(--text-color);
+            }
+        }
+    }
+}
+
+/* ---------------------------------------------------- *\
+ * DOCS PAGE
+\* ---------------------------------------------------- */
+
+html[dir="rtl"] .main-docs {
+    .docs-body {
+        .btn-element {
+            border-left: transparent !important;            
+            border-right: 2px solid var(--second-color) !important;
+
+            &:hover {
+                border-left: transparent !important;                
+                border-right: 2px solid var(--main-color) !important;
+            }
+        }
+    }
+}
+
+/* ---------------------------------------------------- *\
+ * MEDIA QUERY
+\* ---------------------------------------------------- */
+
+/**
+ * FIT SIZE: 992px
+ */
+@media screen and (min-width: 992px) {
+    // ASIDE DOCS
+    html[dir="rtl"] .slide-docs {
+        left: auto !important;
+        right: 110px !important;
+    }
+
+    // HOME PAGE
+    .main {
+        width: calc(100% - 160px);
+        position: relative;
+        right: 160px;
+    }
+
+    // DOCS PAGE
+    html[dir="rtl"] .main-docs {
+        width: calc(100% - 444px);
+        position: relative;
+        right: 410px;
+        left: 34px;
+    }
+}

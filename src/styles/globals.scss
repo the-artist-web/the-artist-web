@@ -1,0 +1,31 @@
+@use "./prism";
+
+// style guid
+@use "./style-guid";
+
+// layout
+@use "./layout";
+
+// typography
+@use "./typography";
+
+// dublicate items
+@use "./dublicateItem";
+
+// utilities
+@use "./utilities";
+
+// components
+@use "./components/navbar";
+@use "./components/aside";
+@use "./components/searchbar";
+@use "./components/slider-docs";
+@use "./components/footer";
+
+// pages
+@use "./pages/home";
+@use "./pages/docs";
+@use "./pages/cv";
+
+// media query
+@use "./media-query";

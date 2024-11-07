@@ -1,0 +1,1557 @@
+[
+    {
+        "title": "A",
+        "items": [
+            {
+                "name": "accent-color",
+                "link": "/docs/css/accent-color"
+            },
+            {
+                "name": "align-content",
+                "link": "/docs/css/align-content"
+            },
+            {
+                "name": "align-items",
+                "link": "/docs/css/align-items"
+            },
+            {
+                "name": "align-self",
+                "link": "/docs/css/align-self"
+            },
+            {
+                "name": "all",
+                "link": "/docs/css/all"
+            },
+            {
+                "name": "animation",
+                "link": "/docs/css/animation"
+            },
+            {
+                "name": "animation-delay",
+                "link": "/docs/css/animation-delay"
+            },
+            {
+                "name": "animation-direction",
+                "link": "/docs/css/animation-direction"
+            },
+            {
+                "name": "animation-duration",
+                "link": "/docs/css/animation-duration"
+            },
+            {
+                "name": "animation-fill-mode",
+                "link": "/docs/css/animation-fill-mode"
+            },
+            {
+                "name": "animation-iteration-count",
+                "link": "/docs/css/animation-iteration-count"
+            },
+            {
+                "name": "animation-name",
+                "link": "/docs/css/animation-name"
+            },
+            {
+                "name": "animation-play-state",
+                "link": "/docs/css/animation-play-state"
+            },
+            {
+                "name": "animation-timing-function",
+                "link": "/docs/css/animation-timing-function"
+            },
+            {
+                "name": "aspect-ratio",
+                "link": "/docs/css/aspect-ratio"
+            }
+        ]
+    },
+    {
+        "title": "B",
+        "items": [
+            {
+                "name": "backdrop-filter",
+                "link": "/docs/css/backdrop-filter"
+            },
+            {
+                "name": "backface-visibility",
+                "link": "/docs/css/backface-visibility"
+            },
+            {
+                "name": "background",
+                "link": "/docs/css/background"
+            },
+            {
+                "name": "background-attachment",
+                "link": "/docs/css/background-attachment"
+            },
+            {
+                "name": "background-blend-mode",
+                "link": "/docs/css/background-blend-mode"
+            },
+            {
+                "name": "background-clip",
+                "link": "/docs/css/background-clip"
+            },
+            {
+                "name": "background-color",
+                "link": "/docs/css/background-color"
+            },
+            {
+                "name": "background-image",
+                "link": "/docs/css/background-image"
+            },
+            {
+                "name": "background-origin",
+                "link": "/docs/css/background-origin"
+            },
+            {
+                "name": "background-position",
+                "link": "/docs/css/background-position"
+            },
+            {
+                "name": "background-position-x",
+                "link": "/docs/css/background-position-x"
+            },
+            {
+                "name": "background-position-y",
+                "link": "/docs/css/background-position-y"
+            },
+            {
+                "name": "background-repeat",
+                "link": "/docs/css/background-repeat"
+            },
+            {
+                "name": "background-size",
+                "link": "/docs/css/background-size"
+            },
+            {
+                "name": "block-size",
+                "link": "/docs/css/block-size"
+            },
+            {
+                "name": "border",
+                "link": "/docs/css/border"
+            },
+            {
+                "name": "border-block",
+                "link": "/docs/css/border-block"
+            },
+            {
+                "name": "border-block-color",
+                "link": "/docs/css/border-block-color"
+            },
+            {
+                "name": "border-block-end",
+                "link": "/docs/css/border-block-end"
+            },
+            {
+                "name": "border-block-end-color",
+                "link": "/docs/css/border-block-end-color"
+            },
+            {
+                "name": "border-block-end-style",
+                "link": "/docs/css/border-block-end-style"
+            },
+            {
+                "name": "border-block-end-width",
+                "link": "/docs/css/border-block-end-width"
+            },
+            {
+                "name": "border-block-start",
+                "link": "/docs/css/border-block-start"
+            },
+            {
+                "name": "border-block-start-color",
+                "link": "/docs/css/border-block-start-color"
+            },
+            {
+                "name": "border-block-start-style",
+                "link": "/docs/css/border-block-start-style"
+            },
+            {
+                "name": "border-block-start-width",
+                "link": "/docs/css/border-block-start-width"
+            },
+            {
+                "name": "border-block-style",
+                "link": "/docs/css/border-block-style"
+            },
+            {
+                "name": "border-block-width",
+                "link": "/docs/css/border-block-width"
+            },
+            {
+                "name": "border-bottom",
+                "link": "/docs/css/border-bottom"
+            },
+            {
+                "name": "border-bottom-color",
+                "link": "/docs/css/border-bottom-color"
+            },
+            {
+                "name": "border-bottom-left-radius",
+                "link": "/docs/css/border-bottom-left-radius"
+            },
+            {
+                "name": "border-bottom-right-radius",
+                "link": "/docs/css/border-bottom-right-radius"
+            },
+            {
+                "name": "border-bottom-style",
+                "link": "/docs/css/border-bottom-style"
+            },
+            {
+                "name": "border-bottom-width",
+                "link": "/docs/css/border-bottom-width"
+            },
+            {
+                "name": "border-collapse",
+                "link": "/docs/css/border-collapse"
+            },
+            {
+                "name": "border-color",
+                "link": "/docs/css/border-color"
+            },
+            {
+                "name": "border-end-end-radius",
+                "link": "/docs/css/border-end-end-radius"
+            },
+            {
+                "name": "border-end-start-radius",
+                "link": "/docs/css/border-end-end-radius"
+            },
+            {
+                "name": "border-image",
+                "link": "/docs/css/border-image"
+            },
+            {
+                "name": "border-image-outset",
+                "link": "/docs/css/border-image-outset"
+            },
+            {
+                "name": "border-image-repeat",
+                "link": "/docs/css/border-image-repeat"
+            },
+            {
+                "name": "border-image-slice",
+                "link": "/docs/css/border-image-slice"
+            },
+            {
+                "name": "border-image-source",
+                "link": "/docs/css/border-image-source"
+            },
+            {
+                "name": "border-image-width",
+                "link": "/docs/css/border-image-width"
+            },
+            {
+                "name": "border-inline",
+                "link": "/docs/css/border-inline"
+            },
+            {
+                "name": "border-inline-color",
+                "link": "/docs/css/border-inline-color"
+            },
+            {
+                "name": "border-inline-end",
+                "link": "/docs/css/border-inline-end"
+            },
+            {
+                "name": "border-inline-end-color",
+                "link": "/docs/css/border-inline-end-color"
+            },
+            {
+                "name": "border-inline-end-style",
+                "link": "/docs/css/border-inline-end-style"
+            },
+            {
+                "name": "border-inline-end-width",
+                "link": "/docs/css/border-inline-end-width"
+            },
+            {
+                "name": "border-inline-start",
+                "link": "/docs/css/border-inline-start"
+            },
+            {
+                "name": "border-inline-startborder-inline-start-color",
+                "link": "/docs/css/border-inline-start-color"
+            },
+            {
+                "name": "border-inline-start-style",
+                "link": "/docs/css/border-inline-start-style"
+            },
+            {
+                "name": "border-inline-start-width",
+                "link": "/docs/css/border-inline-start-width"
+            },
+            {
+                "name": "border-inline-style",
+                "link": "/docs/css/border-inline-style"
+            },
+            {
+                "name": "border-inline-width",
+                "link": "/docs/css/border-inline-width"
+            },
+            {
+                "name": "border-left",
+                "link": "/docs/css/border-left"
+            },
+            {
+                "name": "border-left-color",
+                "link": "/docs/css/border-left-color"
+            },
+            {
+                "name": "border-left-style",
+                "link": "/docs/css/border-left-style"
+            },
+            {
+                "name": "border-left-width",
+                "link": "/docs/css/border-left-width"
+            },
+            {
+                "name": "border-radius",
+                "link": "/docs/css/border-radius"
+            },
+            {
+                "name": "border-right",
+                "link": "/docs/css/border-right"
+            },
+            {
+                "name": "border-right-color",
+                "link": "/docs/css/border-right-color"
+            },
+            {
+                "name": "border-right-style",
+                "link": "/docs/css/border-right-style"
+            },
+            {
+                "name": "border-right-width",
+                "link": "/docs/css/border-right-width"
+            },
+            {
+                "name": "border-spacing",
+                "link": "/docs/css/border-spacing"
+            },
+            {
+                "name": "border-start-end-radius",
+                "link": "/docs/css/border-start-end-radius"
+            },
+            {
+                "name": "border-start-start-radius",
+                "link": "/docs/css/border-start-start-radius"
+            },
+            {
+                "name": "border-style",
+                "link": "/docs/css/border-style"
+            },
+            {
+                "name": "border-top",
+                "link": "/docs/css/border-top"
+            },
+            {
+                "name": "border-top-color",
+                "link": "/docs/css/border-top-color"
+            },
+            {
+                "name": "border-top-left-radius",
+                "link": "/docs/css/border-top-left-radius"
+            },
+            {
+                "name": "border-top-right-radius",
+                "link": "/docs/css/border-top-right-radius"
+            },
+            {
+                "name": "border-top-style",
+                "link": "/docs/css/border-top-style"
+            },
+            {
+                "name": "border-top-width",
+                "link": "/docs/css/border-top-width"
+            },
+            {
+                "name": "border-width",
+                "link": "/docs/css/border-width"
+            },
+            {
+                "name": "bottom",
+                "link": "/docs/css/bottom"
+            },
+            {
+                "name": "box-decoration-break",
+                "link": "/docs/css/box-decoration-break"
+            },
+            {
+                "name": "box-reflect",
+                "link": "/docs/css/box-reflect"
+            },
+            {
+                "name": "box-shadow",
+                "link": "/docs/css/box-shadow"
+            },
+            {
+                "name": "box-sizing",
+                "link": "/docs/css/box-sizing"
+            },
+            {
+                "name": "break-after",
+                "link": "/docs/css/break-after"
+            },
+            {
+                "name": "break-before",
+                "link": "/docs/css/break-before"
+            },
+            {
+                "name": "break-inside",
+                "link": "/docs/css/break-inside"
+            }
+        ]
+    },
+    {
+        "title": "C",
+        "items": [
+            {
+                "name": "caption-side",
+                "link": "/docs/css/caption-side"
+            },
+            {
+                "name": "caret-color",
+                "link": "/docs/css/caret-color"
+            },
+            {
+                "name": "@charset",
+                "link": "/docs/css/@charset"
+            },
+            {
+                "name": "clear",
+                "link": "/docs/css/clear"
+            },
+            {
+                "name": "clip",
+                "link": "/docs/css/clip"
+            },
+            {
+                "name": "clip-path",
+                "link": "/docs/css/clip-path"
+            },
+            {
+                "name": "color",
+                "link": "/docs/css/color"
+            },
+            {
+                "name": "color-scheme",
+                "link": "/docs/css/color-scheme"
+            },
+            {
+                "name": "column-count",
+                "link": "/docs/css/column-count"
+            },
+            {
+                "name": "column-fill",
+                "link": "/docs/css/column-fill"
+            },
+            {
+                "name": "column-gap",
+                "link": "/docs/css/column-gap"
+            },
+            {
+                "name": "column-rule",
+                "link": "/docs/css/column-rule"
+            },
+            {
+                "name": "column-rule-color",
+                "link": "/docs/css/column-rule-color"
+            },
+            {
+                "name": "column-rule-style",
+                "link": "/docs/css/column-rule-style"
+            },
+            {
+                "name": "column-rule-width",
+                "link": "/docs/css/column-rule-width"
+            },
+            {
+                "name": "column-span",
+                "link": "/docs/css/column-span"
+            },
+            {
+                "name": "column-width",
+                "link": "/docs/css/column-width"
+            },
+            {
+                "name": "columns",
+                "link": "/docs/css/columns"
+            },
+            {
+                "name": "content",
+                "link": "/docs/css/content"
+            },
+            {
+                "name": "counter-increment",
+                "link": "/docs/css/counter-increment"
+            },
+            {
+                "name": "counter-reset",
+                "link": "/docs/css/counter-reset"
+            },
+            {
+                "name": "counter-set",
+                "link": "/docs/css/counter-set"
+            },
+            {
+                "name": "cursor",
+                "link": "/docs/css/cursor"
+            }
+        ]
+    },
+    {
+        "title": "D",
+        "items": [
+            {
+                "name": "direction",
+                "link": "/docs/css/direction"
+            },
+            {
+                "name": "display",
+                "link": "/docs/css/display"
+            }
+        ]
+    },
+    {
+        "title": "E",
+        "items": [
+            {
+                "name": "empty-cells",
+                "link": "/docs/css/empty-cells"
+            }
+        ]
+    },
+    {
+        "title": "F",
+        "items": [
+            {
+                "name": "filter",
+                "link": "/docs/css/filter"
+            },
+            {
+                "name": "flex",
+                "link": "/docs/css/flex"
+            },
+            {
+                "name": "flex-basis",
+                "link": "/docs/css/flex-basis"
+            },
+            {
+                "name": "flex-direction",
+                "link": "/docs/css/flex-direction"
+            },
+            {
+                "name": "flex-flow",
+                "link": "/docs/css/flex-flow"
+            },
+            {
+                "name": "flex-grow",
+                "link": "/docs/css/flex-grow"
+            },
+            {
+                "name": "flex-shrink",
+                "link": "/docs/css/flex-shrink"
+            },
+            {
+                "name": "flex-wrap",
+                "link": "/docs/css/flex-wrap"
+            },
+            {
+                "name": "float",
+                "link": "/docs/css/float"
+            },
+            {
+                "name": "font",
+                "link": "/docs/css/font"
+            },
+            {
+                "name": "@font-face",
+                "link": "/docs/css/@font-face"
+            },
+            {
+                "name": "font-family",
+                "link": "/docs/css/font-family"
+            },
+            {
+                "name": "font-feature-settings",
+                "link": "/docs/css/font-feature-settings"
+            },
+            {
+                "name": "@font-feature-values",
+                "link": "/docs/css/@font-feature-values"
+            },
+            {
+                "name": "font-kerning",
+                "link": "/docs/css/font-kerning"
+            },
+            {
+                "name": "font-language-override",
+                "link": "/docs/css/font-language-override"
+            },
+            {
+                "name": "font-size",
+                "link": "/docs/css/font-size"
+            },
+            {
+                "name": "font-size-adjust",
+                "link": "/docs/css/font-size-adjust"
+            },
+            {
+                "name": "font-stretch",
+                "link": "/docs/css/font-stretch"
+            },
+            {
+                "name": "font-style",
+                "link": "/docs/css/font-style"
+            },
+            {
+                "name": "font-synthesis",
+                "link": "/docs/css/font-synthesis"
+            },
+            {
+                "name": "font-variant",
+                "link": "/docs/css/font-variant"
+            },
+            {
+                "name": "font-variant-alternates",
+                "link": "/docs/css/font-variant-alternates"
+            },
+            {
+                "name": "font-variant-caps",
+                "link": "/docs/css/font-variant-caps"
+            },
+            {
+                "name": "font-variant-east-asian",
+                "link": "/docs/css/font-variant-east-asian"
+            },
+            {
+                "name": "font-variant-ligatures",
+                "link": "/docs/css/font-variant-ligatures"
+            },
+            {
+                "name": "font-variant-numeric",
+                "link": "/docs/css/font-variant-numeric"
+            },
+            {
+                "name": "font-variant-position",
+                "link": "/docs/css/font-variant-position"
+            },
+            {
+                "name": "font-weight",
+                "link": "/docs/css/font-weight"
+            }
+        ]
+    },
+    {
+        "title": "G",
+        "items": [
+            {
+                "name": "gap",
+                "link": "/docs/css/gap"
+            },
+            {
+                "name": "grid",
+                "link": "/docs/css/grid"
+            },
+            {
+                "name": "grid-area",
+                "link": "/docs/css/grid-area"
+            },
+            {
+                "name": "grid-auto-columns",
+                "link": "/docs/css/grid-auto-columns"
+            },
+            {
+                "name": "grid-auto-flow",
+                "link": "/docs/css/grid-auto-flow"
+            },
+            {
+                "name": "grid-auto-rows",
+                "link": "/docs/css/grid-auto-rows"
+            },
+            {
+                "name": "grid-column",
+                "link": "/docs/css/grid-column"
+            },
+            {
+                "name": "grid-column-end",
+                "link": "/docs/css/grid-column-end"
+            },
+            {
+                "name": "grid-column-start",
+                "link": "/docs/css/grid-column-start"
+            },
+            {
+                "name": "grid-row",
+                "link": "/docs/css/grid-row"
+            },
+            {
+                "name": "grid-row-end",
+                "link": "/docs/css/grid-row-end"
+            },
+            {
+                "name": "grid-row-start",
+                "link": "/docs/css/grid-row-start"
+            },
+            {
+                "name": "grid-template",
+                "link": "/docs/css/grid-template"
+            },
+            {
+                "name": "grid-template-areas",
+                "link": "/docs/css/grid-template-areas"
+            },
+            {
+                "name": "grid-template-columns",
+                "link": "/docs/css/grid-template-columns"
+            },
+            {
+                "name": "grid-template-rows",
+                "link": "/docs/css/grid-template-rows"
+            }
+        ]
+    },
+    {
+        "title": "H",
+        "items": [
+            {
+                "name": "hanging-punctuation",
+                "link": "/docs/css/hanging-punctuation"
+            },
+            {
+                "name": "height",
+                "link": "/docs/css/height"
+            },
+            {
+                "name": "hyphens",
+                "link": "/docs/css/hyphens"
+            },
+            {
+                "name": "hypenate-character",
+                "link": "/docs/css/hypenate-character"
+            }
+        ]
+    },
+    {
+        "title": "I",
+        "items": [
+            {
+                "name": "image-rendering",
+                "link": "/docs/css/image-rendering"
+            },
+            {
+                "name": "@import",
+                "link": "/docs/css/@import"
+            },
+            {
+                "name": "initial-letter",
+                "link": "/docs/css/initial-letter"
+            },
+            {
+                "name": "inline-size",
+                "link": "/docs/css/inline-size"
+            },
+            {
+                "name": "inset",
+                "link": "/docs/css/inset"
+            },
+            {
+                "name": "inset-block",
+                "link": "/docs/css/inset-block"
+            },
+            {
+                "name": "inset-block-end",
+                "link": "/docs/css/inset-block-end"
+            },
+            {
+                "name": "inset-block-start",
+                "link": "/docs/css/inset-block-start"
+            },
+            {
+                "name": "inset-inline",
+                "link": "/docs/css/inset-inline"
+            },
+            {
+                "name": "inset-inline-end",
+                "link": "/docs/css/inset-inline-end"
+            },
+            {
+                "name": "inset-inline-start",
+                "link": "/docs/css/inset-inline-start"
+            },
+            {
+                "name": "isolation",
+                "link": "/docs/css/isolation"
+            }
+        ]
+    },
+    {
+        "title": "J",
+        "items": [
+            {
+                "name": "justify-content",
+                "link": "/docs/css/justify-content"
+            },
+            {
+                "name": "justify-items",
+                "link": "/docs/css/justify-items"
+            },
+            {
+                "name": "justify-self",
+                "link": "/docs/css/justify-self"
+            }
+        ]
+    },
+    {
+        "title": "K",
+        "items": [
+            {
+                "name": "@keyframes",
+                "link": "/docs/css/@keyframes"
+            }
+        ]
+    },
+    {
+        "title": "L",
+        "items": [
+            {
+                "name": "left",
+                "link": "/docs/css/left"
+            },
+            {
+                "name": "letter-spacing",
+                "link": "/docs/css/letter-spacing"
+            },
+            {
+                "name": "line-break",
+                "link": "/docs/css/line-break"
+            },
+            {
+                "name": "line-height",
+                "link": "/docs/css/line-height"
+            },
+            {
+                "name": "list-style",
+                "link": "/docs/css/list-style"
+            },
+            {
+                "name": "list-style-image",
+                "link": "/docs/css/list-style-image"
+            },
+            {
+                "name": "list-style-position",
+                "link": "/docs/css/list-style-position"
+            },
+            {
+                "name": "list-style-type",
+                "link": "/docs/css/list-style-type"
+            }
+        ]
+    },
+    {
+        "title": "M",
+        "items": [
+            {
+                "name": "margin",
+                "link": "/docs/css/margin"
+            },
+            {
+                "name": "margin-block",
+                "link": "/docs/css/margin-block"
+            },
+            {
+                "name": "margin-block-end",
+                "link": "/docs/css/margin-block-end"
+            },
+            {
+                "name": "margin-block-start",
+                "link": "/docs/css/margin-block-start"
+            },
+            {
+                "name": "margin-bottom",
+                "link": "/docs/css/margin-bottom"
+            },
+            {
+                "name": "margin-inline",
+                "link": "/docs/css/margin-inline"
+            },
+            {
+                "name": "margin-inline-end",
+                "link": "/docs/css/margin-inline-end"
+            },
+            {
+                "name": "margin-inline-start",
+                "link": "/docs/css/margin-inline-start"
+            },
+            {
+                "name": "margin-left",
+                "link": "/docs/css/margin-left"
+            },
+            {
+                "name": "margin-right",
+                "link": "/docs/css/margin-right"
+            },
+            {
+                "name": "margin-top",
+                "link": "/docs/css/margin-top"
+            },
+            {
+                "name": "marker",
+                "link": "/docs/css/marker"
+            },
+            {
+                "name": "marker-end",
+                "link": "/docs/css/marker-end"
+            },
+            {
+                "name": "marker-mid",
+                "link": "/docs/css/marker-mid"
+            },
+            {
+                "name": "marker-start",
+                "link": "/docs/css/marker-start"
+            },
+            {
+                "name": "mask",
+                "link": "/docs/css/mask"
+            },
+            {
+                "name": "mask-clip",
+                "link": "/docs/css/mask-clip"
+            },
+            {
+                "name": "mask-composite",
+                "link": "/docs/css/mask-composite"
+            },
+            {
+                "name": "mask-image",
+                "link": "/docs/css/mask-image"
+            },
+            {
+                "name": "mask-mode",
+                "link": "/docs/css/mask-mode"
+            },
+            {
+                "name": "mask-origin",
+                "link": "/docs/css/mask-origin"
+            },
+            {
+                "name": "mask-position",
+                "link": "/docs/css/mask-position"
+            },
+            {
+                "name": "mask-repeat",
+                "link": "/docs/css/mask-repeat"
+            },
+            {
+                "name": "mask-size",
+                "link": "/docs/css/mask-size"
+            },
+            {
+                "name": "mask-type",
+                "link": "/docs/css/mask-type"
+            },
+            {
+                "name": "max-height",
+                "link": "/docs/css/max-height"
+            },
+            {
+                "name": "max-width",
+                "link": "/docs/css/max-width"
+            },
+            {
+                "name": "@media",
+                "link": "/docs/css/@media"
+            },
+            {
+                "name": "max-block-size",
+                "link": "/docs/css/max-block-size"
+            },
+            {
+                "name": "max-inline-size",
+                "link": "/docs/css/max-inline-size"
+            },
+            {
+                "name": "min-block-size",
+                "link": "/docs/css/min-block-size"
+            },
+            {
+                "name": "min-inline-size",
+                "link": "/docs/css/min-inline-size"
+            },
+            {
+                "name": "min-height",
+                "link": "/docs/css/min-height"
+            },
+            {
+                "name": "min-width",
+                "link": "/docs/css/min-width"
+            },
+            {
+                "name": "mix-blend-mode",
+                "link": "/docs/css/mix-blend-mode"
+            }
+        ]
+    },
+    {
+        "title": "O",
+        "items": [
+            {
+                "name": "object-fit",
+                "link": "/docs/css/object-fit"
+            },
+            {
+                "name": "object-position",
+                "link": "/docs/css/object-position"
+            },
+            {
+                "name": "offset",
+                "link": "/docs/css/offset"
+            },
+            {
+                "name": "offset-anchor",
+                "link": "/docs/css/offset-anchor"
+            },
+            {
+                "name": "offset-distance",
+                "link": "/docs/css/offset-distance"
+            },
+            {
+                "name": "offset-path",
+                "link": "/docs/css/offset-path"
+            },
+            {
+                "name": "offset-position",
+                "link": "/docs/css/offset-position"
+            },
+            {
+                "name": "offset-rotate",
+                "link": "/docs/css/offset-rotate"
+            },
+            {
+                "name": "opacity",
+                "link": "/docs/css/opacity"
+            },
+            {
+                "name": "order",
+                "link": "/docs/css/order"
+            },
+            {
+                "name": "orphans",
+                "link": "/docs/css/orphans"
+            },
+            {
+                "name": "outline",
+                "link": "/docs/css/outline"
+            },
+            {
+                "name": "outline-color",
+                "link": "/docs/css/outline-color"
+            },
+            {
+                "name": "outline-offset",
+                "link": "/docs/css/outline-offset"
+            },
+            {
+                "name": "outline-style",
+                "link": "/docs/css/outline-style"
+            },
+            {
+                "name": "outline-width",
+                "link": "/docs/css/outline-width"
+            },
+            {
+                "name": "overflow",
+                "link": "/docs/css/overflow"
+            },
+            {
+                "name": "overflow-anchor",
+                "link": "/docs/css/overflow-anchor"
+            },
+            {
+                "name": "overflow-wrap",
+                "link": "/docs/css/overflow-wrap"
+            },
+            {
+                "name": "overflow-x",
+                "link": "/docs/css/overflow-x"
+            },
+            {
+                "name": "overflow-y",
+                "link": "/docs/css/overflow-y"
+            },
+            {
+                "name": "overscroll-behavior",
+                "link": "/docs/css/overscroll-behavior"
+            },
+            {
+                "name": "overscroll-behavior-block",
+                "link": "/docs/css/overscroll-behavior-block"
+            },
+            {
+                "name": "overscroll-behavior-inline",
+                "link": "/docs/css/overscroll-behavior-inline"
+            },
+            {
+                "name": "overscroll-behavior-x",
+                "link": "/docs/css/overscroll-behavior-x"
+            },
+            {
+                "name": "overscroll-behavior-y",
+                "link": "/docs/css/overscroll-behavior-y"
+            }
+        ]
+    },
+    {
+        "title": "P",
+        "items": [
+            {
+                "name": "padding",
+                "link": "/docs/css/padding"
+            },
+            {
+                "name": "padding-block",
+                "link": "/docs/css/padding-block"
+            },
+            {
+                "name": "padding-block-end",
+                "link": "/docs/css/padding-block-end"
+            },
+            {
+                "name": "padding-block-start",
+                "link": "/docs/css/padding-block-start"
+            },
+            {
+                "name": "padding-bottom",
+                "link": "/docs/css/padding-bottom"
+            },
+            {
+                "name": "padding-inline",
+                "link": "/docs/css/padding-inline"
+            },
+            {
+                "name": "padding-inline-end",
+                "link": "/docs/css/padding-inline-end"
+            },
+            {
+                "name": "padding-inline-start",
+                "link": "/docs/css/padding-inline-start"
+            },
+            {
+                "name": "padding-left",
+                "link": "/docs/css/padding-left"
+            },
+            {
+                "name": "padding-right",
+                "link": "/docs/css/padding-right"
+            },
+            {
+                "name": "padding-top",
+                "link": "/docs/css/padding-top"
+            },
+            {
+                "name": "page-break-after",
+                "link": "/docs/css/page-break-after"
+            },
+            {
+                "name": "page-break-before",
+                "link": "/docs/css/page-break-before"
+            },
+            {
+                "name": "page-break-inside",
+                "link": "/docs/css/page-break-inside"
+            },
+            {
+                "name": "paint-order",
+                "link": "/docs/css/paint-order"
+            },
+            {
+                "name": "perspective",
+                "link": "/docs/css/perspective"
+            },
+            {
+                "name": "perspective-origin",
+                "link": "/docs/css/perspective-origin"
+            },
+            {
+                "name": "place-content",
+                "link": "/docs/css/place-content"
+            },
+            {
+                "name": "place-items",
+                "link": "/docs/css/place-items"
+            },
+            {
+                "name": "place-self",
+                "link": "/docs/css/place-self"
+            },
+            {
+                "name": "pointer-events",
+                "link": "/docs/css/pointer-events"
+            },
+            {
+                "name": "position",
+                "link": "/docs/css/position"
+            },
+            {
+                "name": "@property",
+                "link": "/docs/css/@property"
+            }
+        ]
+    },
+    {
+        "title": "Q",
+        "items": [
+            {
+                "name": "quotes",
+                "link": "/docs/css/quotes"
+            }
+        ]
+    },
+    {
+        "title": "R",
+        "items": [
+            {
+                "name": "resize",
+                "link": "/docs/css/resize"
+            },
+            {
+                "name": "right",
+                "link": "/docs/css/right"
+            },
+            {
+                "name": "rotate",
+                "link": "/docs/css/rotate"
+            },
+            {
+                "name": "row-gap",
+                "link": "/docs/css/row-gap"
+            }
+        ]
+    },
+    {
+        "title": "S",
+        "items": [
+            {
+                "name": "scale",
+                "link": "/docs/css/scale"
+            },
+            {
+                "name": "scroll-behavior",
+                "link": "/docs/css/scroll-behavior"
+            },
+            {
+                "name": "scroll-margin",
+                "link": "/docs/css/scroll-margin"
+            },
+            {
+                "name": "scroll-margin-block",
+                "link": "/docs/css/scroll-margin-block"
+            },
+            {
+                "name": "scroll-margin-block-end",
+                "link": "/docs/css/scroll-margin-block-end"
+            },
+            {
+                "name": "scroll-margin-block-start",
+                "link": "/docs/css/scroll-margin-block-start"
+            },
+            {
+                "name": "scroll-margin-bottom",
+                "link": "/docs/css/scroll-margin-bottom"
+            },
+            {
+                "name": "scroll-margin-inline",
+                "link": "/docs/css/scroll-margin-inline"
+            },
+            {
+                "name": "scroll-margin-inline-end",
+                "link": "/docs/css/scroll-margin-inline-end"
+            },
+            {
+                "name": "scroll-margin-inline-start",
+                "link": "/docs/css/scroll-margin-inline-start"
+            },
+            {
+                "name": "scroll-margin-left",
+                "link": "/docs/css/scroll-margin-left"
+            },
+            {
+                "name": "scroll-margin-right",
+                "link": "/docs/css/scroll-margin-right"
+            },
+            {
+                "name": "scroll-margin-top",
+                "link": "/docs/css/scroll-margin-top"
+            },
+            {
+                "name": "scroll-padding",
+                "link": "/docs/css/scroll-padding"
+            },
+            {
+                "name": "scroll-padding-block",
+                "link": "/docs/css/scroll-padding-block"
+            },
+            {
+                "name": "scroll-padding-block-end",
+                "link": "/docs/css/scroll-padding-block-end"
+            },
+            {
+                "name": "scroll-padding-block-start",
+                "link": "/docs/css/scroll-padding-block-start"
+            },
+            {
+                "name": "scroll-padding-bottom",
+                "link": "/docs/css/scroll-padding-bottom"
+            },
+            {
+                "name": "scroll-padding-inline",
+                "link": "/docs/css/scroll-padding-inline"
+            },
+            {
+                "name": "scroll-padding-inline-end",
+                "link": "/docs/css/scroll-padding-inline-end"
+            },
+            {
+                "name": "scroll-padding-inline-start",
+                "link": "/docs/css/scroll-padding-inline-start"
+            },
+            {
+                "name": "scroll-padding-left",
+                "link": "/docs/css/scroll-padding-left"
+            },
+            {
+                "name": "scroll-padding-right",
+                "link": "/docs/css/scroll-padding-right"
+            },
+            {
+                "name": "scroll-padding-top",
+                "link": "/docs/css/scroll-padding-top"
+            },
+            {
+                "name": "scroll-snap-align",
+                "link": "/docs/css/scroll-snap-align"
+            },
+            {
+                "name": "scroll-snap-stop",
+                "link": "/docs/css/scroll-snap-stop"
+            },
+            {
+                "name": "scroll-snap-type",
+                "link": "/docs/css/scroll-snap-type"
+            },
+            {
+                "name": "scrollbar-color",
+                "link": "/docs/css/scrollbar-color"
+            }
+        ]
+    },
+    {
+        "title": "T",
+        "items": [
+            {
+                "name": "tab-size",
+                "link": "/docs/css/tab-size"
+            },
+            {
+                "name": "table-layout",
+                "link": "/docs/css/table-layout"
+            },
+            {
+                "name": "text-align",
+                "link": "/docs/css/text-align"
+            },
+            {
+                "name": "text-align-last",
+                "link": "/docs/css/text-align-last"
+            },
+            {
+                "name": "text-combine-upright",
+                "link": "/docs/css/text-combine-upright"
+            },
+            {
+                "name": "text-decoration",
+                "link": "/docs/css/text-decoration"
+            },
+            {
+                "name": "text-decoration-color",
+                "link": "/docs/css/text-decoration-color"
+            },
+            {
+                "name": "text-decoration-line",
+                "link": "/docs/css/text-decoration-line"
+            },
+            {
+                "name": "text-decoration-style",
+                "link": "/docs/css/text-decoration-style"
+            },
+            {
+                "name": "text-decoration-thickness",
+                "link": "/docs/css/text-decoration-thickness"
+            },
+            {
+                "name": "text-emphasis",
+                "link": "/docs/css/text-emphasis"
+            },
+            {
+                "name": "text-emphasis-color",
+                "link": "/docs/css/text-emphasis-color"
+            },
+            {
+                "name": "text-emphasis-position",
+                "link": "/docs/css/text-emphasis-position"
+            },
+            {
+                "name": "text-emphasis-style",
+                "link": "/docs/css/text-emphasis-style"
+            },
+            {
+                "name": "text-indent",
+                "link": "/docs/css/text-indent"
+            },
+            {
+                "name": "text-justify",
+                "link": "/docs/css/text-justify"
+            },
+            {
+                "name": "text-orientation",
+                "link": "/docs/css/text-orientation"
+            },
+            {
+                "name": "text-overflow",
+                "link": "/docs/css/text-overflow"
+            },
+            {
+                "name": "text-shadow",
+                "link": "/docs/css/text-shadow"
+            },
+            {
+                "name": "text-transform",
+                "link": "/docs/css/text-transform"
+            },
+            {
+                "name": "text-underline-offset",
+                "link": "/docs/css/text-underline-offset"
+            },
+            {
+                "name": "text-underline-position",
+                "link": "/docs/css/text-underline-position"
+            },
+            {
+                "name": "top",
+                "link": "/docs/css/top"
+            },
+            {
+                "name": "transform",
+                "link": "/docs/css/transform"
+            },
+            {
+                "name": "transform-origin",
+                "link": "/docs/css/transform-origin"
+            },
+            {
+                "name": "transform-style",
+                "link": "/docs/css/transform-style"
+            },
+            {
+                "name": "transition",
+                "link": "/docs/css/transition"
+            },
+            {
+                "name": "transition-delay",
+                "link": "/docs/css/transition-delay"
+            },
+            {
+                "name": "transition-duration",
+                "link": "/docs/css/transition-duration"
+            },
+            {
+                "name": "transition-property",
+                "link": "/docs/css/transition-property"
+            },
+            {
+                "name": "transition-timing-function",
+                "link": "/docs/css/transition-timing-function"
+            },
+            {
+                "name": "translate",
+                "link": "/docs/css/translate"
+            }
+        ]
+    },
+    {
+        "title": "U",
+        "items": [
+            {
+                "name": "unicode-bidi",
+                "link": "/docs/css/unicode-bidi"
+            },
+            {
+                "name": "user-select",
+                "link": "/docs/css/user-select"
+            }
+        ]
+    },
+    {
+        "title": "V",
+        "items": [
+            {
+                "name": "vertical-align",
+                "link": "/docs/css/vertical-align"
+            },
+            {
+                "name": "visibility",
+                "link": "/docs/css/visibility"
+            }
+        ]
+    },
+    {
+        "title": "W",
+        "items": [
+            {
+                "name": "white-space",
+                "link": "/docs/css/white-space"
+            },
+            {
+                "name": "widows",
+                "link": "/docs/css/widows"
+            },
+            {
+                "name": "width",
+                "link": "/docs/css/width"
+            },
+            {
+                "name": "word-break",
+                "link": "/docs/css/word-break"
+            },
+            {
+                "name": "word-spacing",
+                "link": "/docs/css/word-spacing"
+            },
+            {
+                "name": "word-wrap",
+                "link": "/docs/css/word-wrap"
+            },
+            {
+                "name": "writing-mode",
+                "link": "/docs/css/writing-mode"
+            }
+        ]
+    },
+    {
+        "title": "Z",
+        "items": [
+            {
+                "name": "z-index",
+                "link": "/docs/css/z-index"
+            },
+            {
+                "name": "zoom",
+                "link": "/docs/css/zoom"
+            }
+        ]
+    }
+]

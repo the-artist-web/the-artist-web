@@ -1,0 +1,24 @@
+/* ---------------------------------------------------- *\
+ * PRISMJS
+\* ---------------------------------------------------- */
+
+pre {
+    border: 2px solid var(--border-color) !important;
+    background-color: var(--second-bg-color) !important;
+    border-radius: 12px !important;
+    padding: 20px !important;
+    direction: ltr;
+
+    &::-webkit-scrollbar { display: block; }
+
+    code {
+        font-size: var(--fs-label-small) !important;
+        color: var(--text-color) !important;
+    }
+}
+
+.token.keyword { color: #c678dd; }
+
+.token.string { color: #98c379; }
+
+.token.comment { color: #5c6370; }
