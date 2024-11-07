@@ -7,8 +7,9 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "predeploy": "if exist .cache rmdir /S /Q .cache && npm run build",
-    "deploy": "gh-pages -d out"
+    "predeploy": "rm -rf .cache && npm run build",
+    "deploy": "npm run export",
+    "export": "next export"
   },
   "dependencies": {
     "bootstrap": "^5.3.3",
