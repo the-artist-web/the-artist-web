@@ -5,6 +5,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
     "predeploy": "if exist .cache rmdir /S /Q .cache && npm run build",
     "deploy": "gh-pages -d out"
   },
