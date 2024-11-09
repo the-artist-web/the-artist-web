@@ -5,8 +5,6 @@
   I decided to learn and enhance my skills in it, and I've actually achieved most of what 
   I needed, but I still aim to improve myself further. I won't stop here.</p>
 
-<h2>My Skills</h2>
-
 <table align="center">
   <tr>
     <td align="center" height="150" width="150">
