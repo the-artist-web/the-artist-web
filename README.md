@@ -7,7 +7,7 @@
 
 <h2>My Skills</h2>
 
-<table align="left">
+<table align="center">
   <tr>
     <td align="center" height="150" width="150">
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="75" height="75"/>
