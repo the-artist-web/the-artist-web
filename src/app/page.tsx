@@ -191,6 +191,20 @@ const Page = () => {
 
               <div className="col" data-gsap-skills>
                 <Link
+                  href="/docs/json"
+                  className="card card-skill border-0 d-flex align-items-center"
+                >
+                  <div className="card-body p-0">
+                    <h2 className="text-capitalize mb-3 label-large">json</h2>
+                    <p className="text-second m-0 p-0 label-small">
+                      JSON, which stands for JavaScript Object Notation, is a lightweight data interchange format that is easy for humans to read and write and easy for machines to parse and generate. It is primarily used to transmit data between a server and a web application as an alternative to XML.
+                    </p>
+                  </div>
+                </Link>
+              </div>
+
+              <div className="col" data-gsap-skills>
+                <Link
                   href="/docs/ts"
                   className="card card-skill border-0 d-flex align-items-center"
                 >
@@ -226,6 +240,34 @@ const Page = () => {
                     <h2 className="text-capitalize mb-3 label-large">next js</h2>
                     <p className="text-second m-0 p-0 label-small">
                     Next.js is a framework for building web applications using React, and is one of the most popular solutions for modern application development. Developed by Vercel, it offers many powerful features that help developers build robust and fast applications.
+                    </p>
+                  </div>
+                </Link>
+              </div>
+
+              <div className="col" data-gsap-skills>
+                <Link
+                  href="/docs/node-js"
+                  className="card card-skill border-0 d-flex align-items-center"
+                >
+                  <div className="card-body p-0">
+                    <h2 className="text-capitalize mb-3 label-large">node js</h2>
+                    <p className="text-second m-0 p-0 label-small">
+                      Node.js is a powerful, open-source JavaScript runtime built on Chrome’s V8 engine. It allows developers to run JavaScript on the server side, enabling fast, scalable, and efficient back-end development. Known for its non-blocking, event-driven architecture, Node.js is ideal for building real-time applications, like chat apps and APIs, that handle multiple requests simultaneously.
+                    </p>
+                  </div>
+                </Link>
+              </div>
+
+              <div className="col" data-gsap-skills>
+                <Link
+                  href="/docs/mongodb"
+                  className="card card-skill border-0 d-flex align-items-center"
+                >
+                  <div className="card-body p-0">
+                    <h2 className="text-capitalize mb-3 label-large">mongodb</h2>
+                    <p className="text-second m-0 p-0 label-small">
+                      MongoDB is a flexible, document-oriented NoSQL database that stores data in JSON-like, BSON format, making it easy to work with and highly scalable. Unlike traditional relational databases, MongoDB allows for dynamic schema design, which means you can handle large amounts of unstructured data and update schemas as needed without downtime. This flexibility makes MongoDB popular for applications that require quick access to data, high performance, and the ability to scale horizontally, such as content management systems, real-time analytics, and e-commerce platforms.
                     </p>
                   </div>
                 </Link>

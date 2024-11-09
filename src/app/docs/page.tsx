@@ -120,6 +120,22 @@ export default function Home() {
   );
 }`;
 
+const nodejsCode = `var http = require('http');
+
+http.createServer(function (req, res) {
+  res.writeHead(200, {'Content-Type': 'text/plain'});
+  res.end('Hello World!');
+}).listen(8080);`;
+
+const mongodbCode = `{
+	title: "Post Title 1",
+	body: "Body of post.",
+	category: "News",
+	likes: 1,
+	tags: ["news", "events"],
+	date: Date()
+}`;
+
 const Page = () => {
   useEffect(() => {
     document.title = "docs | the artist web";
@@ -142,7 +158,7 @@ const Page = () => {
 
               <h1 className="text-capitalize mb-3 headline-small">the artist web</h1>
               
-              <p className="label-small">a platform dedicated to showcasing my front-end development skills in <span className="text-second">HTML</span>, <span className="text-second">CSS</span>, <span className="text-second">Sass</span>, <span className="text-second">Bootstrap</span>, <span className="text-second">JavaScript</span>, <span className="text-second">TypeScript</span>, <span className="text-second">JSON</span>, <span className="text-second">React.js</span>, <span className="text-second">Next.js</span>, <span className="text-second">Git</span>, and <span className="text-second">GitHub</span>. Enjoy exploring a responsive and visually appealing design that ensures a smooth user experience.</p>
+              <p className="label-small">A platform dedicated to showcasing my full stack development skills in <span className="text-second">HTML</span>, <span className="text-second">CSS</span>, <span className="text-second">Sass</span>, <span className="text-second">Bootstrap</span>, <span className="text-second">JavaScript</span>, <span className="text-second">TypeScript</span>, <span className="text-second">JSON</span>, <span className="text-second">React.js</span>, <span className="text-second">Next.js</span>, <span className="text-second">Node.js</span>, <span className="text-second">MongoDB</span>, <span className="text-second">Git</span>, and <span className="text-second">GitHub</span>. Dive into a responsive, visually engaging design that provides a seamless user experience while highlighting both front-end and back-end capabilities.</p>
             
               <p className="mb-5 label-small">Here you will find everything you will need to get started. Let&apos;s take a look at what we will be doing.</p>
 
@@ -313,6 +329,40 @@ const Page = () => {
                   <div className="col">
                     <pre>
                       <code className="language-javascript">{nextjsCode}</code>
+                    </pre>
+                  </div>
+                </div>
+
+                <div className="row row-cols-1 row-cols-lg-2 g-4 g-lg-5">
+                  <div className="col">
+                    <div className="mb-2 d-flex align-items-center gap-3 text-capitalize label-medium">
+                      <span className="number d-flex align-items-center justify-content-center rounded-2">11</span>
+                      node js
+                    </div>
+
+                    <p className="description text-second m-0 label-small">Node.js is a powerful, open-source JavaScript runtime built on Chrome’s V8 engine. It allows developers to run JavaScript on the server side, enabling fast, scalable, and efficient back-end development. Known for its non-blocking, event-driven architecture, Node.js is ideal for building real-time applications, like chat apps and APIs, that handle multiple requests simultaneously.</p>
+                  </div>
+
+                  <div className="col">
+                    <pre>
+                      <code className="language-javascript">{nodejsCode}</code>
+                    </pre>
+                  </div>
+                </div>
+
+                <div className="row row-cols-1 row-cols-lg-2 g-4 g-lg-5">
+                  <div className="col">
+                    <div className="mb-2 d-flex align-items-center gap-3 text-capitalize label-medium">
+                      <span className="number d-flex align-items-center justify-content-center rounded-2">11</span>
+                      MongoDB
+                    </div>
+
+                    <p className="description text-second m-0 label-small">MongoDB is a flexible, document-oriented NoSQL database that stores data in JSON-like, BSON format, making it easy to work with and highly scalable. Unlike traditional relational databases, MongoDB allows for dynamic schema design, which means you can handle large amounts of unstructured data and update schemas as needed without downtime. This flexibility makes MongoDB popular for applications that require quick access to data, high performance, and the ability to scale horizontally, such as content management systems, real-time analytics, and e-commerce platforms.</p>
+                  </div>
+
+                  <div className="col">
+                    <pre>
+                      <code className="language-javascript">{mongodbCode}</code>
                     </pre>
                   </div>
                 </div>

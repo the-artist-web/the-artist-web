@@ -47,6 +47,14 @@
                 "link": "/docs/git&github"
             },
             {
+                "name": "node js",
+                "link": "/docs/node-js"
+            },
+            {
+                "name": "mongodb",
+                "link": "/docs/mongodb"
+            },
+            {
                 "name": "help ful sites",
                 "link": "/docs/helpfulsites"
             },

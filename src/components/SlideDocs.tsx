@@ -141,6 +141,22 @@ const SlideDocs = (props: TypeProps) => {
             <i className="fa-regular fa-file-lines"></i>
             next js
           </Link>
+
+          <Link 
+            href="/docs/node-js" 
+            className={`slide-link text-capitalize d-flex align-items-center gap-2 ${pathname.includes("/docs/node-js") ? "active" : ""} label-small`}
+          >
+            <i className="fa-regular fa-file-lines"></i>
+            node js
+          </Link>
+
+          <Link 
+            href="/docs/mongodb" 
+            className={`slide-link text-capitalize d-flex align-items-center gap-2 ${pathname.includes("/docs/mongodb") ? "active" : ""} label-small`}
+          >
+            <i className="fa-regular fa-file-lines"></i>
+            mongodb
+          </Link>
         </div>
       </div>
 

@@ -1,0 +1,71 @@
+[
+    {
+        "title": "MongoDB Tutorial",
+        "items": [
+            {
+                "name": "MongoDB Query API",
+                "link": "/docs/mongodb/query-api"
+            },
+            {
+                "name": "MongoDB mongosh Create Database",
+                "link": "/docs/mongodb/mongosh-create-database"
+            },
+            {
+                "name": "MongoDB mongosh Create Collection",
+                "link": "/docs/mongodb/mongosh-create-collection"
+            },
+            {
+                "name": "MongoDB mongosh Insert",
+                "link": "/docs/mongodb/mongosh-insert"
+            },
+            {
+                "name": "MongoDB mongosh Find",
+                "link": "/docs/mongodb/mongosh-find"
+            },
+            {
+                "name": "MongoDB mongosh Update",
+                "link": "/docs/mongodb/mongosh-update"
+            },
+            {
+                "name": "MongoDB mongosh Delete",
+                "link": "/docs/mongodb/mongosh-delete"
+            },
+            {
+                "name": "MongoDB Query Operators",
+                "link": "/docs/mongodb/query-operators"
+            },
+            {
+                "name": "MongoDB Update Operators",
+                "link": "/docs/mongodb/update-operators"
+            },
+            {
+                "name": "MongoDB Aggregation",
+                "link": "/docs/mongodb/aggregation"
+            },
+            {
+                "name": "MongoDB Indexing & Search",
+                "link": "/docs/mongodb/indexing-&-search"
+            },
+            {
+                "name": "MongoDB Validation",
+                "link": "/docs/mongodb/validation"
+            },
+            {
+                "name": "MongoDB Data API",
+                "link": "/docs/mongodb/data-api"
+            },
+            {
+                "name": "MongoDB Drivers",
+                "link": "/docs/mongodb/drivers"
+            },
+            {
+                "name": "MongoDB Node.js Database Interaction",
+                "link": "/docs/mongodb/node-js-database-interaction"
+            },
+            {
+                "name": "MongoDB Charts",
+                "link": "/docs/mongodb/charts"
+            }
+        ]
+    }
+]
