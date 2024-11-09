@@ -56,7 +56,7 @@ const Page = () => {
       <>
         <Navbar />
         <Aside />
-        <Searchbar file="Skills.json" />
+        <Searchbar file="Sliderbar-helpfulsites.json" />
   
         <main className="main pt-help">
           <article>
@@ -77,7 +77,7 @@ const Page = () => {
                     <div className="d-flex flex-column gap-2 mt-5" key={index}>
                       <h2 className="text-capitalize title-medium">{ele.title}</h2>
                       
-                      <div className="row row-cols-1 row-cols-md-2 g-4">
+                      <div className="row row-cols-1 g-4">
                         {ele.items.map((ele, index) => (
                           <div className="col" key={index}>
                             <div className="card card-help-site rounded-3 label-small">
