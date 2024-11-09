@@ -18,7 +18,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" width="60" height="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" width="60" height="60"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" width="75" height="75"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="75" height="75"/>
+<img src="https://www.google.com/urlsa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F27348%2Fexpress&psig=AOvVaw3YCkpz9RXl4GnaDsXOuVfF&ust=1731244955902000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPiV6aCsz4kDFQAAAAAdAAAAABAS" alt="Express.js" width="75" height="75"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB" width="75" height="75"/>
 </p>
 
