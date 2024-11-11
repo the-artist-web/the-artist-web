@@ -1,0 +1,31 @@
+[
+    {
+        "title": "express pages",
+        "items": [
+            {
+                "name": "Hello world example",
+                "link": "/docs/express/hello-world-example"
+            },
+            {
+                "name": "Express application generator",
+                "link": "/docs/express/express-application-generator"
+            },
+            {
+                "name": "Basic routing",
+                "link": "/docs/express/basic-routing"
+            },
+            {
+                "name": "static files",
+                "link": "/docs/express/static-files"
+            },
+            {
+                "name": "Express examples",
+                "link": "/docs/express/express-examples"
+            },
+            {
+                "name": "FAQ",
+                "link": "/docs/express/faq"
+            }
+        ]
+    }
+]

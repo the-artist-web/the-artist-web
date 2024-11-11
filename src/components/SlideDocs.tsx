@@ -151,6 +151,14 @@ const SlideDocs = (props: TypeProps) => {
           </Link>
 
           <Link 
+            href="/docs/express" 
+            className={`slide-link text-capitalize d-flex align-items-center gap-2 ${pathname.includes("/docs/express") ? "active" : ""} label-small`}
+          >
+            <i className="fa-regular fa-file-lines"></i>
+            express
+          </Link>
+
+          <Link 
             href="/docs/mongodb" 
             className={`slide-link text-capitalize d-flex align-items-center gap-2 ${pathname.includes("/docs/mongodb") ? "active" : ""} label-small`}
           >
