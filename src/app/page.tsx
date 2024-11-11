@@ -261,6 +261,20 @@ const Page = () => {
 
               <div className="col" data-gsap-skills>
                 <Link
+                  href="/docs/express"
+                  className="card card-skill border-0 d-flex align-items-center"
+                >
+                  <div className="card-body p-0">
+                    <h2 className="text-capitalize mb-3 label-large">express</h2>
+                    <p className="text-second m-0 p-0 label-small">
+                      Express.js is a lightweight, Node.js-based framework for building web applications and servers easily. It offers powerful tools for routing, handling requests and responses, and supports middleware for adding features like authentication and error handling. This makes it a popular choice for developing fast, scalable applications.
+                    </p>
+                  </div>
+                </Link>
+              </div>
+
+              <div className="col" data-gsap-skills>
+                <Link
                   href="/docs/mongodb"
                   className="card card-skill border-0 d-flex align-items-center"
                 >
