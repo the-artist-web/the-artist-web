@@ -112,7 +112,7 @@ const Page = () => {
                 >
                   <div className="card-body p-0">
                     <h2 className="text-capitalize mb-3 label-large">html</h2>
-                    <p className="text-second m-0 p-0 label-small">
+                    <p className="description text-second m-0 p-0 label-small">
                       HTML, short for HyperText Markup Language, is a markup language used for building and designing web pages. HTML structures website content and defines its essential elements, such as text, images, links, tables, and forms.
                     </p>
                   </div>
@@ -126,7 +126,7 @@ const Page = () => {
                 >
                   <div className="card-body p-0">
                     <h2 className="text-capitalize mb-3 label-large">css</h2>
-                    <p className="text-second m-0 p-0 label-small">
+                    <p className="description text-second m-0 p-0 label-small">
                     CSS, short for Cascading Style Sheets, is a style language used to control the appearance and design of web pages. CSS allows you to specify how elements on a page, such as colors, fonts, sizes, and spacing, are displayed, allowing developers to create attractive and coordinated designs.
                     </p>
                   </div>
@@ -140,7 +140,7 @@ const Page = () => {
                 >
                   <div className="card-body p-0">
                     <h2 className="text-capitalize mb-3 label-large">sass</h2>
-                    <p className="text-second m-0 p-0 label-small">
+                    <p className="description text-second m-0 p-0 label-small">
                     Sass, short for Syntactically Awesome Style Sheets, is a language used to write CSS more efficiently and flexibly, making it easier to develop complex designs. Sass adds new features not available in traditional CSS, such as variables, nesting, and partitions, making CSS code more organized and reusable.
                     </p>
                   </div>
@@ -154,7 +154,7 @@ const Page = () => {
                 >
                   <div className="card-body p-0">
                     <h2 className="text-capitalize mb-3 label-large">bootstrap</h2>
-                    <p className="text-second m-0 p-0 label-small">
+                    <p className="description text-second m-0 p-0 label-small">
                     Bootstrap is an open source framework used for front-end development to design responsive and easy-to-use websites. Developed by the Twitter team, Bootstrap offers a comprehensive library of ready-made code that makes it easy to design elegant websites that are compatible with different devices (such as phones, tablets, and computers).
                     </p>
                   </div>
@@ -168,7 +168,7 @@ const Page = () => {
                 >
                   <div className="card-body p-0">
                     <h2 className="text-capitalize mb-3 label-large">tailwind css</h2>
-                    <p className="text-second m-0 p-0 label-small">
+                    <p className="description text-second m-0 p-0 label-small">
                     Tailwind CSS is a front-end design framework, primarily used to make building and designing websites and web applications easier. Tailwind features a utility-first CSS approach, providing a set of ready-made utility classes that can be used to style elements directly in HTML, making front-end development more efficient and flexible.
                     </p>
                   </div>
@@ -182,7 +182,7 @@ const Page = () => {
                 >
                   <div className="card-body p-0">
                     <h2 className="text-capitalize mb-3 label-large">java script</h2>
-                    <p className="text-second m-0 p-0 label-small">
+                    <p className="description text-second m-0 p-0 label-small">
                     JavaScript is a dynamic programming language used to add interactivity and liveliness to web pages. JavaScript works alongside HTML and CSS to provide a rich, interactive user experience. With JavaScript, you can create animations, interact with the user (such as clicks and data entry), and fetch data from external servers without reloading the page (Ajax).
                     </p>
                   </div>
@@ -196,7 +196,7 @@ const Page = () => {
                 >
                   <div className="card-body p-0">
                     <h2 className="text-capitalize mb-3 label-large">json</h2>
-                    <p className="text-second m-0 p-0 label-small">
+                    <p className="description text-second m-0 p-0 label-small">
                       JSON, which stands for JavaScript Object Notation, is a lightweight data interchange format that is easy for humans to read and write and easy for machines to parse and generate. It is primarily used to transmit data between a server and a web application as an alternative to XML.
                     </p>
                   </div>
@@ -210,7 +210,7 @@ const Page = () => {
                 >
                   <div className="card-body p-0">
                     <h2 className="text-capitalize mb-3 label-large">type script</h2>
-                    <p className="text-second m-0 p-0 label-small">
+                    <p className="description text-second m-0 p-0 label-small">
                     TypeScript is an open source programming language that builds on JavaScript and adds additional features, most notably static typing. Developed by Microsoft, TypeScript provides a more powerful and maintainable development environment, making it popular for large and complex projects.
                     </p>
                   </div>
@@ -224,7 +224,7 @@ const Page = () => {
                 >
                   <div className="card-body p-0">
                     <h2 className="text-capitalize mb-3 label-large">react js</h2>
-                    <p className="text-second m-0 p-0 label-small">
+                    <p className="description text-second m-0 p-0 label-small">
                     React is an open source JavaScript library used to build user interfaces, especially for large and complex web applications. Developed by Facebook, React is known for its speed and efficiency in creating interactive and easy-to-maintain applications.
                     </p>
                   </div>
@@ -238,7 +238,7 @@ const Page = () => {
                 >
                   <div className="card-body p-0">
                     <h2 className="text-capitalize mb-3 label-large">next js</h2>
-                    <p className="text-second m-0 p-0 label-small">
+                    <p className="description text-second m-0 p-0 label-small">
                     Next.js is a framework for building web applications using React, and is one of the most popular solutions for modern application development. Developed by Vercel, it offers many powerful features that help developers build robust and fast applications.
                     </p>
                   </div>
@@ -252,7 +252,7 @@ const Page = () => {
                 >
                   <div className="card-body p-0">
                     <h2 className="text-capitalize mb-3 label-large">node js</h2>
-                    <p className="text-second m-0 p-0 label-small">
+                    <p className="description text-second m-0 p-0 label-small">
                       Node.js is a powerful, open-source JavaScript runtime built on Chrome’s V8 engine. It allows developers to run JavaScript on the server side, enabling fast, scalable, and efficient back-end development. Known for its non-blocking, event-driven architecture, Node.js is ideal for building real-time applications, like chat apps and APIs, that handle multiple requests simultaneously.
                     </p>
                   </div>
@@ -266,7 +266,7 @@ const Page = () => {
                 >
                   <div className="card-body p-0">
                     <h2 className="text-capitalize mb-3 label-large">express</h2>
-                    <p className="text-second m-0 p-0 label-small">
+                    <p className="description text-second m-0 p-0 label-small">
                       Express.js is a lightweight, Node.js-based framework for building web applications and servers easily. It offers powerful tools for routing, handling requests and responses, and supports middleware for adding features like authentication and error handling. This makes it a popular choice for developing fast, scalable applications.
                     </p>
                   </div>
@@ -280,7 +280,7 @@ const Page = () => {
                 >
                   <div className="card-body p-0">
                     <h2 className="text-capitalize mb-3 label-large">mongodb</h2>
-                    <p className="text-second m-0 p-0 label-small">
+                    <p className="description text-second m-0 p-0 label-small">
                       MongoDB is a flexible, document-oriented NoSQL database that stores data in JSON-like, BSON format, making it easy to work with and highly scalable. Unlike traditional relational databases, MongoDB allows for dynamic schema design, which means you can handle large amounts of unstructured data and update schemas as needed without downtime. This flexibility makes MongoDB popular for applications that require quick access to data, high performance, and the ability to scale horizontally, such as content management systems, real-time analytics, and e-commerce platforms.
                     </p>
                   </div>
