@@ -21,6 +21,17 @@ const Searchbar = (props: TypeProps) => {
   const searchRef = useRef<HTMLInputElement>(null);
 
   useEffect(() => {
+    return () => {
+      const backdrops = document.querySelectorAll(".modal-backdrop");
+      backdrops.forEach((backdrop) => backdrop.remove());
+
+      document.body.classList.remove("modal-open");
+      document.body.style.overflow = "";
+      document.body.style.paddingRight = "";
+    };
+  }, []);
+
+  useEffect(() => {
     const fetchData = async () => {
       try {
         const res = await fetch(`/docs/${props.file}`);
