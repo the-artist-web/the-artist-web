@@ -62,7 +62,7 @@
   </tr>
   <tr>
     <td align="center" height="150" width="150">
-      <img src="/public/image/mongodb.png" alt="MongoDB" width="75" height="75"/>
+      <img src="/public/image/mysql.png" alt="MongoDB" width="75" height="75"/>
       <br>MySQL
     </td>
   </tr>
