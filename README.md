@@ -16,39 +16,39 @@
       <br>CSS3
     </td>
     <td align="center" height="150" width="150">
-      <img src="/public/image/sass.png" alt="SCSS" width="60" height="60"/>
+      <img src="/public/image/sass.png" alt="SCSS" width="75" height="75"/>
       <br>SCSS
     </td>
     <td align="center" height="150" width="150">
-      <img src="/public/image/tailwindcss.png" alt="Tailwind CSS" width="60" height="60"/>
+      <img src="/public/image/tailwindcss.png" alt="Tailwind CSS" width="75" height="75"/>
       <br>Tailwind CSS
     </td>
   </tr>
   <tr>
     <td align="center" height="150" width="150">
-      <img src="/public/image/bootstrap.png" alt="Bootstrap" width="60" height="60"/>
+      <img src="/public/image/bootstrap.png" alt="Bootstrap" width="75" height="75"/>
       <br>Bootstrap
     </td>
     <td align="center" height="150" width="150">
-      <img src="/public/image/javaScript.png" alt="JavaScript" width="60" height="60"/>
+      <img src="/public/image/javaScript.png" alt="JavaScript" width="75" height="75"/>
       <br>JavaScript
     </td>
     <td align="center" height="150" width="150">
-      <img src="/public/image/redux.png" alt="JavaScript" width="60" height="60"/>
+      <img src="/public/image/redux.png" alt="JavaScript" width="75" height="75"/>
       <br>Redux
     </td>
     <td align="center" height="150" width="150">
-      <img src="/public/image/typeScript.png" alt="TypeScript" width="60" height="60"/>
+      <img src="/public/image/typeScript.png" alt="TypeScript" width="75" height="75"/>
       <br>TypeScript
     </td>
   </tr>
   <tr>
     <td align="center" height="150" width="150">
-      <img src="/public/image/react.png" alt="React.js" width="60" height="60"/>
+      <img src="/public/image/react.png" alt="React.js" width="75" height="75"/>
       <br>React.js
     </td>
     <td align="center" height="150" width="150">
-      <img src="/public/image/next.png" alt="Next.js" width="60" height="60"/>
+      <img src="/public/image/next.png" alt="Next.js" width="75" height="75"/>
       <br>Next.js
     </td>
     <td align="center" height="150" width="150">
