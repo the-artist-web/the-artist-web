@@ -52,18 +52,18 @@
       <br>Next.js
     </td>
     <td align="center" height="150" width="150">
-      <img src="/public/image/node.png" alt="Node.js" width="75" height="75"/>
-      <br>Node.js
+      <img src="/public/image/php.png" alt="Node.js" width="75" height="75"/>
+      <br>Php
     </td>
     <td align="center" height="150" width="150">
-      <img src="/public/image/express.png" alt="Express.js" width="75" height="75"/>
-      <br>Express.js
+      <img src="/public/image/laravel.png" alt="Express.js" width="75" height="75"/>
+      <br>Laravel
     </td>
   </tr>
   <tr>
     <td align="center" height="150" width="150">
       <img src="/public/image/mongodb.png" alt="MongoDB" width="75" height="75"/>
-      <br>MongoDB
+      <br>MySQL
     </td>
   </tr>
 </table>
