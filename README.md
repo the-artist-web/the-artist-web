@@ -1,9 +1,16 @@
-<h1 align="center">Hello! I'm Mohamed Yasser</h1>
+<h1 align="center">Hello! I'm The Artist Web 👋</h1>
 
-<p align="center">I'm 17 years old and I started programming when I was 15. I love all fields that involve 
-  design, but among them, I chose programming because it's the field that attracted me the most. 
-  I decided to learn and enhance my skills in it, and I've actually achieved most of what 
-  I needed, but I still aim to improve myself further. I won't stop here.</p>
+<p align="center">
+  I am a passionate Full Stack Engineer specializing in building modern web applications. 
+  I have expertise in crafting user-friendly interfaces using HTML, CSS, SASS, Tailwind CSS, and Bootstrap, 
+  enhancing interactivity with JavaScript and TypeScript. 
+  I develop dynamic web applications with React and Next.js, efficiently managing state with Redux Toolkit. 
+  On the backend, I work with PHP and Laravel, utilizing SQL databases to ensure robust data management.
+</p>
+
+---
+
+## 🛠️ Technologies & Tools
 
 <table align="center">
   <tr>
@@ -16,8 +23,8 @@
       <br>CSS3
     </td>
     <td align="center" height="150" width="150">
-      <img src="/public/image/sass.png" alt="SCSS" width="75" height="75"/>
-      <br>SCSS
+      <img src="/public/image/sass.png" alt="SASS" width="75" height="75"/>
+      <br>SASS
     </td>
     <td align="center" height="150" width="150">
       <img src="/public/image/tailwindcss.png" alt="Tailwind CSS" width="75" height="75"/>
@@ -34,12 +41,12 @@
       <br>JavaScript
     </td>
     <td align="center" height="150" width="150">
-      <img src="/public/image/redux.png" alt="JavaScript" width="75" height="75"/>
-      <br>Redux
-    </td>
-    <td align="center" height="150" width="150">
       <img src="/public/image/typeScript.png" alt="TypeScript" width="75" height="75"/>
       <br>TypeScript
+    </td>
+    <td align="center" height="150" width="150">
+      <img src="/public/image/redux.png" alt="Redux Toolkit" width="75" height="75"/>
+      <br>Redux Toolkit
     </td>
   </tr>
   <tr>
@@ -52,34 +59,37 @@
       <br>Next.js
     </td>
     <td align="center" height="150" width="150">
-      <img src="/public/image/php.png" alt="Node.js" width="75" height="75"/>
-      <br>Php
+      <img src="/public/image/php.png" alt="PHP" width="75" height="75"/>
+      <br>PHP
     </td>
     <td align="center" height="150" width="150">
-      <img src="/public/image/laravel.png" alt="Express.js" width="75" height="75"/>
+      <img src="/public/image/laravel.png" alt="Laravel" width="75" height="75"/>
       <br>Laravel
     </td>
   </tr>
   <tr>
     <td align="center" height="150" width="150">
-      <img src="/public/image/mysql.png" alt="MongoDB" width="75" height="75"/>
+      <img src="/public/image/mysql.png" alt="MySQL" width="75" height="75"/>
       <br>MySQL
     </td>
   </tr>
 </table>
 
-<h2>How to Reach Me</h2>
+---
 
-<p>
-  You can contact me via email:<br>
-  <a target="_blank" href="mailto:teamtheartistweb@gmail.com" style="background-image: url('https://img.icons8.com/fluent/48/000000/email-open.png'); background-size: contain; background-repeat: no-repeat; display: inline-block; padding: 10px 40px 10px 20px; border-radius: 5px; text-decoration: none; color: white; background-color: #D14836;">
-    teamtheartistweb@gmail.com
-  </a>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
-<h2>Social Media</h2>
+---
 
-<p>You can also find me on social media platforms:</p>
+## 📞 How to Reach Me
+
+📧 **Email:** [teamtheartistweb@gmail.com](mailto:teamtheartistweb@gmail.com)
+
+### 🌍 Social Media
 
 <p>
   <a target="_blank" href="https://www.linkedin.com/in/mohamed-yasser-2706252aa/">
@@ -99,4 +109,4 @@
   </a>
 </p>
 
-<p>Feel free to reach out to me through any of these channels!</p>
+<p align="center">Feel free to reach out to me through any of these channels! 🚀</p>
