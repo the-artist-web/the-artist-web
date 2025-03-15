@@ -15,14 +15,9 @@ I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in we
 - **Backend:** PHP, Laravel
 - **Database:** MySQL
 
-## 📢 Get Involved
-
-I'm always looking for **collaborators** and **contributors** to join me in creating **innovative projects**. Feel free to **fork, star, and contribute** to my repositories. Let's build something amazing together! 🚀
-
 ## 👯️ Let's Connect
 
 - 📩 **Email:** [teamtheartistweb@gmail.com](mailto:teamtheartistweb@gmail.com)
-- 🔗 **LinkedIn:** [Mohamed Yasser](https://www.linkedin.com/in/mohamed-yasser-2706252aa/)
 - 📱 **WhatsApp:** [Chat with me](https://wa.me/message/YEX6SYAH54GFC1)
 - 📷 **Instagram:** [The Artist Web](https://www.instagram.com/the_artists_web)
 - 🎥 **YouTube:** [The Artist Web](https://www.youtube.com/@theartistweb)
