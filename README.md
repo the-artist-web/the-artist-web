@@ -1,17 +1,6 @@
-Hello! I'm The Artist Web 
+<h1 align="center">Hello! I'm The Artist Web</h1>
 
-I am a passionate Full Stack Engineer specializing in building modern web applications. 
-I have expertise in crafting user-friendly interfaces using HTML, CSS, SASS, Tailwind CSS, and Bootstrap, 
-enhancing interactivity with JavaScript and TypeScript. 
-I develop dynamic web applications with React and Next.js, efficiently managing state with Redux Toolkit. 
-On the backend, I work with PHP and Laravel, utilizing SQL databases to ensure robust data management.
-```
-
----
-
-```
-🛠️ Technologies & Tools
-```
+<p align="center">I am a web development specialist with experience in building user interfaces using HTML, CSS, SASS, Tailwind CSS, and Bootstrap, enhancing interactivity with JavaScript and TypeScript. I have expertise in developing web applications using React and Next.js, with state management through Redux Toolkit. On the backend, I work with PHP and Laravel, utilizing SQL databases.</p>
 
 <table align="center">
   <tr>
@@ -76,17 +65,18 @@ On the backend, I work with PHP and Laravel, utilizing SQL databases to ensure r
   </tr>
 </table>
 
----
+<h2>How to Reach Me</h2>
 
-```
-📞 How to Reach Me
-```
+<p>
+  You can contact me via email:<br>
+  <a target="_blank" href="mailto:teamtheartistweb@gmail.com" style="background-image: url('https://img.icons8.com/fluent/48/000000/email-open.png'); background-size: contain; background-repeat: no-repeat; display: inline-block; padding: 10px 40px 10px 20px; border-radius: 5px; text-decoration: none; color: white; background-color: #D14836;">
+    teamtheartistweb@gmail.com
+  </a>
+</p>
 
-📧 **Email:** [teamtheartistweb@gmail.com](mailto:teamtheartistweb@gmail.com)
+<h2>Social Media</h2>
 
-```
-🌍 Social Media
-```
+<p>You can also find me on social media platforms:</p>
 
 <p>
   <a target="_blank" href="https://www.linkedin.com/in/mohamed-yasser-2706252aa/">
@@ -106,5 +96,4 @@ On the backend, I work with PHP and Laravel, utilizing SQL databases to ensure r
   </a>
 </p>
 
-```
-Feel free to reach out to me through any of these channels! 🚀
+<p>Feel free to reach out to me through any of these channels!</p>
