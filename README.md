@@ -2,35 +2,31 @@
 
 ## 🚀 About Me
 
-```md
-I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in web development. I have experience in building user interfaces using **HTML, CSS, SASS, Tailwind CSS, and Bootstrap**, enhancing interactivity with **JavaScript and TypeScript**. I develop web applications using **React and Next.js**, with state management via **Redux Toolkit**. On the backend, I work with **PHP and Laravel**, utilizing **SQL databases**.
-```
+I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in web development. I have experience in building user interfaces using:
+- **HTML, CSS, SASS, Tailwind CSS, and Bootstrap**
+- Enhancing interactivity with **JavaScript and TypeScript**
+- Developing web applications using **React and Next.js** with state management via **Redux Toolkit**
+- On the backend, I work with **PHP and Laravel**, utilizing **SQL databases**
 
 ## 🛠️ Tech Stack
 
-```md
 - **Frontend:** HTML, CSS, SASS, Tailwind CSS, Bootstrap, JavaScript, TypeScript, React, Next.js
 - **State Management:** Redux Toolkit
 - **Backend:** PHP, Laravel
 - **Database:** MySQL
-```
 
 ## 📢 Get Involved
 
-```md
 I'm always looking for **collaborators** and **contributors** to join me in creating **innovative projects**. Feel free to **fork, star, and contribute** to my repositories. Let's build something amazing together! 🚀
-```
 
-## 📫 Let's Connect
+## 👯️ Let's Connect
 
-```md
 - 📩 **Email:** [teamtheartistweb@gmail.com](mailto:teamtheartistweb@gmail.com)
 - 🔗 **LinkedIn:** [Mohamed Yasser](https://www.linkedin.com/in/mohamed-yasser-2706252aa/)
 - 📱 **WhatsApp:** [Chat with me](https://wa.me/message/YEX6SYAH54GFC1)
 - 📷 **Instagram:** [The Artist Web](https://www.instagram.com/the_artists_web)
 - 🎥 **YouTube:** [The Artist Web](https://www.youtube.com/@theartistweb)
-- 📘 **Facebook:** [Profile](https://www.facebook.com/profile.php?id=100013677881896)
-```
+- 📚 **Facebook:** [Profile](https://www.facebook.com/profile.php?id=100013677881896)
 
 ## 🖥️ Tech Logos
 
