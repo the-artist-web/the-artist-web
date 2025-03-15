@@ -19,8 +19,7 @@ I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in we
 
 - 📩 **Email:** [teamtheartistweb@gmail.com](mailto:teamtheartistweb@gmail.com)
 - 📱 **WhatsApp:** [Chat with me](https://wa.me/message/YEX6SYAH54GFC1)
-- 🎥 **YouTube:** [The Artist Web](https://www.youtube.com/@theartistweb)
-- 📚 **Facebook:** [Profile](https://www.facebook.com/share/18xZjXffKF/)
+- 🎥 **YouTube:** [team the artist web](https://www.youtube.com/@teamtheartistweb)
 
 ## 🖥️ Tech Logos
 
