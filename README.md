@@ -1,6 +1,5 @@
-<h1 align="center">Hello! I'm The Artist Web 👋</h1>
+Hello! I'm The Artist Web 
 
-```
 I am a passionate Full Stack Engineer specializing in building modern web applications. 
 I have expertise in crafting user-friendly interfaces using HTML, CSS, SASS, Tailwind CSS, and Bootstrap, 
 enhancing interactivity with JavaScript and TypeScript. 
@@ -8,8 +7,11 @@ I develop dynamic web applications with React and Next.js, efficiently managing 
 On the backend, I work with PHP and Laravel, utilizing SQL databases to ensure robust data management.
 ```
 
+---
 
-## 🛠️ Technologies & Tools
+```
+🛠️ Technologies & Tools
+```
 
 <table align="center">
   <tr>
@@ -76,19 +78,15 @@ On the backend, I work with PHP and Laravel, utilizing SQL databases to ensure r
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
-
----
-
-## 📞 How to Reach Me
+```
+📞 How to Reach Me
+```
 
 📧 **Email:** [teamtheartistweb@gmail.com](mailto:teamtheartistweb@gmail.com)
 
-### 🌍 Social Media
+```
+🌍 Social Media
+```
 
 <p>
   <a target="_blank" href="https://www.linkedin.com/in/mohamed-yasser-2706252aa/">
@@ -108,4 +106,5 @@ On the backend, I work with PHP and Laravel, utilizing SQL databases to ensure r
   </a>
 </p>
 
-<p align="center">Feel free to reach out to me through any of these channels! 🚀</p>
+```
+Feel free to reach out to me through any of these channels! 🚀
