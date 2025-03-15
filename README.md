@@ -8,8 +8,6 @@
   On the backend, I work with PHP and Laravel, utilizing SQL databases to ensure robust data management.
 </p>
 
----
-
 ## 🛠️ Technologies & Tools
 
 <table align="center">
