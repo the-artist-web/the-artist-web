@@ -86,8 +86,6 @@ I'm always looking for **collaborators** and **contributors** to join me in crea
       <img src="/public/image/laravel.png" alt="Laravel" width="75" height="75"/>
       <br>Laravel
     </td>
-  </tr>
-  <tr>
     <td align="center" height="150" width="150">
       <img src="/public/image/mysql.png" alt="MySQL" width="75" height="75"/>
       <br>MySQL
