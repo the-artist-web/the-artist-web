@@ -48,12 +48,13 @@ I'm always looking for **collaborators** and **contributors** to join me in crea
       <img src="/public/image/tailwindcss.png" alt="Tailwind CSS" width="75" height="75"/>
       <br>Tailwind CSS
     </td>
-  </tr>
-  <tr>
     <td align="center" height="150" width="150">
       <img src="/public/image/bootstrap.png" alt="Bootstrap" width="75" height="75"/>
       <br>Bootstrap
     </td>
+  </tr>
+  
+  <tr>
     <td align="center" height="150" width="150">
       <img src="/public/image/javaScript.png" alt="JavaScript" width="75" height="75"/>
       <br>JavaScript
@@ -66,8 +67,6 @@ I'm always looking for **collaborators** and **contributors** to join me in crea
       <img src="/public/image/redux.png" alt="Redux Toolkit" width="75" height="75"/>
       <br>Redux Toolkit
     </td>
-  </tr>
-  <tr>
     <td align="center" height="150" width="150">
       <img src="/public/image/react.png" alt="React.js" width="75" height="75"/>
       <br>React.js
@@ -76,6 +75,9 @@ I'm always looking for **collaborators** and **contributors** to join me in crea
       <img src="/public/image/next.png" alt="Next.js" width="75" height="75"/>
       <br>Next.js
     </td>
+  </tr>
+  
+  <tr>
     <td align="center" height="150" width="150">
       <img src="/public/image/php.png" alt="PHP" width="75" height="75"/>
       <br>PHP
