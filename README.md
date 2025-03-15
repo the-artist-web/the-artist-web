@@ -23,6 +23,7 @@
       <br>Bootstrap
     </td>
   </tr>
+  
   <tr>
     <td align="center" height="150" width="150">
       <img src="/public/image/javaScript.png" alt="JavaScript" width="75" height="75"/>
@@ -40,12 +41,13 @@
       <img src="/public/image/react.png" alt="React.js" width="75" height="75"/>
       <br>React.js
     </td>
-  </tr>
-  <tr>
     <td align="center" height="150" width="150">
       <img src="/public/image/next.png" alt="Next.js" width="75" height="75"/>
       <br>Next.js
     </td>
+  </tr>
+  
+  <tr>
     <td align="center" height="150" width="150">
       <img src="/public/image/php.png" alt="PHP" width="75" height="75"/>
       <br>PHP
@@ -60,11 +62,3 @@
     </td>
   </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
