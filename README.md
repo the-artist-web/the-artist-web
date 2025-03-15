@@ -1,12 +1,13 @@
 <h1 align="center">Hello! I'm The Artist Web 👋</h1>
 
-<p align="center">
-  I am a passionate Full Stack Engineer specializing in building modern web applications. 
-  I have expertise in crafting user-friendly interfaces using HTML, CSS, SASS, Tailwind CSS, and Bootstrap, 
-  enhancing interactivity with JavaScript and TypeScript. 
-  I develop dynamic web applications with React and Next.js, efficiently managing state with Redux Toolkit. 
-  On the backend, I work with PHP and Laravel, utilizing SQL databases to ensure robust data management.
-</p>
+```
+I am a passionate Full Stack Engineer specializing in building modern web applications. 
+I have expertise in crafting user-friendly interfaces using HTML, CSS, SASS, Tailwind CSS, and Bootstrap, 
+enhancing interactivity with JavaScript and TypeScript. 
+I develop dynamic web applications with React and Next.js, efficiently managing state with Redux Toolkit. 
+On the backend, I work with PHP and Laravel, utilizing SQL databases to ensure robust data management.
+```
+
 
 ## 🛠️ Technologies & Tools
 
