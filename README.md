@@ -15,6 +15,7 @@ I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in we
 - **State Management:** Redux Toolkit
 - **Backend:** PHP, Laravel
 - **Database:** MySQL
+- **Animation:** GSAP (GreenSock Animation Platform)
 
 ## 👯️ Let's Connect
 
@@ -83,6 +84,10 @@ I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in we
     <td align="center" height="150" width="150">
       <img src="https://github.com/the-artist-web/before-web-me/raw/main/public/image/mysql.png" alt="MySQL" width="75" height="75"/>
       <br>MySQL
+    </td>
+    <td align="center" height="150" width="150">
+      <img src="https://github.com/the-artist-web/before-web-me/raw/main/public/image/gsap.png" alt="GSAP" width="75" height="75"/>
+      <br>GSAP
     </td>
   </tr>
 </table>
