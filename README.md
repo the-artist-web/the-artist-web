@@ -74,6 +74,10 @@ I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in we
   
   <tr>
     <td align="center" height="150" width="150">
+      <img src="https://raw.githubusercontent.com/gsap/branding/master/logo-square.svg" alt="GSAP" width="75" height="75"/>
+      <br>GSAP
+    </td>
+    <td align="center" height="150" width="150">
       <img src="https://github.com/the-artist-web/before-web-me/raw/main/public/image/php.png" alt="PHP" width="75" height="75"/>
       <br>PHP
     </td>
@@ -84,10 +88,6 @@ I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in we
     <td align="center" height="150" width="150">
       <img src="https://github.com/the-artist-web/before-web-me/raw/main/public/image/mysql.png" alt="MySQL" width="75" height="75"/>
       <br>MySQL
-    </td>
-    <td align="center" height="150" width="150">
-      <img src="https://github.com/the-artist-web/before-web-me/raw/main/public/image/gsap.png" alt="GSAP" width="75" height="75"/>
-      <br>GSAP
     </td>
   </tr>
 </table>
