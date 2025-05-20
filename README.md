@@ -73,7 +73,7 @@ I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in we
   </tr>
   
   <tr>
-    <td align="center" height="150" width="150">
+    <td align="center" height="50" width="150">
       <img src="https://static.wikia.nocookie.net/logopedia/images/a/a5/GSAP_2023.svg/revision/latest/scale-to-width-down/300?cb=20231024190052" alt="GSAP" width="75" height="75"/>
       <br>GSAP
     </td>
