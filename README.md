@@ -1,5 +1,3 @@
-<img src="https://ibb.co/SXVw9xGF" />
-
 # 👋 Welcome
 
 ## 🚀 About Me
