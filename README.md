@@ -6,13 +6,12 @@ I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in we
 
 - **HTML, CSS, SASS, Tailwind CSS, and Bootstrap**
 - Enhancing interactivity with **JavaScript and TypeScript**
-- Developing web applications using **React and Next.js** with state management via **Redux Toolkit**
+- Developing web applications using **React and Next.js**
 - On the backend, I work with **PHP and Laravel**, utilizing **SQL databases**
 
 ## 🛠️ Tech Stack
 
 - **Frontend:** HTML, CSS, SASS, Tailwind CSS, Bootstrap, JavaScript, TypeScript, React, Next.js
-- **State Management:** Redux Toolkit
 - **Backend:** PHP, Laravel
 - **Database:** MySQL
 - **Animation:** GSAP (GreenSock Animation Platform)
@@ -59,10 +58,6 @@ I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in we
       <br>TypeScript
     </td>
     <td align="center" height="150" width="150">
-      <img src="https://github.com/the-artist-web/before-web-me/raw/main/public/image/redux.png" alt="Redux Toolkit" width="75" height="75"/>
-      <br>Redux Toolkit
-    </td>
-    <td align="center" height="150" width="150">
       <img src="https://github.com/the-artist-web/before-web-me/raw/main/public/image/react.png" alt="React.js" width="75" height="75"/>
       <br>React.js
     </td>
@@ -70,13 +65,13 @@ I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in we
       <img src="https://github.com/the-artist-web/before-web-me/raw/main/public/image/next.png" alt="Next.js" width="75" height="75"/>
       <br>Next.js
     </td>
-  </tr>
-  
-  <tr>
     <td align="center" height="150" width="150">
       <img src="https://static.wikia.nocookie.net/logopedia/images/a/a5/GSAP_2023.svg/revision/latest/scale-to-width-down/300?cb=20231024190052" alt="GSAP" width="75" height="50"/>
       <br>GSAP
     </td>
+  </tr>
+  
+  <tr>
     <td align="center" height="150" width="150">
       <img src="https://github.com/the-artist-web/before-web-me/raw/main/public/image/php.png" alt="PHP" width="75" height="75"/>
       <br>PHP
