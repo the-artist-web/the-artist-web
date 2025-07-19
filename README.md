@@ -1,5 +1,3 @@
-شيل اي حاجة ليها دخل ب sass and react js and next js and typescript وضيف اني laravel full stack = # 👋 Welcome
-
 ## 🚀 About Me
 
 I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in web development. I have experience in building user interfaces using:
