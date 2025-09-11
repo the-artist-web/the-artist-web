@@ -35,6 +35,10 @@ I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in we
       <br>JavaScript
     </td>
     <td align="center" height="150" width="150">
+      <img src="https://github.com/the-artist-web/before-web-me/raw/main/public/image/bootstrap.png" alt="Bootstrap" width="75" height="75"/>
+      <br>Bootstrap
+    </td>
+    <td align="center" height="150" width="150">
       <img src="https://github.com/the-artist-web/before-web-me/raw/main/public/image/sass.png" alt="SASS" width="75" height="75"/>
       <br>SASS
     </td>
@@ -42,10 +46,6 @@ I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in we
       <img src="https://github.com/the-artist-web/before-web-me/raw/main/public/image/tailwindcss.png" alt="Tailwind CSS" width="75" height="75"/>
       <br>Tailwind CSS
     </td> -->
-    <td align="center" height="150" width="150">
-      <img src="https://github.com/the-artist-web/before-web-me/raw/main/public/image/bootstrap.png" alt="Bootstrap" width="75" height="75"/>
-      <br>Bootstrap
-    </td>
   </tr>
   
   <!-- <tr>
