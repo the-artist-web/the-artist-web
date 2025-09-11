@@ -8,7 +8,7 @@ I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in we
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, SASS, Bootstrap, JavaScript
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap, SASS
 - **Backend:** PHP, Laravel
 - **Database:** MySQL
 
