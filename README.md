@@ -24,11 +24,11 @@ I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in we
   <tr>
     <td align="center" height="150" width="150">
       <img src="https://github.com/the-artist-web/before-web-me/raw/main/public/image/html.png" alt="HTML5" width="75" height="75"/>
-      <br>HTML5
+      <br>HTML
     </td>
     <td align="center" height="150" width="150">
       <img src="https://github.com/the-artist-web/before-web-me/raw/main/public/image/css.png" alt="CSS3" width="75" height="75"/>
-      <br>CSS3
+      <br>CSS
     </td>
     <td align="center" height="150" width="150">
       <img src="https://github.com/the-artist-web/before-web-me/raw/main/public/image/javaScript.png" alt="JavaScript" width="75" height="75"/>
