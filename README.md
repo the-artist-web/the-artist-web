@@ -31,6 +31,10 @@ I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in we
       <br>CSS3
     </td>
     <td align="center" height="150" width="150">
+      <img src="https://github.com/the-artist-web/before-web-me/raw/main/public/image/javaScript.png" alt="JavaScript" width="75" height="75"/>
+      <br>JavaScript
+    </td>
+    <td align="center" height="150" width="150">
       <img src="https://github.com/the-artist-web/before-web-me/raw/main/public/image/sass.png" alt="SASS" width="75" height="75"/>
       <br>SASS
     </td>
@@ -41,10 +45,6 @@ I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in we
     <td align="center" height="150" width="150">
       <img src="https://github.com/the-artist-web/before-web-me/raw/main/public/image/bootstrap.png" alt="Bootstrap" width="75" height="75"/>
       <br>Bootstrap
-    </td>
-    <td align="center" height="150" width="150">
-      <img src="https://github.com/the-artist-web/before-web-me/raw/main/public/image/javaScript.png" alt="JavaScript" width="75" height="75"/>
-      <br>JavaScript
     </td>
   </tr>
   
