@@ -2,17 +2,15 @@
 
 I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in web development. I have experience in building user interfaces using:
 
-- **HTML, CSS, SASS, Tailwind CSS, and Bootstrap**
-- Enhancing interactivity with **JavaScript and TypeScript**
-- Developing web applications using **React and Next.js**
+- **HTML, CSS, SASS, and Bootstrap**
+- Enhancing interactivity with **JavaScript**
 - On the backend, I work with **PHP and Laravel**, utilizing **SQL databases**
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, SASS, Tailwind CSS, Bootstrap, JavaScript, TypeScript, React, Next.js
+- **Frontend:** HTML, CSS, SASS, Bootstrap, JavaScript
 - **Backend:** PHP, Laravel
 - **Database:** MySQL
-- **Animation:** GSAP (GreenSock Animation Platform)
 
 ## 👯️ Let's Connect
 
