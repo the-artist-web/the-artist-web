@@ -36,21 +36,21 @@ I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in we
       <img src="https://github.com/the-artist-web/before-web-me/raw/main/public/image/sass.png" alt="SASS" width="75" height="75"/>
       <br>SASS
     </td>
-    <td align="center" height="150" width="150">
+<!--     <td align="center" height="150" width="150">
       <img src="https://github.com/the-artist-web/before-web-me/raw/main/public/image/tailwindcss.png" alt="Tailwind CSS" width="75" height="75"/>
       <br>Tailwind CSS
-    </td>
+    </td> -->
     <td align="center" height="150" width="150">
       <img src="https://github.com/the-artist-web/before-web-me/raw/main/public/image/bootstrap.png" alt="Bootstrap" width="75" height="75"/>
       <br>Bootstrap
     </td>
-  </tr>
-  
-  <tr>
     <td align="center" height="150" width="150">
       <img src="https://github.com/the-artist-web/before-web-me/raw/main/public/image/javaScript.png" alt="JavaScript" width="75" height="75"/>
       <br>JavaScript
     </td>
+  </tr>
+  
+  <!-- <tr>
     <td align="center" height="150" width="150">
       <img src="https://github.com/the-artist-web/before-web-me/raw/main/public/image/typeScript.png" alt="TypeScript" width="75" height="75"/>
       <br>TypeScript
@@ -67,7 +67,7 @@ I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in we
       <img src="https://static.wikia.nocookie.net/logopedia/images/a/a5/GSAP_2023.svg/revision/latest/scale-to-width-down/300?cb=20231024190052" alt="GSAP" width="75" height="50"/>
       <br>GSAP
     </td>
-  </tr>
+  </tr> -->
   
   <tr>
     <td align="center" height="150" width="150">
