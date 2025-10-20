@@ -104,6 +104,7 @@ I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in we
   --font-family: ;
 
   /* Font size */
+  --fs-base: 10px;
   --fs-display-large: 5.7rem;
   --fs-display-medium: 4.5rem;
   --fs-display-small: 3.6rem;
