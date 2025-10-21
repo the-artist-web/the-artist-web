@@ -193,6 +193,7 @@ I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in we
   /**
    * Box shadow
    */
+  --shadow-05: 0px 1px 2px 1px #00000010, 0px 1px 1px 0px #00000015;
   --shadow-1: 0px 1px 3px 1px #00000026, 0px 1px 2px 0px #0000004d;
   --shadow-2: 0px 2px 6px 2px #00000026, 0px 1px 2px 0px #0000004d;
   --shadow-3: 0px 1px 3px 0px #0000004d, 0px 4px 8px 3px #00000026;
