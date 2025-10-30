@@ -223,6 +223,7 @@ I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in we
   --radius-medium: 12px;
   --radius-large: 16px;
   --radius-extra-large: 24px;
+  --radius-circle: 50%;
   --radius-full: 1000px;
 
   /**
