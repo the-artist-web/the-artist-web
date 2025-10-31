@@ -245,6 +245,6 @@ I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in we
   --height-small: 40px;
   --height-medium: 48px;
   --height-large: 56px;
-  --height-extra-largel: 96px;
+  --height-extra-large: 96px;
 }
 ```
