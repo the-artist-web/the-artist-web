@@ -112,7 +112,7 @@ I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in we
   --fs-headline-medium: 2.8rem;
   --fs-headline-small: 2.4rem;
   --fs-title-large: 2.2rem;
-  --fs-title-medium: 1.6rem;
+  --fs-title-medium: 1.8rem;
   --fs-title-small: 1.4rem;
   --fs-body-large: 1.6rem;
   --fs-body-medium: 1.4rem;
