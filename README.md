@@ -91,7 +91,7 @@ I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in we
    * Colors
    */
   --scrim: #00000075;
-  --success: #10b981;
+  --success: #00dc82;
   --warning: #ffb300;
   --error: #e53935;
   /* ... */
