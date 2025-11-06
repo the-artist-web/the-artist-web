@@ -236,12 +236,12 @@ I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in we
   /**
    * Others
    */
-  --width-extra-small: 32px;
+  --width-extra-small: 28px;
   --width-small: 40px;
   --width-medium: 48px;
   --width-large: 56px;
   --width-extra-large: 96px;
-  --height-extra-small: 32px;
+  --height-extra-small: 28px;
   --height-small: 40px;
   --height-medium: 48px;
   --height-large: 56px;
