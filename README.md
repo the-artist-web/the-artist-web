@@ -140,7 +140,7 @@ I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in we
   --lh-headline-medium: 3.6rem;
   --lh-headline-small: 3.2rem;
   --lh-title-large: 2.8rem;
-  --lh-title-medium: 2.2rem;
+  --lh-title-medium: 2.8rem;
   --lh-title-small: 2.0rem;
   --lh-body-large: 2.4rem;
   --lh-body-medium: 2.0rem;
