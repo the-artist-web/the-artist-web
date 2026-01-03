@@ -92,12 +92,16 @@ I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in we
    */
   --scrim: #00000075;
   --success: #1ec863;
+  --on-success: #000000;
   --soft-success: #1ec86335;
   --warning: #f6a723;
+  --on-warning: #000000;
   --soft-warning: #f6a72335;
   --info: #2f80ed;
+  --on-info: #ffffff;
   --soft-info: #2f80ed35;
   --error: #ed4956;
+  --on-error: #ffffff;
   --soft-error: #ed495635;
   /* ... */
 
