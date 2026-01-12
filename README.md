@@ -240,7 +240,7 @@ I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in we
    */
   --tr-duration-short: 200ms;
   --tr-duration-medium: 400ms;
-  --tr-duration-long: 500ms;
+  --tr-duration-long: 600ms;
 
   /**
    * Others
