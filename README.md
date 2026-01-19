@@ -131,11 +131,9 @@ I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in we
   --fs-label-small: 1.1rem;
 
   /* Font weight */
-  --fw-regular: 400;
-  --fw-small: 500;
+  --fw-regular: 500;
   --fw-medium: 600;
   --fw-large: 700;
-  --fw-bold: 800;
 
   /* Line height */
   --lh-base: 1.6;
