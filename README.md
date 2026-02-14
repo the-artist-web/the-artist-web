@@ -87,171 +87,272 @@ I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in we
 
 ```css
 :root {
-  /**
-   * Colors
-   */
-  --scrim: #00000075;
-  --success: #1ec863;
-  --on-success: #000000;
-  --soft-success: #1ec86335;
-  --warning: #f6a723;
-  --on-warning: #000000;
-  --soft-warning: #f6a72335;
-  --info: #2f80ed;
-  --on-info: #ffffff;
-  --soft-info: #2f80ed35;
-  --error: #ed4956;
-  --on-error: #ffffff;
-  --soft-error: #ed495635;
-  /* ... */
+    /**
+     * Colors
+     */
+    --scrim: #00000075;
+    --success: #1ec863;
+    --on-success: #000000;
+    --soft-success: #1ec86335;
+    --warning: #f6a723;
+    --on-warning: #000000;
+    --soft-warning: #f6a72335;
+    --info: #2f80ed;
+    --on-info: #ffffff;
+    --soft-info: #2f80ed35;
+    --error: #ed4956;
+    --on-error: #ffffff;
+    --soft-error: #ed495635;
+    /* ... */
+  
+    /**
+     * Typography
+     */
+  
+    /* Font Family */
+    --font-family: ;
+  
+    /* Font size */
+    --fs-base: 10px;
+    --fs-display-large: 5.7rem;
+    --fs-display-medium: 4.5rem;
+    --fs-display-small: 3.6rem;
+    --fs-headline-large: 3.2rem;
+    --fs-headline-medium: 2.8rem;
+    --fs-headline-small: 2.4rem;
+    --fs-title-large: 2.2rem;
+    --fs-title-medium: 1.8rem;
+    --fs-title-small: 1.4rem;
+    --fs-body-large: 1.6rem;
+    --fs-body-medium: 1.4rem;
+    --fs-body-small: 1.2rem;
+    --fs-label-large: 1.4rem;
+    --fs-label-medium: 1.2rem;
+    --fs-label-small: 1.1rem;
+  
+    /* Font weight */
+    --fw-regular: 500;
+    --fw-medium: 600;
+    --fw-large: 700;
+  
+    /* Line height */
+    --lh-base: 1.6;
+    --lh-display-large: 6.4rem;
+    --lh-display-medium: 5.2rem;
+    --lh-display-small: 4.4rem;
+    --lh-headline-large: 4.0rem;
+    --lh-headline-medium: 3.6rem;
+    --lh-headline-small: 3.2rem;
+    --lh-title-large: 2.8rem;
+    --lh-title-medium: 2.8rem;
+    --lh-title-small: 2.0rem;
+    --lh-body-large: 2.4rem;
+    --lh-body-medium: 2.0rem;
+    --lh-body-small: 1.8rem;
+    --lh-label-large: 2.0rem;
+    --lh-label-medium: 1.8rem;
+    --lh-label-small: 1.6rem;
+  
+    /* Letter spacing */
+    --ls-n-025: -0.25px;
+    --ls-p-010: 0.10px;
+    --ls-p-015: 0.15px;
+    --ls-p-025: 0.25px;
+    --ls-p-040: 0.40px;
+    --ls-p-050: 0.50px;
+  
+    /**
+     * Spacing
+     */
+    --spacing-base: 4px;
+    --spacing-05: calc(var(--spacing-base) * 0.5);
+    --spacing-1: calc(var(--spacing-base) * 1);
+    --spacing-2: calc(var(--spacing-base) * 2);
+    --spacing-3: calc(var(--spacing-base) * 3);
+    --spacing-4: calc(var(--spacing-base) * 4);
+    --spacing-5: calc(var(--spacing-base) * 5);
+    --spacing-6: calc(var(--spacing-base) * 6);
+    --spacing-7: calc(var(--spacing-base) * 7);
+    --spacing-8: calc(var(--spacing-base) * 8);
+    --spacing-9: calc(var(--spacing-base) * 9);
+    --spacing-10: calc(var(--spacing-base) * 10);
+    --spacing-11: calc(var(--spacing-base) * 11);
+    --spacing-12: calc(var(--spacing-base) * 12);
+    --spacing-13: calc(var(--spacing-base) * 13);
+    --spacing-14: calc(var(--spacing-base) * 14);
+    --spacing-15: calc(var(--spacing-base) * 15);
+    --spacing-16: calc(var(--spacing-base) * 16);
+    --spacing-17: calc(var(--spacing-base) * 17);
+    --spacing-18: calc(var(--spacing-base) * 18);
+    --spacing-19: calc(var(--spacing-base) * 19);
+    --spacing-20: calc(var(--spacing-base) * 20);
+    --spacing-21: calc(var(--spacing-base) * 21);
+    --spacing-22: calc(var(--spacing-base) * 22);
+    --spacing-23: calc(var(--spacing-base) * 23);
+    --spacing-24: calc(var(--spacing-base) * 24);
+    --spacing-25: calc(var(--spacing-base) * 25);
+    --spacing-26: calc(var(--spacing-base) * 26);
+    --spacing-27: calc(var(--spacing-base) * 27);
+    --spacing-28: calc(var(--spacing-base) * 28);
+    --spacing-29: calc(var(--spacing-base) * 29);
+    --spacing-30: calc(var(--spacing-base) * 30);
+  
+    /**
+     * Box shadow
+     */
+    --shadow-05: 0px 1px 2px 1px #00000010, 0px 1px 1px 0px #00000015;
+    --shadow-1: 0px 1px 3px 1px #00000026, 0px 1px 2px 0px #0000004d;
+    --shadow-2: 0px 2px 6px 2px #00000026, 0px 1px 2px 0px #0000004d;
+    --shadow-3: 0px 1px 3px 0px #0000004d, 0px 4px 8px 3px #00000026;
+    --shadow-4: 0px 2px 3px 0px #0000004d, 0px 6px 10px 4px #00000026;
+    --shadow-5: 0px 4px 4px 0px #0000004d, 0px 8px 12px 6px #00000026;
+    --shadow-6: 0px 4px 5px 0px #0000004d, 0px 10px 15px 6px #00000026;
+    --shadow-7: 0px 5px 5px 0px #0000004d, 0px 10px 18px 7px #00000026;
+    --shadow-8: 0px 5px 6px 0px #0000004d, 0px 12px 20px 8px #00000026;
+    --shadow-9: 0px 6px 6px 0px #0000004d, 0px 14px 22px 8px #00000026;
+    --shadow-10: 0px 6px 7px 0px #0000004d, 0px 16px 24px 9px #00000026;
+    --shadow-11: 0px 7px 8px 0px #0000004d, 0px 17px 26px 9px #00000026;
+    --shadow-12: 0px 7px 8px 0px #0000004d, 0px 18px 28px 10px #00000026;
+    --shadow-13: 0px 7px 9px 0px #0000004d, 0px 19px 29px 10px #00000026;
+    --shadow-14: 0px 8px 9px 0px #0000004d, 0px 20px 31px 11px #00000026;
+    --shadow-15: 0px 8px 10px 0px #0000004d, 0px 21px 33px 11px #00000026;
+    --shadow-16: 0px 8px 11px 0px #0000004d, 0px 22px 35px 12px #00000026;
+    --shadow-17: 0px 9px 11px 0px #0000004d, 0px 23px 36px 12px #00000026;
+    --shadow-18: 0px 9px 12px 0px #0000004d, 0px 24px 38px 13px #00000026;
+    --shadow-19: 0px 10px 13px 0px #0000004d, 0px 25px 40px 14px #00000026;
+    --shadow-20: 0px 10px 14px 0px #0000004d, 0px 26px 42px 15px #00000026;
+  
+    /**
+     * Border radius
+     */
+    --radius-extra-small: 4px;
+    --radius-small: 8px;
+    --radius-medium: 12px;
+    --radius-large: 16px;
+    --radius-extra-large: 24px;
+    --radius-circle: 50%;
+    --radius-full: 1000px;
+  
+    /**
+     * Transition
+     */
+    --tr-duration-short: 200ms;
+    --tr-duration-medium: 400ms;
+    --tr-duration-long: 600ms;
+  
+    /**
+     * Others
+     */
+    --width-extra-small: 32px;
+    --width-small: 40px;
+    --width-medium: 48px;
+    --width-large: 56px;
+    --width-extra-large: 96px;
+    --height-extra-small: 32px;
+    --height-small: 40px;
+    --height-medium: 48px;
+    --height-large: 56px;
+    --height-extra-large: 96px;
+}
+```
 
-  /**
-   * Typography
-   */
+```
+.text-display-large {
+    font-size: var(--fs-display-large);
+    font-weight: var(--fw-large);
+    line-height: var(--lh-display-large);
+    letter-spacing: var(--ls-n-025);
+}
 
-  /* Font Family */
-  --font-family: ;
+.text-display-medium {
+    font-size: var(--fs-display-medium);
+    font-weight: var(--fw-large);
+    line-height: var(--lh-display-medium);
+}
 
-  /* Font size */
-  --fs-base: 10px;
-  --fs-display-large: 5.7rem;
-  --fs-display-medium: 4.5rem;
-  --fs-display-small: 3.6rem;
-  --fs-headline-large: 3.2rem;
-  --fs-headline-medium: 2.8rem;
-  --fs-headline-small: 2.4rem;
-  --fs-title-large: 2.2rem;
-  --fs-title-medium: 1.8rem;
-  --fs-title-small: 1.4rem;
-  --fs-body-large: 1.6rem;
-  --fs-body-medium: 1.4rem;
-  --fs-body-small: 1.2rem;
-  --fs-label-large: 1.4rem;
-  --fs-label-medium: 1.2rem;
-  --fs-label-small: 1.1rem;
+.text-display-small {
+    font-size: var(--fs-display-small);
+    font-weight: var(--fw-large);
+    line-height: var(--lh-display-small);
+}
 
-  /* Font weight */
-  --fw-regular: 500;
-  --fw-medium: 600;
-  --fw-large: 700;
+.text-headline-large {
+    font-size: var(--fs-headline-large);
+    font-weight: var(--fw-large);
+    line-height: var(--lh-headline-large);
+}
 
-  /* Line height */
-  --lh-base: 1.6;
-  --lh-display-large: 6.4rem;
-  --lh-display-medium: 5.2rem;
-  --lh-display-small: 4.4rem;
-  --lh-headline-large: 4.0rem;
-  --lh-headline-medium: 3.6rem;
-  --lh-headline-small: 3.2rem;
-  --lh-title-large: 2.8rem;
-  --lh-title-medium: 2.8rem;
-  --lh-title-small: 2.0rem;
-  --lh-body-large: 2.4rem;
-  --lh-body-medium: 2.0rem;
-  --lh-body-small: 1.8rem;
-  --lh-label-large: 2.0rem;
-  --lh-label-medium: 1.8rem;
-  --lh-label-small: 1.6rem;
+.text-headline-medium {
+    font-size: var(--fs-headline-medium);
+    font-weight: var(--fw-large);
+    line-height: var(--lh-headline-medium);
+}
 
-  /* Letter spacing */
-  --ls-n-025: -0.25px;
-  --ls-p-010: 0.10px;
-  --ls-p-015: 0.15px;
-  --ls-p-025: 0.25px;
-  --ls-p-040: 0.40px;
-  --ls-p-050: 0.50px;
+.text-headline-small {
+    font-size: var(--fs-headline-small);
+    font-weight: var(--fw-large);
+    line-height: var(--lh-headline-small);
+}
 
-  /**
-   * Spacing
-   */
-  --spacing-base: 4px;
-  --spacing-05: calc(var(--spacing-base) * 0.5);
-  --spacing-1: calc(var(--spacing-base) * 1);
-  --spacing-2: calc(var(--spacing-base) * 2);
-  --spacing-3: calc(var(--spacing-base) * 3);
-  --spacing-4: calc(var(--spacing-base) * 4);
-  --spacing-5: calc(var(--spacing-base) * 5);
-  --spacing-6: calc(var(--spacing-base) * 6);
-  --spacing-7: calc(var(--spacing-base) * 7);
-  --spacing-8: calc(var(--spacing-base) * 8);
-  --spacing-9: calc(var(--spacing-base) * 9);
-  --spacing-10: calc(var(--spacing-base) * 10);
-  --spacing-11: calc(var(--spacing-base) * 11);
-  --spacing-12: calc(var(--spacing-base) * 12);
-  --spacing-13: calc(var(--spacing-base) * 13);
-  --spacing-14: calc(var(--spacing-base) * 14);
-  --spacing-15: calc(var(--spacing-base) * 15);
-  --spacing-16: calc(var(--spacing-base) * 16);
-  --spacing-17: calc(var(--spacing-base) * 17);
-  --spacing-18: calc(var(--spacing-base) * 18);
-  --spacing-19: calc(var(--spacing-base) * 19);
-  --spacing-20: calc(var(--spacing-base) * 20);
-  --spacing-21: calc(var(--spacing-base) * 21);
-  --spacing-22: calc(var(--spacing-base) * 22);
-  --spacing-23: calc(var(--spacing-base) * 23);
-  --spacing-24: calc(var(--spacing-base) * 24);
-  --spacing-25: calc(var(--spacing-base) * 25);
-  --spacing-26: calc(var(--spacing-base) * 26);
-  --spacing-27: calc(var(--spacing-base) * 27);
-  --spacing-28: calc(var(--spacing-base) * 28);
-  --spacing-29: calc(var(--spacing-base) * 29);
-  --spacing-30: calc(var(--spacing-base) * 30);
+.text-title-large {
+    font-size: var(--fs-title-large);
+    font-weight: var(--fw-medium);
+    line-height: var(--lh-title-large);
+}
 
-  /**
-   * Box shadow
-   */
-  --shadow-05: 0px 1px 2px 1px #00000010, 0px 1px 1px 0px #00000015;
-  --shadow-1: 0px 1px 3px 1px #00000026, 0px 1px 2px 0px #0000004d;
-  --shadow-2: 0px 2px 6px 2px #00000026, 0px 1px 2px 0px #0000004d;
-  --shadow-3: 0px 1px 3px 0px #0000004d, 0px 4px 8px 3px #00000026;
-  --shadow-4: 0px 2px 3px 0px #0000004d, 0px 6px 10px 4px #00000026;
-  --shadow-5: 0px 4px 4px 0px #0000004d, 0px 8px 12px 6px #00000026;
-  --shadow-6: 0px 4px 5px 0px #0000004d, 0px 10px 15px 6px #00000026;
-  --shadow-7: 0px 5px 5px 0px #0000004d, 0px 10px 18px 7px #00000026;
-  --shadow-8: 0px 5px 6px 0px #0000004d, 0px 12px 20px 8px #00000026;
-  --shadow-9: 0px 6px 6px 0px #0000004d, 0px 14px 22px 8px #00000026;
-  --shadow-10: 0px 6px 7px 0px #0000004d, 0px 16px 24px 9px #00000026;
-  --shadow-11: 0px 7px 8px 0px #0000004d, 0px 17px 26px 9px #00000026;
-  --shadow-12: 0px 7px 8px 0px #0000004d, 0px 18px 28px 10px #00000026;
-  --shadow-13: 0px 7px 9px 0px #0000004d, 0px 19px 29px 10px #00000026;
-  --shadow-14: 0px 8px 9px 0px #0000004d, 0px 20px 31px 11px #00000026;
-  --shadow-15: 0px 8px 10px 0px #0000004d, 0px 21px 33px 11px #00000026;
-  --shadow-16: 0px 8px 11px 0px #0000004d, 0px 22px 35px 12px #00000026;
-  --shadow-17: 0px 9px 11px 0px #0000004d, 0px 23px 36px 12px #00000026;
-  --shadow-18: 0px 9px 12px 0px #0000004d, 0px 24px 38px 13px #00000026;
-  --shadow-19: 0px 10px 13px 0px #0000004d, 0px 25px 40px 14px #00000026;
-  --shadow-20: 0px 10px 14px 0px #0000004d, 0px 26px 42px 15px #00000026;
+.text-title-medium {
+    font-size: var(--fs-title-medium);
+    font-weight: var(--fw-medium);
+    line-height: var(--lh-title-medium);
+    letter-spacing: var(--ls-p-015);
+}
 
-  /**
-   * Border radius
-   */
-  --radius-extra-small: 4px;
-  --radius-small: 8px;
-  --radius-medium: 12px;
-  --radius-large: 16px;
-  --radius-extra-large: 24px;
-  --radius-circle: 50%;
-  --radius-full: 1000px;
+.text-title-small {
+    font-size: var(--fs-title-small);
+    font-weight: var(--fw-medium);
+    line-height: var(--lh-title-small);
+    letter-spacing: var(--ls-p-010);
+}
 
-  /**
-   * Transition
-   */
-  --tr-duration-short: 200ms;
-  --tr-duration-medium: 400ms;
-  --tr-duration-long: 600ms;
+.text-body-large {
+    font-size: var(--fs-body-large);
+    font-weight: var(--fw-regular);
+    line-height: var(--lh-body-large);
+    letter-spacing: var(--ls-p-025);
+}
 
-  /**
-   * Others
-   */
-  --width-extra-small: 32px;
-  --width-small: 40px;
-  --width-medium: 48px;
-  --width-large: 56px;
-  --width-extra-large: 96px;
-  --height-extra-small: 32px;
-  --height-small: 40px;
-  --height-medium: 48px;
-  --height-large: 56px;
-  --height-extra-large: 96px;
+.text-body-medium {
+    font-size: var(--fs-body-medium);
+    font-weight: var(--fw-regular);
+    line-height: var(--lh-body-medium);
+    letter-spacing: var(--ls-p-025);
+}
+
+.text-body-small {
+    font-size: var(--fs-body-small);
+    font-weight: var(--fw-regular);
+    line-height: var(--lh-body-small);
+    letter-spacing: var(--ls-p-040);
+}
+
+.text-label-large {
+    font-size: var(--fs-label-large);
+    font-weight: var(--fw-regular);
+    line-height: var(--lh-label-large);
+    letter-spacing: var(--ls-p-010);
+}
+
+.text-label-medium {
+    font-size: var(--fs-label-medium);
+    font-weight: var(--fw-medium);
+    line-height: var(--lh-label-medium);
+    letter-spacing: var(--ls-p-050);
+}
+
+.text-label-small {
+    font-size: var(--fs-label-small);
+    font-weight: var(--fw-medium);
+    line-height: var(--lh-label-small);
+    letter-spacing: var(--ls-p-050);
 }
 ```
