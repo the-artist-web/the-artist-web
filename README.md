@@ -100,6 +100,9 @@ I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in we
     --info: #2f80ed;
     --on-info: #ffffff;
     --soft-info: #2f80ed20;
+    --purple: #463be3;
+    --on-purple: #ffffff;
+    --soft-purple: #463be320;
     --error: #ed4956;
     --on-error: #ffffff;
     --soft-error: #ed495620;
