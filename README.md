@@ -92,20 +92,20 @@ I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in we
      */
     --scrim: #00000075;
     --success: #1ec863;
-    --on-success: #000000;
+    --on-success: #ffffff;
     --soft-success: #1ec86320;
-    --warning: #f6a723;
+    --warning: #f0b100;
     --on-warning: #000000;
-    --soft-warning: #f6a72320;
-    --info: #2f80ed;
+    --soft-warning: #f0b10020;
+    --info: #3ea6ff;
     --on-info: #ffffff;
     --soft-info: #2f80ed20;
     --purple: #463be3;
     --on-purple: #ffffff;
     --soft-purple: #463be320;
-    --error: #ed4956;
+    --error: #ff2056;
     --on-error: #ffffff;
-    --soft-error: #ed495620;
+    --soft-error: #ff205620;
     /* ... */
   
     /**
@@ -117,7 +117,7 @@ I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in we
   
     /* Font size */
     --fs-base: 10px;
-    --fs-display-large: 5.7rem;
+    --fs-display-large: 6.5rem;
     --fs-display-medium: 4.5rem;
     --fs-display-small: 3.6rem;
     --fs-headline-large: 3.2rem;
@@ -136,22 +136,22 @@ I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in we
     /* Font weight */
     --fw-regular: 500;
     --fw-medium: 600;
-    --fw-large: 700;
+    --fw-large: 900;
   
     /* Line height */
     --lh-base: 1.6;
-    --lh-display-large: 6.4rem;
+    --lh-display-large: 1.2;
     --lh-display-medium: 5.2rem;
     --lh-display-small: 4.4rem;
-    --lh-headline-large: 4.0rem;
-    --lh-headline-medium: 3.6rem;
+    --lh-headline-large: 4.4rem;
+    --lh-headline-medium: 5.2rem;
     --lh-headline-small: 3.2rem;
-    --lh-title-large: 2.8rem;
+    --lh-title-large: 3.2rem;
     --lh-title-medium: 2.8rem;
     --lh-title-small: 2.8rem;
     --lh-body-large: 2.4rem;
     --lh-body-medium: 2.0rem;
-    --lh-body-small: 1.8rem;
+    --lh-body-small: 2.1rem;
     --lh-label-large: 2.0rem;
     --lh-label-medium: 1.8rem;
     --lh-label-small: 1.6rem;
