@@ -118,7 +118,7 @@ I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in we
     /* Font size */
     --fs-base: 10px;
     --fs-display-large: 6.5rem;
-    --fs-display-medium: 4.5rem;
+    --fs-display-medium: 4.4rem;
     --fs-display-small: 3.6rem;
     --fs-headline-large: 3.2rem;
     --fs-headline-medium: 2.8rem;
@@ -261,14 +261,14 @@ I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in we
 
 ```
 .text-display-large {
-    font-size: clamp(44px, 5vw, var(--fs-display-large));
+    font-size: clamp(36px, 5vw, var(--fs-display-large));
     font-weight: var(--fw-large);
     line-height: var(--lh-display-large);
     letter-spacing: var(--ls-n-025);
 }
 
 .text-display-medium {
-    font-size: var(--fs-display-medium);
+    font-size: clamp(36px, 5vw, var(--fs-display-medium));
     font-weight: var(--fw-large);
     line-height: var(--lh-display-medium);
 }
