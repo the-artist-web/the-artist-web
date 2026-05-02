@@ -261,20 +261,20 @@ I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in we
 
 ```
 .text-display-large {
-    font-size: clamp(36px, 5vw, var(--fs-display-large));
+    font-size: clamp(32px, 5vw, var(--fs-display-large));
     font-weight: var(--fw-large);
     line-height: var(--lh-display-large);
     letter-spacing: var(--ls-n-025);
 }
 
 .text-display-medium {
-    font-size: clamp(36px, 5vw, var(--fs-display-medium));
+    font-size: clamp(32px, 5vw, var(--fs-display-medium));
     font-weight: var(--fw-large);
     line-height: var(--lh-display-medium);
 }
 
 .text-display-small {
-    font-size: var(--fs-display-small);
+    font-size: clamp(32px, 5vw, var(--fs-display-small));
     font-weight: var(--fw-large);
     line-height: var(--lh-display-small);
 }
