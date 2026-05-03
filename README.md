@@ -114,46 +114,46 @@ I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in we
   
     /* Font Family */
     --font-family: ;
-  
+
     /* Font size */
     --fs-base: 10px;
-    --fs-display-large: 6.5rem;
-    --fs-display-medium: 4.4rem;
+    --fs-display-large: 5.7rem;
+    --fs-display-medium: 4.5rem;
     --fs-display-small: 3.6rem;
     --fs-headline-large: 3.2rem;
     --fs-headline-medium: 2.8rem;
     --fs-headline-small: 2.4rem;
     --fs-title-large: 2.2rem;
-    --fs-title-medium: 1.8rem;
-    --fs-title-small: 1.7rem;
+    --fs-title-medium: 1.6rem;
+    --fs-title-small: 1.4rem;
     --fs-body-large: 1.6rem;
     --fs-body-medium: 1.4rem;
     --fs-body-small: 1.2rem;
     --fs-label-large: 1.4rem;
     --fs-label-medium: 1.2rem;
     --fs-label-small: 1.1rem;
-  
+
     /* Font weight */
-    --fw-regular: 500;
-    --fw-medium: 600;
+    --fw-regular: 400;
+    --fw-medium: 500;
     --fw-large: 900;
-  
+
     /* Line height */
     --lh-base: 1.6;
-    --lh-display-large: 1.2;
+    --lh-display-large: 6.4rem;
     --lh-display-medium: 5.2rem;
     --lh-display-small: 4.4rem;
-    --lh-headline-large: 4.4rem;
-    --lh-headline-medium: 5.2rem;
+    --lh-headline-large: 4.0rem;
+    --lh-headline-medium: 3.6rem;
     --lh-headline-small: 3.2rem;
-    --lh-title-large: 3.2rem;
-    --lh-title-medium: 2.8rem;
-    --lh-title-small: 2.8rem;
+    --lh-title-large: 2.8rem;
+    --lh-title-medium: 2.4rem;
+    --lh-title-small: 2.0rem;
     --lh-body-large: 2.4rem;
     --lh-body-medium: 2.0rem;
-    --lh-body-small: 2.1rem;
+    --lh-body-small: 1.6rem;
     --lh-label-large: 2.0rem;
-    --lh-label-medium: 1.8rem;
+    --lh-label-medium: 1.6rem;
     --lh-label-small: 1.6rem;
   
     /* Letter spacing */
@@ -261,22 +261,22 @@ I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in we
 
 ```
 .text-display-large {
-    font-size: clamp(32px, 5vw, var(--fs-display-large));
+    font-size: clamp(3.2rem, 5vw, var(--fs-display-large));
     font-weight: var(--fw-large);
-    line-height: var(--lh-display-large);
+    line-height: clamp(4.0rem, 5vw, var(--lh-display-large));
     letter-spacing: var(--ls-n-025);
 }
 
 .text-display-medium {
-    font-size: clamp(32px, 5vw, var(--fs-display-medium));
+    font-size: clamp(2.8rem, 5vw, var(--fs-display-medium));
     font-weight: var(--fw-large);
-    line-height: var(--lh-display-medium);
+    line-height: clamp(3.6rem, 5vw, var(--lh-display-medium));
 }
 
 .text-display-small {
-    font-size: clamp(32px, 5vw, var(--fs-display-small));
+    font-size: clamp(2.4rem, 5vw, var(--fs-display-small));
     font-weight: var(--fw-large);
-    line-height: var(--lh-display-small);
+    line-height: clamp(3.2rem, 5vw, var(--lh-display-small));
 }
 
 .text-headline-large {
