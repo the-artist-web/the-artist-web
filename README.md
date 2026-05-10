@@ -95,7 +95,7 @@ I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in we
     --on-success: #ffffff;
     --soft-success: #1ec86320;
     --warning: #f0b100;
-    --on-warning: #000000;
+    --on-warning: #ffffff;
     --soft-warning: #f0b10020;
     --info: #3ea6ff;
     --on-info: #ffffff;
