@@ -46,9 +46,9 @@
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **Dealin.sa** 🇸🇦 | Saudi B2B platform — Full Frontend + Backend tasks on Laravel | [dealin.sa](https://dealin.sa) |
-| **The Artist Web** 🎨 | Creative assets marketplace — cart, messaging, notifications & profiles | [Live]([https://theartistweb.vercel.app) |
-| **Noqta** 📚 | Multi-vendor bookstore — vendors, orders, cart & user profiles | [Live](https://noqta-book.vercel.app) |
+| **Dealin.sa** 🇸🇦 | Saudi B2B platform — Full Frontend + Backend tasks on Laravel | [dealin](https://dealin.sa) |
+| **The Artist Web** 🎨 | Creative assets marketplace — cart, messaging, notifications & profiles | [theartistweb](https://theartistweb.vercel.app) |
+| **Noqta** 📚 | Multi-vendor bookstore — vendors, orders, cart & user profiles | [noqta](https://noqta-book.vercel.app) |
 
 ---
 
