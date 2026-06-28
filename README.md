@@ -5,7 +5,7 @@
 ### Full Stack Developer | Laravel Specialist | Filament PHP
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teamtheartistweb@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://the-artist-web-dublicate-nu.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://theartistweb.vercel.app)
 
 </div>
 
