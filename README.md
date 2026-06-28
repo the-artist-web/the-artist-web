@@ -1,87 +1,71 @@
-## 🚀 About Me
+<div align="center">
 
-I'm **The Artist Web**, a passionate **Full-Stack Developer** specializing in web development. I have experience in building user interfaces using:
+# Hi, I'm Mohamed Yasser 👋
 
-- **HTML, CSS, SASS, and Bootstrap**
-- Enhancing interactivity with **JavaScript**
-- On the backend, I work with **PHP and Laravel**, utilizing **SQL databases**
+### Full Stack Developer | Laravel Specialist | Filament PHP
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teamtheartistweb@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://the-artist-web-dublicate-nu.vercel.app/)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+**Full Stack Developer** with **3 years** of experience specializing in **Laravel** and PHP ecosystem. I've worked on real-world projects including B2B platforms, multi-vendor stores, and creative marketplaces. I'm proficient in building professional admin panels with **Filament PHP** and integrating Frontend seamlessly with Backend systems.
+
+---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap, SASS
-- **Backend:** PHP, Laravel
-- **Database:** MySQL
+**Backend**
 
-## 👯️ Let's Connect
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament_PHP-E8450A?style=flat-square&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logoColor=white)
 
-- 📩 **Email:** [teamtheartistweb@gmail.com](mailto:teamtheartistweb@gmail.com)
-- 📱 **WhatsApp:** [Chat with me](https://wa.me/message/YEX6SYAH54GFC1)
-- 🎥 **YouTube:** [team the artist web](https://www.youtube.com/@teamtheartistweb)
+**Frontend**
 
-## 🖥️ Tech Logos
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Material Design](https://img.shields.io/badge/Material_Design-757575?style=flat-square&logo=material-design&logoColor=white)
 
-<table align="center">
-  <tr>
-    <td align="center" height="150" width="150">
-      <img src="https://github.com/the-artist-web/before-web-me/raw/main/public/image/html.png" alt="HTML5" width="75" height="75"/>
-      <br>HTML
-    </td>
-    <td align="center" height="150" width="150">
-      <img src="https://github.com/the-artist-web/before-web-me/raw/main/public/image/css.png" alt="CSS3" width="75" height="75"/>
-      <br>CSS
-    </td>
-    <td align="center" height="150" width="150">
-      <img src="https://github.com/the-artist-web/before-web-me/raw/main/public/image/javaScript.png" alt="JavaScript" width="75" height="75"/>
-      <br>JavaScript
-    </td>
-    <td align="center" height="150" width="150">
-      <img src="https://github.com/the-artist-web/before-web-me/raw/main/public/image/bootstrap.png" alt="Bootstrap" width="75" height="75"/>
-      <br>Bootstrap
-    </td>
-    <td align="center" height="150" width="150">
-      <img src="https://github.com/the-artist-web/before-web-me/raw/main/public/image/sass.png" alt="SASS" width="75" height="75"/>
-      <br>SASS
-    </td>
-<!--     <td align="center" height="150" width="150">
-      <img src="https://github.com/the-artist-web/before-web-me/raw/main/public/image/tailwindcss.png" alt="Tailwind CSS" width="75" height="75"/>
-      <br>Tailwind CSS
-    </td> -->
-  </tr>
-  
-  <!-- <tr>
-    <td align="center" height="150" width="150">
-      <img src="https://github.com/the-artist-web/before-web-me/raw/main/public/image/typeScript.png" alt="TypeScript" width="75" height="75"/>
-      <br>TypeScript
-    </td>
-    <td align="center" height="150" width="150">
-      <img src="https://github.com/the-artist-web/before-web-me/raw/main/public/image/react.png" alt="React.js" width="75" height="75"/>
-      <br>React.js
-    </td>
-    <td align="center" height="150" width="150">
-      <img src="https://github.com/the-artist-web/before-web-me/raw/main/public/image/next.png" alt="Next.js" width="75" height="75"/>
-      <br>Next.js
-    </td>
-    <td align="center" height="150" width="150">
-      <img src="https://static.wikia.nocookie.net/logopedia/images/a/a5/GSAP_2023.svg/revision/latest/scale-to-width-down/300?cb=20231024190052" alt="GSAP" width="75" height="50"/>
-      <br>GSAP
-    </td>
-  </tr> -->
-  
-  <tr>
-    <td align="center" height="150" width="150">
-      <img src="https://github.com/the-artist-web/before-web-me/raw/main/public/image/php.png" alt="PHP" width="75" height="75"/>
-      <br>PHP
-    </td>
-    <td align="center" height="150" width="150">
-      <img src="https://github.com/the-artist-web/before-web-me/raw/main/public/image/laravel.png" alt="Laravel" width="75" height="75"/>
-      <br>Laravel
-    </td>
-    <td align="center" height="150" width="150">
-      <img src="https://github.com/the-artist-web/before-web-me/raw/main/public/image/mysql.png" alt="MySQL" width="75" height="75"/>
-      <br>MySQL
-    </td>
-  </tr>
-</table>
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Link |
+|---------|-------------|------|
+| **Dealin.sa** 🇸🇦 | Saudi B2B platform — Full Frontend + Backend tasks on Laravel | [dealin.sa](https://dealin.sa) |
+| **The Artist Web** 🎨 | Creative assets marketplace — cart, messaging, notifications & profiles | [Live]([https://theartistweb.vercel.app) |
+| **Noqta** 📚 | Multi-vendor bookstore — vendors, orders, cart & user profiles | [Live](https://noqta-book.vercel.app) |
+
+---
+
+## 💼 Experience
+
+- Built the complete Frontend for dealin.sa and integrated it with Laravel
+- Implemented multiple Backend tasks based on project requirements
+- Worked with MySQL databases and built RESTful APIs
+
+---
+
+## 📫 Contact
+
+- 📧 **Email:** teamtheartistweb@gmail.com
+- 📱 **Phone:** ⁦+20 10 64710784⁩
+- 📍 **Location:** Menofia, Egypt
 
 <h1>Material Design System:</h1>
 
