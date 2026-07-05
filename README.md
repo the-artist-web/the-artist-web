@@ -13,7 +13,13 @@
 
 ## 👨‍💻 About Me
 
-**Full Stack Developer** with **3 years and 7 month** of experience specializing in **Laravel** and PHP ecosystem. I've worked on real-world projects including B2B platforms, multi-vendor stores, and creative marketplaces. I'm proficient in building professional admin panels with **Filament PHP** and integrating Frontend seamlessly with Backend systems.
+**Full Stack Developer** with **3 years and 7 months** of experience specializing in **Laravel** and the PHP ecosystem. I've worked on real-world projects including B2B platforms, multi-vendor stores, and creative marketplaces. I'm proficient in building professional admin panels with **Filament PHP** and integrating Frontend seamlessly with Backend systems.
+
+In my previous role, I was responsible for building the **Frontend** and connecting it seamlessly with **Laravel**, while structuring the project files in a clean and professional manner. My work included organizing user-specific pages, implementing access control and route protection, structuring the site's pages, building the **admin dashboard**, and handling the full setup of the website from start to finish — with close attention to the smallest details.
+
+I've always dreamed of building a platform that combines the best of **Instagram**, **YouTube**, and **Behance** — and I've already taken the first step by bringing the vision to life: **[theartistweb.vercel.app](https://theartistweb.vercel.app)** 🎨. Now I'm on the final stretch of completing the backend and getting ready for the full launch.
+
+I'm a fast learner who enjoys picking up new languages and technologies quickly, adapting to whatever stack a company's needs require.
 
 ---
 
