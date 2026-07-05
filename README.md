@@ -52,6 +52,8 @@ I'm a fast learner who enjoys picking up new languages and technologies quickly,
 | **Naif Rooms** 🏨 | Hotel booking website — rooms, pricing plans, testimonials & news | [naif-rooms](https://naif-rooms.vercel.app) |
 | **Your Lawyer** ⚖️ | Lawyer portfolio website — legal services, practice areas, testimonials & blog | [your-lawyer](https://your-lawyer-ten.vercel.app) |
 | **Dealin.sa** 🇸🇦 | Saudi B2B platform — Full Frontend + Backend tasks on Laravel | [dealin](https://dealin.sa) |
+| **LMS Platform** 🎓 | Learning management system — courses, auth, instructor profile & contact form | [learning-management-system](https://learning-management-system-jade-kappa.vercel.app) |
+| **Notekeeper** 📝 | Note-taking app — create notes, organize notebooks & dark/light mode | [notekeeper](https://notekeeper-seven-beige.vercel.app) |
 | **The Artist Web** 🎨 | Creative assets marketplace — cart, messaging, notifications & profiles | [theartistweb](https://theartistweb.vercel.app) |
 | **Noqta** 📚 | Multi-vendor bookstore — vendors, orders, cart & user profiles | [noqta](https://noqta-book.vercel.app) |
 | **E-Commerce Store** 🛍️ | Full e-commerce platform — shop, cart, wishlist, blog & multi-language support | [ecommarce](https://front-ecommarce.vercel.app) |
