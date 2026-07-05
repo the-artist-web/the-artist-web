@@ -69,6 +69,8 @@
 - 📱 **Whatsapp:** ⁦+20 10 64710784⁩
 - 📍 **Location:** Shebin El Kom, Menoufia Governorate
 
+---
+
 <h1>Material Design System:</h1>
 
 ```css
