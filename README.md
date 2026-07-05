@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-**Full Stack Developer** with **3 years** of experience specializing in **Laravel** and PHP ecosystem. I've worked on real-world projects including B2B platforms, multi-vendor stores, and creative marketplaces. I'm proficient in building professional admin panels with **Filament PHP** and integrating Frontend seamlessly with Backend systems.
+**Full Stack Developer** with **3 years and 7 month** of experience specializing in **Laravel** and PHP ecosystem. I've worked on real-world projects including B2B platforms, multi-vendor stores, and creative marketplaces. I'm proficient in building professional admin panels with **Filament PHP** and integrating Frontend seamlessly with Backend systems.
 
 ---
 
@@ -33,7 +33,6 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Filament](https://img.shields.io/badge/Filament_PHP-E8450A?style=flat-square&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=flat-square&logoColor=white)
 
 **Tools**
 
@@ -60,15 +59,15 @@
 
 - Built the complete Frontend for dealin.sa and integrated it with Laravel
 - Implemented multiple Backend tasks based on project requirements
-- Worked with MySQL databases and built RESTful APIs
+- Worked with MySQL databases
 
 ---
 
 ## 📫 Contact
 
 - 📧 **Email:** teamtheartistweb@gmail.com
-- 📱 **Phone:** ⁦+20 10 64710784⁩
-- 📍 **Location:** Menofia, Egypt
+- 📱 **Whatsapp:** ⁦+20 10 64710784⁩
+- 📍 **Location:** Shebin El Kom, Menoufia Governorate
 
 <h1>Material Design System:</h1>
 
