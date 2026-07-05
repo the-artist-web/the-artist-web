@@ -59,7 +59,6 @@ I'm a fast learner who enjoys picking up new languages and technologies quickly,
 | **E-Commerce Store** 🛍️ | Full e-commerce platform — shop, cart, wishlist, blog & multi-language support | [ecommarce](https://front-ecommarce.vercel.app) |
 | **AI Association** 🤖 | Saudi AI association platform — programs, community, events & bilingual support | [AI Society](https://artificial-intelligence-association-five.vercel.app) |
 | **Sweeds** 💼 | Personal branding site for a business consultant — workshops, testimonials & media | [sweeds](https://sweeds.vercel.app) |
-| **Bcreative Academy** 🏫 | Educational academy platform — courses, categories & registration system | [bcreative](https://bcreative-lilac.vercel.app) |
 
 ---
 
