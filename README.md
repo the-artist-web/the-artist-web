@@ -65,9 +65,9 @@ I'm a fast learner who enjoys picking up new languages and technologies quickly,
 
 ## 💼 Experience
 
-- Built the complete Frontend for dealin.sa and integrated it with Laravel
-- Implemented multiple Backend tasks based on project requirements
-- Worked with MySQL databases
+* Primarily focused on Frontend development, building the complete frontend for dealin.sa and integrating it with Laravel
+* Implemented multiple Backend features and tasks based on project requirements
+* Developed REST APIs using Laravel and worked with MySQL databases
 
 ---
 
