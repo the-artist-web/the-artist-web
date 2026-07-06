@@ -49,7 +49,7 @@ I'm a fast learner who enjoys picking up new languages and technologies quickly,
  
 | Project | Description | Link |
 |---------|-------------|------|
-| **Dealin.sa** 🇸🇦 | Saudi B2B platform — Full Frontend + Backend tasks on Laravel | [dealin](https://dealin.sa) |
+| **Dealin.sa** | Saudi B2B platform — Full Frontend + Backend tasks on Laravel | [dealin](https://dealin.sa) |
 | **Engix Solutions** 🏢 | Corporate business website — services, e-store, programs, blogs & job listings | [engix-egy](https://engix-egy.com/public/ar) |
 | **Naif Rooms** 🏨 | Hotel booking website — rooms, pricing plans, testimonials & news | [naif-rooms](https://naif-rooms.vercel.app) |
 | **Your Lawyer** ⚖️ | Lawyer portfolio website — legal services, practice areas, testimonials & blog | [your-lawyer](https://your-lawyer-ten.vercel.app) |
