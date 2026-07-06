@@ -74,7 +74,8 @@ I'm a fast learner who enjoys picking up new languages and technologies quickly,
 ## 📫 Contact
 
 - 📧 **Email:** teamtheartistweb@gmail.com
-- 📱 **Phone:** ⁦+201106239577
+- 📱 **Phone:** ⁦+20 11 06239577
+- 📱 **Whatsapp:** ⁦+20 10 64710784⁩
 - 📍 **Location:** Shebin El Kom, Menoufia Governorate
 
 ---
