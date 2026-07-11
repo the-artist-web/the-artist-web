@@ -85,6 +85,8 @@ I'm a fast learner who enjoys picking up new languages and technologies quickly,
 
 ```css
 @theme {
+  --spacing: 4px;
+
   /**
    * Colors
    */
@@ -156,42 +158,6 @@ I'm a fast learner who enjoys picking up new languages and technologies quickly,
   --leading-label-large: 2.0rem;
   --leading-label-medium: 1.6rem;
   --leading-label-small: 1.6rem;
-
-  /**
-   * Spacing
-   */
-  --spacing-base: 4px;
-  --spacing-05: calc(var(--spacing-base) * 0.5);
-  --spacing-1: calc(var(--spacing-base) * 1);
-  --spacing-2: calc(var(--spacing-base) * 2);
-  --spacing-3: calc(var(--spacing-base) * 3);
-  --spacing-4: calc(var(--spacing-base) * 4);
-  --spacing-5: calc(var(--spacing-base) * 5);
-  --spacing-6: calc(var(--spacing-base) * 6);
-  --spacing-7: calc(var(--spacing-base) * 7);
-  --spacing-8: calc(var(--spacing-base) * 8);
-  --spacing-9: calc(var(--spacing-base) * 9);
-  --spacing-10: calc(var(--spacing-base) * 10);
-  --spacing-11: calc(var(--spacing-base) * 11);
-  --spacing-12: calc(var(--spacing-base) * 12);
-  --spacing-13: calc(var(--spacing-base) * 13);
-  --spacing-14: calc(var(--spacing-base) * 14);
-  --spacing-15: calc(var(--spacing-base) * 15);
-  --spacing-16: calc(var(--spacing-base) * 16);
-  --spacing-17: calc(var(--spacing-base) * 17);
-  --spacing-18: calc(var(--spacing-base) * 18);
-  --spacing-19: calc(var(--spacing-base) * 19);
-  --spacing-20: calc(var(--spacing-base) * 20);
-  --spacing-21: calc(var(--spacing-base) * 21);
-  --spacing-22: calc(var(--spacing-base) * 22);
-  --spacing-23: calc(var(--spacing-base) * 23);
-  --spacing-24: calc(var(--spacing-base) * 24);
-  --spacing-25: calc(var(--spacing-base) * 25);
-  --spacing-26: calc(var(--spacing-base) * 26);
-  --spacing-27: calc(var(--spacing-base) * 27);
-  --spacing-28: calc(var(--spacing-base) * 28);
-  --spacing-29: calc(var(--spacing-base) * 29);
-  --spacing-30: calc(var(--spacing-base) * 30);
 
   /**
    * Box shadow
