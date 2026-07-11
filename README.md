@@ -175,31 +175,6 @@ I'm a fast learner who enjoys picking up new languages and technologies quickly,
   --leading-label-small: 1.6rem;
 
   /**
-   * Box shadow
-   */
-  --shadow-05: 0px 1px 2px 1px #00000010, 0px 1px 1px 0px #00000015;
-  --shadow-1: 0px 1px 3px 1px #00000026, 0px 1px 2px 0px #0000004d;
-  --shadow-2: 0px 2px 6px 2px #00000026, 0px 1px 2px 0px #0000004d;
-  --shadow-3: 0px 1px 3px 0px #0000004d, 0px 4px 8px 3px #00000026;
-  --shadow-4: 0px 2px 3px 0px #0000004d, 0px 6px 10px 4px #00000026;
-  --shadow-5: 0px 4px 4px 0px #0000004d, 0px 8px 12px 6px #00000026;
-  --shadow-6: 0px 4px 5px 0px #0000004d, 0px 10px 15px 6px #00000026;
-  --shadow-7: 0px 5px 5px 0px #0000004d, 0px 10px 18px 7px #00000026;
-  --shadow-8: 0px 5px 6px 0px #0000004d, 0px 12px 20px 8px #00000026;
-  --shadow-9: 0px 6px 6px 0px #0000004d, 0px 14px 22px 8px #00000026;
-  --shadow-10: 0px 6px 7px 0px #0000004d, 0px 16px 24px 9px #00000026;
-  --shadow-11: 0px 7px 8px 0px #0000004d, 0px 17px 26px 9px #00000026;
-  --shadow-12: 0px 7px 8px 0px #0000004d, 0px 18px 28px 10px #00000026;
-  --shadow-13: 0px 7px 9px 0px #0000004d, 0px 19px 29px 10px #00000026;
-  --shadow-14: 0px 8px 9px 0px #0000004d, 0px 20px 31px 11px #00000026;
-  --shadow-15: 0px 8px 10px 0px #0000004d, 0px 21px 33px 11px #00000026;
-  --shadow-16: 0px 8px 11px 0px #0000004d, 0px 22px 35px 12px #00000026;
-  --shadow-17: 0px 9px 11px 0px #0000004d, 0px 23px 36px 12px #00000026;
-  --shadow-18: 0px 9px 12px 0px #0000004d, 0px 24px 38px 13px #00000026;
-  --shadow-19: 0px 10px 13px 0px #0000004d, 0px 25px 40px 14px #00000026;
-  --shadow-20: 0px 10px 14px 0px #0000004d, 0px 26px 42px 15px #00000026;
-
-  /**
    * Breakpoint
    */
   --breakpoint-xs: 568px;
