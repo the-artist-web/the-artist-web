@@ -80,7 +80,7 @@ I'm a fast learner who enjoys picking up new languages and technologies quickly,
 
 ---
 
-<h1>Design System Tailwindcss:</h1>
+<h1>Design System TailwindCSS:</h1>
 
 ```css
 @theme {
