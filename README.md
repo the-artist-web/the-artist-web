@@ -218,6 +218,15 @@ I'm a fast learner who enjoys picking up new languages and technologies quickly,
   --shadow-20: 0px 10px 14px 0px #0000004d, 0px 26px 42px 15px #00000026;
 
   /**
+   * Break Point
+   */
+  --breakpoint-xs: 568px;
+  --breakpoint-sm: 768px;
+  --breakpoint-md: 992px;
+  --breakpoint-lg: 1200px;
+  --breakpoint-xl: 1440px;
+
+  /**
    * Others
    */
   --spacing-extra-small: 32px;
