@@ -80,7 +80,7 @@ I'm a fast learner who enjoys picking up new languages and technologies quickly,
 
 ---
 
-<h1>Material Design System:</h1>
+<h1>Design System (Native):</h1>
 
 ```css
 :root {
@@ -259,7 +259,7 @@ I'm a fast learner who enjoys picking up new languages and technologies quickly,
 }
 ```
 
-```
+```css
 .text-display-large {
     font-size: clamp(3.2rem, 5vw, var(--fs-display-large));
     font-weight: var(--fw-large);
@@ -358,4 +358,191 @@ I'm a fast learner who enjoys picking up new languages and technologies quickly,
     line-height: var(--lh-label-small);
     letter-spacing: var(--ls-p-050);
 }
+```
+
+---
+
+<h1>Design System Tailwindcss:</h1>
+
+```css
+@theme {
+  /**
+   * Colors
+   */
+  --color-scrim: #00000075;
+  --color-success: #1ec863;
+  --color-on-success: #ffffff;
+  --color-soft-success: #1ec86320;
+  --color-warning: #f0b100;
+  --color-on-warning: #ffffff;
+  --color-soft-warning: #f0b10020;
+  --color-info: #3ea6ff;
+  --color-on-info: #ffffff;
+  --color-soft-info: #2f80ed20;
+  --color-purple: #9D00FF;
+  --color-on-purple: #ffffff;
+  --color-soft-purple: #9D00FF20;
+  --color-rosy: #ff66cc;
+  --color-on-rosy: #ffffff;
+  --color-soft-rosy: #ff66cc20;
+  --color-error: #ff2056;
+  --color-on-error: #ffffff;
+  --color-soft-error: #ff205620;
+  
+  /* Primary */
+  ...
+
+  /* Neutrals */
+  ...
+
+  /**
+   * Typography
+   */
+
+  /* Font Family */
+  --font-...: ...;
+
+  /* Font size */
+  --text-base: 10px;
+  --text-display-large: 5.7rem;
+  --text-display-medium: 4.5rem;
+  --text-display-small: 3.6rem;
+  --text-headline-large: 3.2rem;
+  --text-headline-medium: 2.8rem;
+  --text-headline-small: 2.4rem;
+  --text-title-large: 2.2rem;
+  --text-title-medium: 1.6rem;
+  --text-title-small: 1.4rem;
+  --text-body-large: 1.6rem;
+  --text-body-medium: 1.4rem;
+  --text-body-small: 1.2rem;
+  --text-label-large: 1.4rem;
+  --text-label-medium: 1.2rem;
+  --text-label-small: 1.1rem;
+
+  /* Line height */
+  --leading-base: 1.6;
+  --leading-display-large: 6.4rem;
+  --leading-display-medium: 5.2rem;
+  --leading-display-small: 4.4rem;
+  --leading-headline-large: 4.0rem;
+  --leading-headline-medium: 3.6rem;
+  --leading-headline-small: 3.2rem;
+  --leading-title-large: 2.8rem;
+  --leading-title-medium: 2.4rem;
+  --leading-title-small: 2.0rem;
+  --leading-body-large: 2.4rem;
+  --leading-body-medium: 2.0rem;
+  --leading-body-small: 1.6rem;
+  --leading-label-large: 2.0rem;
+  --leading-label-medium: 1.6rem;
+  --leading-label-small: 1.6rem;
+
+  /**
+   * Spacing
+   */
+  --spacing-base: 4px;
+  --spacing-05: calc(var(--spacing-base) * 0.5);
+  --spacing-1: calc(var(--spacing-base) * 1);
+  --spacing-2: calc(var(--spacing-base) * 2);
+  --spacing-3: calc(var(--spacing-base) * 3);
+  --spacing-4: calc(var(--spacing-base) * 4);
+  --spacing-5: calc(var(--spacing-base) * 5);
+  --spacing-6: calc(var(--spacing-base) * 6);
+  --spacing-7: calc(var(--spacing-base) * 7);
+  --spacing-8: calc(var(--spacing-base) * 8);
+  --spacing-9: calc(var(--spacing-base) * 9);
+  --spacing-10: calc(var(--spacing-base) * 10);
+  --spacing-11: calc(var(--spacing-base) * 11);
+  --spacing-12: calc(var(--spacing-base) * 12);
+  --spacing-13: calc(var(--spacing-base) * 13);
+  --spacing-14: calc(var(--spacing-base) * 14);
+  --spacing-15: calc(var(--spacing-base) * 15);
+  --spacing-16: calc(var(--spacing-base) * 16);
+  --spacing-17: calc(var(--spacing-base) * 17);
+  --spacing-18: calc(var(--spacing-base) * 18);
+  --spacing-19: calc(var(--spacing-base) * 19);
+  --spacing-20: calc(var(--spacing-base) * 20);
+  --spacing-21: calc(var(--spacing-base) * 21);
+  --spacing-22: calc(var(--spacing-base) * 22);
+  --spacing-23: calc(var(--spacing-base) * 23);
+  --spacing-24: calc(var(--spacing-base) * 24);
+  --spacing-25: calc(var(--spacing-base) * 25);
+  --spacing-26: calc(var(--spacing-base) * 26);
+  --spacing-27: calc(var(--spacing-base) * 27);
+  --spacing-28: calc(var(--spacing-base) * 28);
+  --spacing-29: calc(var(--spacing-base) * 29);
+  --spacing-30: calc(var(--spacing-base) * 30);
+
+  /**
+   * Box shadow
+   */
+  --shadow-05: 0px 1px 2px 1px #00000010, 0px 1px 1px 0px #00000015;
+  --shadow-1: 0px 1px 3px 1px #00000026, 0px 1px 2px 0px #0000004d;
+  --shadow-2: 0px 2px 6px 2px #00000026, 0px 1px 2px 0px #0000004d;
+  --shadow-3: 0px 1px 3px 0px #0000004d, 0px 4px 8px 3px #00000026;
+  --shadow-4: 0px 2px 3px 0px #0000004d, 0px 6px 10px 4px #00000026;
+  --shadow-5: 0px 4px 4px 0px #0000004d, 0px 8px 12px 6px #00000026;
+  --shadow-6: 0px 4px 5px 0px #0000004d, 0px 10px 15px 6px #00000026;
+  --shadow-7: 0px 5px 5px 0px #0000004d, 0px 10px 18px 7px #00000026;
+  --shadow-8: 0px 5px 6px 0px #0000004d, 0px 12px 20px 8px #00000026;
+  --shadow-9: 0px 6px 6px 0px #0000004d, 0px 14px 22px 8px #00000026;
+  --shadow-10: 0px 6px 7px 0px #0000004d, 0px 16px 24px 9px #00000026;
+  --shadow-11: 0px 7px 8px 0px #0000004d, 0px 17px 26px 9px #00000026;
+  --shadow-12: 0px 7px 8px 0px #0000004d, 0px 18px 28px 10px #00000026;
+  --shadow-13: 0px 7px 9px 0px #0000004d, 0px 19px 29px 10px #00000026;
+  --shadow-14: 0px 8px 9px 0px #0000004d, 0px 20px 31px 11px #00000026;
+  --shadow-15: 0px 8px 10px 0px #0000004d, 0px 21px 33px 11px #00000026;
+  --shadow-16: 0px 8px 11px 0px #0000004d, 0px 22px 35px 12px #00000026;
+  --shadow-17: 0px 9px 11px 0px #0000004d, 0px 23px 36px 12px #00000026;
+  --shadow-18: 0px 9px 12px 0px #0000004d, 0px 24px 38px 13px #00000026;
+  --shadow-19: 0px 10px 13px 0px #0000004d, 0px 25px 40px 14px #00000026;
+  --shadow-20: 0px 10px 14px 0px #0000004d, 0px 26px 42px 15px #00000026;
+
+  /**
+   * Others
+   */
+  --spacing-extra-small: 32px;
+  --spacing-small: 40px;
+  --spacing-medium: 48px;
+  --spacing-large: 56px;
+  --spacing-extra-large: 96px;
+  --spacing-extra-small: 32px;
+  --spacing-small: 40px;
+  --spacing-medium: 48px;
+  --spacing-large: 56px;
+  --spacing-extra-large: 96px;
+}
+```
+
+```css
+@utility display-large { @apply text-display-large leading-display-large font-black tracking-tight; }
+
+@utility display-medium { @apply text-display-medium leading-display-medium font-black; }
+
+@utility display-small { @apply text-display-small leading-display-small font-black; }
+
+@utility headline-large { @apply text-headline-large leading-headline-large font-medium; }
+
+@utility headline-medium { @apply text-headline-medium leading-headline-medium font-medium; }
+
+@utility headline-small { @apply text-headline-small leading-headline-small font-medium; }
+
+@utility title-large { @apply text-title-large leading-title-large font-medium; }
+
+@utility title-medium { @apply text-title-medium leading-title-medium font-medium tracking-[0.15px]; }
+
+@utility title-small { @apply text-title-small leading-title-small font-normal tracking-[0.1px]; }
+
+@utility body-large { @apply text-body-large leading-body-large font-normal tracking-[0.25px]; }
+
+@utility body-medium { @apply text-body-medium leading-body-medium font-normal tracking-[0.25px]; }
+
+@utility body-small { @apply text-body-small leading-body-small font-normal tracking-[0.4px]; }
+
+@utility label-large { @apply text-label-large leading-label-large font-normal tracking-[0.1px]; }
+
+@utility label-medium { @apply text-label-medium leading-label-medium font-medium tracking-[0.5px]; }
+
+@utility label-small { @apply text-label-small leading-label-small font-medium tracking-[0.5px]; }
 ```
