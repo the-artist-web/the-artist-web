@@ -185,7 +185,7 @@ I'm a fast learner who enjoys picking up new languages and technologies quickly,
   --shadow-20: 0px 10px 14px 0px #0000004d, 0px 26px 42px 15px #00000026;
 
   /**
-   * Break Point
+   * Breakpoint
    */
   --breakpoint-xs: 568px;
   --breakpoint-sm: 768px;
