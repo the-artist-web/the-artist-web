@@ -117,6 +117,21 @@ I'm a fast learner who enjoys picking up new languages and technologies quickly,
   ...
 
   /**
+   * Spacing
+   */
+  --spacing: 4px;
+  --spacing-extra-small: 32px;
+  --spacing-small: 40px;
+  --spacing-medium: 48px;
+  --spacing-large: 56px;
+  --spacing-extra-large: 96px;
+  --spacing-extra-small: 32px;
+  --spacing-small: 40px;
+  --spacing-medium: 48px;
+  --spacing-large: 56px;
+  --spacing-extra-large: 96px;
+
+  /**
    * Typography
    */
 
@@ -196,16 +211,7 @@ I'm a fast learner who enjoys picking up new languages and technologies quickly,
   /**
    * Others
    */
-  --spacing-extra-small: 32px;
-  --spacing-small: 40px;
-  --spacing-medium: 48px;
-  --spacing-large: 56px;
-  --spacing-extra-large: 96px;
-  --spacing-extra-small: 32px;
-  --spacing-small: 40px;
-  --spacing-medium: 48px;
-  --spacing-large: 56px;
-  --spacing-extra-large: 96px;
+  ...
 }
 ```
 
