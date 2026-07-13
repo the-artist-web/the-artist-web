@@ -2,7 +2,7 @@
 
 # Hi, I'm Mohamed Yasser 👋
 
-### Full Stack Developer Frontend (Native) | Laravel
+### Full Stack Next JS | Laravel
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teamtheartistweb@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://theartistweb.vercel.app)
