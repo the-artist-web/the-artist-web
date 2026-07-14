@@ -91,6 +91,7 @@ I'm a fast learner who enjoys picking up new languages and technologies quickly,
 ```css
 @theme {
   --spacing: 4px;
+  --radius: 8px;
 
   /**
    * Colors
