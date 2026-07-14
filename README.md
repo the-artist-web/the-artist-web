@@ -124,7 +124,6 @@ I'm a fast learner who enjoys picking up new languages and technologies quickly,
   /**
    * Spacing
    */
-  --spacing: 4px;
   --spacing-extra-small: 32px;
   --spacing-small: 40px;
   --spacing-medium: 48px;
