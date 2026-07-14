@@ -91,7 +91,6 @@ I'm a fast learner who enjoys picking up new languages and technologies quickly,
 ```css
 @theme {
   --spacing: 4px;
-  --radius: 8px;
 
   /**
    * Colors
@@ -173,6 +172,17 @@ I'm a fast learner who enjoys picking up new languages and technologies quickly,
   --leading-label-large: 2.0rem;
   --leading-label-medium: 1.6rem;
   --leading-label-small: 1.6rem;
+
+  /**
+   * Rounded
+   */
+  --rounded-extra-small: 4px;
+  --rounded-small: 8px;
+  --rounded-medium: 12px;
+  --rounded-large: 16px;
+  --rounded-extra-large: 24px;
+  --rounded-circle: 50%;
+  --rounded-full: 1000px;
 
   /**
    * Breakpoint
