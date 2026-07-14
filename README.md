@@ -174,15 +174,15 @@ I'm a fast learner who enjoys picking up new languages and technologies quickly,
   --leading-label-small: 1.6rem;
 
   /**
-   * Rounded
+   * Border Radius
    */
-  --rounded-extra-small: 4px;
-  --rounded-small: 8px;
-  --rounded-medium: 12px;
-  --rounded-large: 16px;
-  --rounded-extra-large: 24px;
-  --rounded-circle: 50%;
-  --rounded-full: 1000px;
+  --radius-extra-small: 4px;
+  --radius-small: 8px;
+  --radius-medium: 12px;
+  --radius-large: 16px;
+  --radius-extra-large: 24px;
+  --radius-circle: 50%;
+  --radius-full: 1000px;
 
   /**
    * Breakpoint
