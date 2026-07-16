@@ -18,7 +18,7 @@
 In my previous roles, I was responsible for building the **Frontend** from the ground up — structuring the project files in a clean and professional manner, organizing user-specific pages, implementing access control and route protection on the client side, structuring the site's pages, and building rich, interactive dashboards — with close attention to the smallest details.
 
 I've always dreamed of building a platform that combines the best of **Instagram**, **YouTube**, and **Behance** — and I've already taken the first step by bringing the vision to life: **[theartistweb.vercel.app](https://theartistweb.vercel.app)** 🎨.
-
+ 
 I'm a fast learner who enjoys picking up new languages and technologies quickly, adapting to whatever stack a company's needs require.
 
 ---
