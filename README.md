@@ -84,116 +84,204 @@ I'm a fast learner who enjoys picking up new languages and technologies quickly,
 <h1>Design System TailwindCSS:</h1>
 
 ```css
-@theme {
-  /**
-   * Colors
-   */
-  --color-scrim: #00000075;
-  --color-success: #1ec863;
-  --color-on-success: #ffffff;
-  --color-soft-success: #1ec86320;
-  --color-warning: #f0b100;
-  --color-on-warning: #ffffff;
-  --color-soft-warning: #f0b10020;
-  --color-info: #3ea6ff;
-  --color-on-info: #ffffff;
-  --color-soft-info: #2f80ed20;
-  --color-purple: #9D00FF;
-  --color-on-purple: #ffffff;
-  --color-soft-purple: #9D00FF20;
-  --color-rosy: #ff66cc;
-  --color-on-rosy: #ffffff;
-  --color-soft-rosy: #ff66cc20;
-  --color-error: #ff2056;
-  --color-on-error: #ffffff;
-  --color-soft-error: #ff205620;
-  
-  /* Primary */
-  ...
+/* ---------------------------------------------------- *\
+ * STYLE GUID
+\* ---------------------------------------------------- */
 
-  /* Neutrals */
-  ...
+@import "tailwindcss";
 
-  /**
-   * Spacing
-   */
-  --spacing-extra-small: 32px;
-  --spacing-small: 40px;
-  --spacing-medium: 48px;
-  --spacing-large: 56px;
-  --spacing-extra-large: 96px;
+:root {
+    /**
+     * Colors
+     */
+    --scrim: rgb(0 0 0 / 45%);
+    --success: oklch(0.72 0.17 150);
+    --on-success: oklch(1 0 0);
+    --soft-success: oklch(0.95 0.03 150);
+    --warning: oklch(0.83 0.17 85);
+    --on-warning: oklch(1 0 0);
+    --soft-warning: oklch(0.97 0.03 85);
+    --info: oklch(0.71 0.14 245);
+    --on-info: oklch(1 0 0);
+    --soft-info: oklch(0.95 0.02 245);
+    --purple: oklch(0.63 0.29 305);
+    --on-purple: oklch(1 0 0);
+    --soft-purple: oklch(0.94 0.04 305);
+    --rosy: oklch(0.74 0.21 350);
+    --on-rosy: oklch(1 0 0);
+    --soft-rosy: oklch(0.95 0.04 350);
+    --error: oklch(0.64 0.24 25);
+    --on-error: oklch(1 0 0);
+    --soft-error: oklch(0.95 0.04 25);
 
-  /**
-   * Typography
-   */
+    /* Primary */
+    ...
 
-  /* Font Family */
-  --font-...: ...;
-
-  /* Font size */
-  --text-base: 10px;
-  --text-display-large: 5.7rem;
-  --text-display-medium: 4.5rem;
-  --text-display-small: 3.6rem;
-  --text-headline-large: 3.2rem;
-  --text-headline-medium: 2.8rem;
-  --text-headline-small: 2.4rem;
-  --text-title-large: 2.2rem;
-  --text-title-medium: 1.6rem;
-  --text-title-small: 1.4rem;
-  --text-body-large: 1.6rem;
-  --text-body-medium: 1.4rem;
-  --text-body-small: 1.2rem;
-  --text-label-large: 1.4rem;
-  --text-label-medium: 1.2rem;
-  --text-label-small: 1.1rem;
-
-  /* Line height */
-  --leading-base: 1.6;
-  --leading-display-large: 6.4rem;
-  --leading-display-medium: 5.2rem;
-  --leading-display-small: 4.4rem;
-  --leading-headline-large: 4.0rem;
-  --leading-headline-medium: 3.6rem;
-  --leading-headline-small: 3.2rem;
-  --leading-title-large: 2.8rem;
-  --leading-title-medium: 2.4rem;
-  --leading-title-small: 2.0rem;
-  --leading-body-large: 2.4rem;
-  --leading-body-medium: 2.0rem;
-  --leading-body-small: 1.6rem;
-  --leading-label-large: 2.0rem;
-  --leading-label-medium: 1.6rem;
-  --leading-label-small: 1.6rem;
-
-  /**
-   * Border Radius
-   */
-  --radius-extra-small: 4px;
-  --radius-small: 8px;
-  --radius-medium: 12px;
-  --radius-large: 16px;
-  --radius-extra-large: 24px;
-  --radius-circle: 50%;
-  --radius-full: 1000px;
-
-  /**
-   * Breakpoint
-   */
-  --breakpoint-xs: 568px;
-  --breakpoint-sm: 768px;
-  --breakpoint-md: 992px;
-  --breakpoint-lg: 1200px;
-  --breakpoint-xl: 1440px;
-
-  /**
-   * Others
-   */
-  ...
+    /* Neutrals */
+    ...
 }
-```
 
-```css
+.dark {
+    /**
+     * Colors
+     */
+    --scrim: rgb(0 0 0 / 70%);
+    --success: oklch(0.79 0.18 150);
+    --soft-success: oklch(0.28 0.07 150);
+    --warning: oklch(0.89 0.18 85);
+    --soft-warning: oklch(0.30 0.07 85);
+    --info: oklch(0.82 0.14 245);
+    --soft-info: oklch(0.29 0.05 245);
+    --purple: oklch(0.76 0.25 305);
+    --soft-purple: oklch(0.31 0.07 305);
+    --rosy: oklch(0.81 0.20 350);
+    --soft-rosy: oklch(0.32 0.07 350);
+    --error: oklch(0.76 0.21 25);
+    --soft-error: oklch(0.31 0.07 25);
+
+    /* Primary */
+    ...
+
+    /* Neutrals */
+    ...
+}
+
+@theme inline {
+    /**
+     * Colors
+     */
+    --color-scrim: var(--scrim);
+    --color-success: var(--success);
+    --color-on-success: var(--on-success);
+    --color-soft-success: var(--soft-success);
+    --color-warning: var(--warning);
+    --color-on-warning: var(--on-warning);
+    --color-soft-warning: var(--soft-warning);
+    --color-info: var(--info);
+    --color-on-info: var(--on-info);
+    --color-soft-info: var(--soft-info);
+    --color-purple: var(--purple);
+    --color-on-purple: var(--on-purple);
+    --color-soft-purple: var(--soft-purple);
+    --color-rosy: var(--rosy);
+    --color-on-rosy: var(--on-rosy);
+    --color-soft-rosy: var(--soft-rosy);
+    --color-error: var(--error);
+    --color-on-error: var(--on-error);
+    --color-soft-error: var(--soft-error);
+
+    /* Primary */
+    ...
+
+    /* Neutrals */
+    ...
+
+    /**
+     * Spacing
+     */
+    --spacing-extra-small: 32px;
+    --spacing-small: 40px;
+    --spacing-medium: 48px;
+    --spacing-large: 56px;
+    --spacing-extra-large: 96px;
+
+    /**
+     * Typography
+     */
+
+    /* Font Family */
+    --font-...: ...;
+
+    /* Font size */
+    --text-base: 10px;
+    --text-display-large: 5.7rem;
+    --text-display-medium: 4.5rem;
+    --text-display-small: 3.6rem;
+    --text-headline-large: 3.2rem;
+    --text-headline-medium: 2.8rem;
+    --text-headline-small: 2.4rem;
+    --text-title-large: 2.2rem;
+    --text-title-medium: 1.6rem;
+    --text-title-small: 1.4rem;
+    --text-body-large: 1.6rem;
+    --text-body-medium: 1.4rem;
+    --text-body-small: 1.2rem;
+    --text-label-large: 1.4rem;
+    --text-label-medium: 1.2rem;
+    --text-label-small: 1.1rem;
+
+    /* Line height */
+    --leading-base: 1.6;
+    --leading-display-large: 6.4rem;
+    --leading-display-medium: 5.2rem;
+    --leading-display-small: 4.4rem;
+    --leading-headline-large: 4.0rem;
+    --leading-headline-medium: 3.6rem;
+    --leading-headline-small: 3.2rem;
+    --leading-title-large: 2.8rem;
+    --leading-title-medium: 2.4rem;
+    --leading-title-small: 2.0rem;
+    --leading-body-large: 2.4rem;
+    --leading-body-medium: 2.0rem;
+    --leading-body-small: 1.6rem;
+    --leading-label-large: 2.0rem;
+    --leading-label-medium: 1.6rem;
+    --leading-label-small: 1.6rem;
+
+    /**
+     * Border Radius
+     */
+    --radius-extra-small: 4px;
+    --radius-small: 8px;
+    --radius-medium: 12px;
+    --radius-large: 16px;
+    --radius-extra-large: 24px;
+    --radius-circle: 50%;
+    --radius-full: 1000px;
+
+    /**
+     * Breakpoint
+     */
+    --breakpoint-xs: 568px;
+    --breakpoint-sm: 768px;
+    --breakpoint-md: 992px;
+    --breakpoint-lg: 1200px;
+    --breakpoint-xl: 1440px;
+
+    /**
+     * Others
+     */
+    ...
+}
+
+/* ---------------------------------------------------- *\
+ * RESET
+\* ---------------------------------------------------- */
+
+
+
+
+
+
+
+
+
+/* ---------------------------------------------------- *\
+ * BASE
+\* ---------------------------------------------------- */
+
+
+
+
+
+
+
+
+
+/* ---------------------------------------------------- *\
+ * TYPOGRAPHY
+\* ---------------------------------------------------- */
+
 @utility display-large { @apply text-display-large leading-display-large font-black tracking-tight; }
 
 @utility display-medium { @apply text-display-medium leading-display-medium font-black; }
@@ -223,4 +311,252 @@ I'm a fast learner who enjoys picking up new languages and technologies quickly,
 @utility label-medium { @apply text-label-medium leading-label-medium font-medium tracking-[0.5px]; }
 
 @utility label-small { @apply text-label-small leading-label-small font-medium tracking-[0.5px]; }
+
+/* ---------------------------------------------------- *\
+ * REUSED STYLES
+\* ---------------------------------------------------- */
+
+
+
+
+
+
+
+
+
+/* ---------------------------------------------------- *\
+ * Components
+\* ---------------------------------------------------- */
+
+/**
+ * Logo
+ */
+
+
+
+/**
+ * Avatars
+ */
+
+
+
+/**
+ * App bars
+ */
+
+
+
+/**
+ * Badges
+ */
+
+
+
+/**
+ * Button groups
+ */
+
+
+
+/**
+ * Buttons
+ */
+
+
+
+/**
+ * Extended FABs
+ */
+
+
+
+/**
+ * FAB menu
+ */
+
+
+
+/**
+ * FABs
+ */
+
+
+
+/**
+ * Icon buttons
+ */
+
+
+
+/**
+ * Segmented buttons
+ */
+
+
+
+/**
+ * Split button
+ */
+
+
+
+/**
+ * Cards
+ */
+
+
+
+/**
+ * Carousel
+ */
+
+
+
+/**
+ * Checkbox
+ */
+
+
+
+/**
+ * Chips
+ */
+
+
+
+/**
+ * Date pickers
+ */
+
+
+
+/**
+ * Time pickers
+ */
+
+
+
+/**
+ * Dialogs
+ */
+
+
+
+/**
+ * Divider
+ */
+
+
+
+/**
+ * Lists
+ */
+
+
+
+/**
+ * Loading indicator
+ */
+
+
+
+/**
+ * Progress indicators
+ */
+
+
+
+/**
+ * Menus
+ */
+
+
+
+/**
+ * Navigation bar
+ */
+
+
+
+/**
+ * Navigation drawer
+ */
+
+
+
+/**
+ * Navigation rail
+ */
+
+
+
+/**
+ * Radio button
+ */
+
+
+
+/**
+ * Search
+ */
+
+
+
+/**
+ * Bottom sheets
+ */
+
+
+
+/**
+ * Side sheets
+ */
+
+
+
+/**
+ * Sliders
+ */
+
+
+
+/**
+ * Snackbar
+ */
+
+
+
+/**
+ * Switch
+ */
+
+
+
+/**
+ * Tabs
+ */
+
+
+
+/**
+ * Text fields
+ */
+
+
+
+/**
+ * Toolbars
+ */
+
+
+
+/**
+ * Tooltips
+ */
+
+
+
+/* ---------------------------------------------------- *\
+ * MAIN
+\* ---------------------------------------------------- */
 ```
