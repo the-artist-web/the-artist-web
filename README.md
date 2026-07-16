@@ -2,7 +2,7 @@
 
 # Hi, I'm Mohamed Yasser 👋
 
-### Full Stack Next JS | Laravel
+### Frontend Developer | Next JS | React
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teamtheartistweb@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://theartistweb.vercel.app)
@@ -13,11 +13,11 @@
 
 ## 👨‍💻 About Me
 
-**Full Stack Developer** with **3 years and 7 months** of experience specializing in **Laravel** and the PHP ecosystem. I've worked on real-world projects including B2B platforms, multi-vendor stores, and creative marketplaces. I'm proficient in building professional admin panels with **Filament PHP** and integrating Frontend seamlessly with Backend systems.
+**Frontend Developer** with **3 years and 7 months** of experience specializing in building modern, polished user interfaces with **React**, **Next.js**, and **TypeScript**. I've worked on real-world projects including B2B platforms, multi-vendor stores, and creative marketplaces.
 
-In my previous role, I was responsible for building the **Frontend** and connecting it seamlessly with **Laravel**, while structuring the project files in a clean and professional manner. My work included organizing user-specific pages, implementing access control and route protection, structuring the site's pages, building the **admin dashboard**, and handling the full setup of the website from start to finish — with close attention to the smallest details.
+In my previous roles, I was responsible for building the **Frontend** from the ground up — structuring the project files in a clean and professional manner, organizing user-specific pages, implementing access control and route protection on the client side, structuring the site's pages, and building rich, interactive dashboards — with close attention to the smallest details.
 
-I've always dreamed of building a platform that combines the best of **Instagram**, **YouTube**, and **Behance** — and I've already taken the first step by bringing the vision to life: **[theartistweb.vercel.app](https://theartistweb.vercel.app)** 🎨. Now I'm on the final stretch of completing the backend and getting ready for the full launch.
+I've always dreamed of building a platform that combines the best of **Instagram**, **YouTube**, and **Behance** — and I've already taken the first step by bringing the vision to life: **[theartistweb.vercel.app](https://theartistweb.vercel.app)** 🎨.
 
 I'm a fast learner who enjoys picking up new languages and technologies quickly, adapting to whatever stack a company's needs require.
 
@@ -34,15 +34,11 @@ I'm a fast learner who enjoys picking up new languages and technologies quickly,
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Motion](https://img.shields.io/badge/Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Material Design](https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
-
-### ⚙️ Backend
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Filament](https://img.shields.io/badge/Filament_PHP-E8450A?style=for-the-badge&logoColor=white)
 
 ### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -55,7 +51,7 @@ I'm a fast learner who enjoys picking up new languages and technologies quickly,
  
 | Project | Description | Link |
 |---------|-------------|------|
-| **Dealin.sa** | Saudi B2B platform — Full Frontend + Backend tasks on Laravel | [dealin](https://dealin.sa) |
+| **Dealin.sa** | Saudi B2B platform — Full Frontend implementation | [dealin](https://dealin.sa) |
 | **Engix Solutions** 🏢 | Corporate business website — services, e-store, programs, blogs & job listings | [engix-egy](https://engix-egy.com/public/ar) |
 | **Naif Rooms** 🏨 | Hotel booking website — rooms, pricing plans, testimonials & news | [naif-rooms](https://naif-rooms.vercel.app) |
 | **Your Lawyer** ⚖️ | Lawyer portfolio website — legal services, practice areas, testimonials & blog | [your-lawyer](https://your-lawyer-ten.vercel.app) |
@@ -71,9 +67,9 @@ I'm a fast learner who enjoys picking up new languages and technologies quickly,
 
 ## 💼 Experience
 
-* Primarily focused on Frontend development, building the complete frontend for dealin.sa and integrating it with Laravel
-* Implemented multiple Backend features and tasks based on project requirements
-* Developed REST APIs using Laravel and worked with MySQL databases
+* Primarily focused on Frontend development, building the complete frontend for dealin.sa
+* Built rich, animated interfaces using Motion (Framer Motion) and accessible components with Radix UI
+* Structured scalable project architectures with clean, reusable components and design systems
 
 ---
 
