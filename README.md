@@ -18,7 +18,7 @@
 In my previous roles, I was responsible for building the **Frontend** from the ground up — structuring the project files in a clean and professional manner, organizing user-specific pages, implementing access control and route protection on the client side, structuring the site's pages, and building rich, interactive dashboards — with close attention to the smallest details.
 
 I've always dreamed of building a platform that combines the best of **Instagram**, **YouTube**, and **Behance** — and I've already taken the first step by bringing the vision to life: **[theartistweb.vercel.app](https://theartistweb.vercel.app)** 🎨.
- 
+
 I'm a fast learner who enjoys picking up new languages and technologies quickly, adapting to whatever stack a company's needs require.
 
 ---
@@ -34,9 +34,10 @@ I'm a fast learner who enjoys picking up new languages and technologies quickly,
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Motion](https://img.shields.io/badge/Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Motion](https://img.shields.io/badge/Motion-111111?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHJ4PSIxOCIgZmlsbD0iI0ZGRTYwMCIvPgo8ZyBmaWxsPSIjMTExMTExIj4KPHBvbHlnb24gcG9pbnRzPSIxOCw3MCAzOCw3MCA2OCwzMCA0OCwzMCIvPgo8cG9seWdvbiBwb2ludHM9IjM4LDcwIDUyLDcwIDgyLDMwIDY4LDMwIi8+CjwvZz4KPC9zdmc+Cg==&logoColor=white)
 ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Material Design](https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
 
 ### 🛠️ Tools
@@ -67,7 +68,7 @@ I'm a fast learner who enjoys picking up new languages and technologies quickly,
 ## 💼 Experience
 
 * Primarily focused on Frontend development, building the complete frontend for dealin.sa
-* Built rich, animated interfaces using Motion (Framer Motion) and accessible components with Radix UI
+* Built rich, animated interfaces using Motion and accessible components with Radix UI
 * Structured scalable project architectures with clean, reusable components and design systems
 
 ---
