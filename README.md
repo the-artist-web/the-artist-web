@@ -245,7 +245,7 @@ I'm a fast learner who enjoys picking up new languages and technologies quickly,
     --breakpoint-xs: 568px;
     --breakpoint-sm: 768px;
     --breakpoint-md: 992px;
-    --breakpoint-lg: 1200px;
+    --breakpoint-lg: 1280px;
     --breakpoint-xl: 1440px;
 
     /**
