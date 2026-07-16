@@ -147,6 +147,8 @@ I'm a fast learner who enjoys picking up new languages and technologies quickly,
 }
 
 @theme inline {
+    --spacing: 4px;
+
     /**
      * Colors
      */
