@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-**Frontend Developer** with **3 years and 7 months** of experience specializing in building modern, polished user interfaces with **React**, **Next.js**, and **TypeScript**. I've worked on real-world projects including B2B platforms, multi-vendor stores, and creative marketplaces.
+**Frontend Developer** with **4 years** of experience specializing in building modern, polished user interfaces with **React**, **Next.js**, and **TypeScript**. I've worked on real-world projects including B2B platforms, multi-vendor stores, and creative marketplaces.
 
 In my previous roles, I was responsible for building the **Frontend** from the ground up — structuring the project files in a clean and professional manner, organizing user-specific pages, implementing access control and route protection on the client side, structuring the site's pages, and building rich, interactive dashboards — with close attention to the smallest details.
 
