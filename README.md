@@ -90,6 +90,8 @@ I'm a fast learner who enjoys picking up new languages and technologies quickly,
 
 @import "tailwindcss";
 
+@custom-variant dark (&:where(.dark, .dark *));
+
 :root {
     /**
      * Colors
