@@ -253,6 +253,12 @@ I'm a fast learner who enjoys picking up new languages and technologies quickly,
     --breakpoint-xl: 1440px;
 
     /**
+     * Animations
+     */
+    --animate-fade-in: fadeIn 150ms ease-out;
+    --animate-fade-out: fadeOut 150ms ease-in;
+
+    /**
      * Others
      */
     ...
