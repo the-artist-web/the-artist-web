@@ -35,6 +35,7 @@ I'm a fast learner who enjoys picking up new languages and technologies quickly,
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Motion](https://img.shields.io/badge/Motion-111111?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj4KPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHJ4PSIxOCIgZmlsbD0iI0ZGRTYwMCIvPgo8ZyBmaWxsPSIjMTExMTExIj4KPHBvbHlnb24gcG9pbnRzPSIxOCw3MCAzOCw3MCA2OCwzMCA0OCwzMCIvPgo8cG9seWdvbiBwb2ludHM9IjM4LDcwIDUyLDcwIDgyLDMwIDY4LDMwIi8+CjwvZz4KPC9zdmc+Cg==&logoColor=white)
 ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white)
+![React Bits](https://img.shields.io/badge/React_Bits-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![Material Design](https://img.shields.io/badge/Material_Design-757575?style=for-the-badge&logo=material-design&logoColor=white)
