@@ -2,7 +2,7 @@
 
 # Hi, I'm Mohamed Yasser 👋
 
-### Frontend Developer | Next JS | React
+### Next.js & React Developer | TypeScript | Modern Frontend
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teamtheartistweb@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://theartistweb.vercel.app)
@@ -13,14 +13,32 @@
 
 ## 👨‍💻 About Me
 
-**Frontend Developer** with **4 years** of experience specializing in building modern, polished user interfaces with **React**, **Next.js**, and **TypeScript**. I've worked on real-world projects including B2B platforms, multi-vendor stores, and creative marketplaces.
+I'm Mohamed Yasser, a passionate Frontend Developer specializing in React.js, Next.js, 
+and TypeScript.
 
-In my previous roles, I was responsible for building the **Frontend** from the ground up — structuring the project files in a clean and professional manner, organizing user-specific pages, implementing access control and route protection on the client side, structuring the site's pages, and building rich, interactive dashboards — with close attention to the smallest details.
+"Code is not just work, it's my craft" — that's my mindset. I put real effort 
+into every project to deliver clean, fast, and professional results.
 
-I've always dreamed of building a platform that combines the best of **Instagram**, **YouTube**, and **Behance** — and I've already taken the first step by bringing the vision to life: **[theartistweb.vercel.app](https://theartistweb.vercel.app)** 🎨.
+Whatever challenges we face, client satisfaction will always be my FIRST PRIORITY.
 
-I'm a fast learner who enjoys picking up new languages and technologies quickly, adapting to whatever stack a company's needs require.
+I can build ANY type of website — from business websites and landing pages to 
+e-commerce platforms and web applications — with pixel-perfect, responsive design.
 
+My tech stack:
+✅ Next.js & React.js
+✅ TypeScript & JavaScript (ES6+)
+✅ HTML5 & CSS3
+✅ Tailwind CSS
+✅ Material UI / Material Design
+✅ Radix UI / Shadcn UI
+✅ Framer Motion (animations)
+✅ Responsive & Cross-Browser Design
+✅ API Integration
+
+I'm extremely flexible, responsive, and communicate clearly to get your project 
+done smoothly and on time.
+
+Feel free to invite me any time!
 ---
 
 ## 🛠️ Tech Stack
@@ -66,10 +84,22 @@ I'm a fast learner who enjoys picking up new languages and technologies quickly,
 
 ## 💼 Experience
 
-* Primarily focused on Frontend development, building the complete frontend for dealin.sa
-* Built rich, animated interfaces using Motion and accessible components with Radix UI
-* Structured scalable project architectures with clean, reusable components and design systems
+Frontend Developer
+Dotbytes | 1.5 years
 
+Worked as a Frontend Developer at Dotbytes, where I built and maintained 
+responsive, high-performance web interfaces using React.js, Next.js, and 
+TypeScript.
+
+Key contributions:
+✅ Developed and maintained the frontend for Dealin.sa (dealin.sa), 
+   ensuring a smooth, responsive user experience across all devices
+✅ Collaborated with designers to convert Figma/UI designs into 
+   pixel-perfect, functional web pages
+✅ Optimized website performance and ensured cross-browser compatibility
+✅ Worked closely with backend developers to integrate APIs efficiently
+✅ Used Tailwind CSS and modern UI libraries (Material UI, Shadcn/UI) 
+   to build clean, consistent interfaces
 ---
 
 ## 📫 Contact
