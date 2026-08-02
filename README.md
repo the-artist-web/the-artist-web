@@ -92,10 +92,15 @@ responsive, high-performance web interfaces using React.js, Next.js, and
 TypeScript.
 
 Key contributions:
+
 ✅ Developed and maintained the frontend for Dealin.sa (dealin.sa), ensuring a smooth, responsive user experience across all devices
+
 ✅ Collaborated with designers to convert Figma/UI designs into pixel-perfect, functional web pages
+
 ✅ Optimized website performance and ensured cross-browser compatibility
+
 ✅ Worked closely with backend developers to integrate APIs efficiently
+
 ✅ Used Tailwind CSS and modern UI libraries (Material UI, Shadcn/UI) to build clean, consistent interfaces
 
 ---
