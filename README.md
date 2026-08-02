@@ -25,14 +25,23 @@ I can build ANY type of website — from business websites and landing pages to
 e-commerce platforms and web applications — with pixel-perfect, responsive design.
 
 My tech stack:
+
 ✅ Next.js & React.js
+
 ✅ TypeScript & JavaScript (ES6+)
+
 ✅ HTML5 & CSS3
+
 ✅ Tailwind CSS
+
 ✅ Material UI / Material Design
+
 ✅ Radix UI / Shadcn UI
+
 ✅ Framer Motion (animations)
+
 ✅ Responsive & Cross-Browser Design
+
 ✅ API Integration
 
 I'm extremely flexible, responsive, and communicate clearly to get your project 
