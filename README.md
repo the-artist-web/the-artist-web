@@ -334,35 +334,35 @@ Key contributions:
  * TYPOGRAPHY
 \* ---------------------------------------------------- */
 
-@utility display-large { @apply text-display-large leading-display-large font-black tracking-tight; }
+@utility display-large { @apply text-display-large leading-display-large font-black tracking-tight rtl:font-extrabold rtl:tracking-normal rtl:leading-[1.35]; }
 
 @utility display-medium { @apply text-display-medium leading-display-medium font-black; }
 
 @utility display-small { @apply text-display-small leading-display-small font-black; }
 
-@utility headline-large { @apply text-headline-large leading-headline-large font-medium; }
+@utility headline-large { @apply text-headline-large leading-headline-large font-black rtl:font-bold rtl:tracking-normal rtl:leading-[1.45]; }
 
-@utility headline-medium { @apply text-headline-medium leading-headline-medium font-medium; }
+@utility headline-medium { @apply text-headline-medium leading-headline-medium font-black; }
 
-@utility headline-small { @apply text-headline-small leading-headline-small font-medium; }
+@utility headline-small { @apply text-headline-small leading-headline-small font-black; }
+ 
+@utility title-large { @apply text-title-large leading-title-large font-bold tracking-[0.15px] rtl:font-semibold rtl:tracking-normal rtl:leading-[1.55]; }
 
-@utility title-large { @apply text-title-large leading-title-large font-medium; }
+@utility title-medium { @apply text-title-medium leading-title-medium font-bold tracking-[0.15px]; }
 
-@utility title-medium { @apply text-title-medium leading-title-medium font-medium tracking-[0.15px]; }
+@utility title-small { @apply text-title-small leading-title-small font-bold tracking-[0.1px]; }
 
-@utility title-small { @apply text-title-small leading-title-small font-normal tracking-[0.1px]; }
+@utility body-large { @apply text-body-large leading-body-large font-semibold tracking-[0.25px] rtl:font-medium rtl:tracking-normal rtl:leading-[1.8]; }
 
-@utility body-large { @apply text-body-large leading-body-large font-normal tracking-[0.25px]; }
+@utility body-medium { @apply text-body-medium leading-body-medium font-semibold tracking-[0.25px]; }
 
-@utility body-medium { @apply text-body-medium leading-body-medium font-normal tracking-[0.25px]; }
+@utility body-small { @apply text-body-small leading-body-small font-semibold tracking-[0.4px]; }
 
-@utility body-small { @apply text-body-small leading-body-small font-normal tracking-[0.4px]; }
+@utility label-large { @apply text-label-large leading-label-large font-semibold tracking-[0.1px]; }
 
-@utility label-large { @apply text-label-large leading-label-large font-normal tracking-[0.1px]; }
+@utility label-medium { @apply text-label-medium leading-label-medium font-semibold tracking-[0.5px]; }
 
-@utility label-medium { @apply text-label-medium leading-label-medium font-medium tracking-[0.5px]; }
-
-@utility label-small { @apply text-label-small leading-label-small font-medium tracking-[0.5px]; }
+@utility label-small { @apply text-label-small leading-label-small font-semibold tracking-[0.5px]; }
 
 /* ---------------------------------------------------- *\
  * REUSED STYLES
