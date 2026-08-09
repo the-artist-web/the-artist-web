@@ -78,7 +78,6 @@ Feel free to invite me any time!
 | Project | Description | Link |
 |---------|-------------|------|
 | **Dealin.sa** | Saudi B2B platform — Full Frontend implementation | [dealin](https://dealin.sa) |
-| **Engix Solutions** 🏢 | Corporate business website — services, e-store, programs, blogs & job listings | [engix-egy](https://engix-egy.com/public/ar) |
 | **Naif Rooms** 🏨 | Hotel booking website — rooms, pricing plans, testimonials & news | [naif-rooms](https://naif-rooms.vercel.app) |
 | **Your Lawyer** ⚖️ | Lawyer portfolio website — legal services, practice areas, testimonials & blog | [your-lawyer](https://your-lawyer-ten.vercel.app) |
 | **LMS Platform** 🎓 | Learning management system — courses, auth, instructor profile & contact form | [learning-management-system](https://learning-management-system-jade-kappa.vercel.app) |
