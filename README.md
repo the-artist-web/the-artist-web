@@ -84,7 +84,6 @@ Feel free to invite me any time!
 | **Notekeeper** 📝 | Note-taking app — create notes, organize notebooks & dark/light mode | [notekeeper](https://notekeeper-seven-beige.vercel.app) |
 | **The Artist Web** 🎨 | Creative assets marketplace — cart, messaging, notifications & profiles | [theartistweb](https://theartistweb.vercel.app) |
 | **Noqta** 📚 | Multi-vendor bookstore — vendors, orders, cart & user profiles | [noqta](https://noqta-book.vercel.app) |
-| **E-Commerce Store** 🛍️ | Full e-commerce platform — shop, cart, wishlist, blog & multi-language support | [ecommarce](https://front-ecommarce.vercel.app) |
 | **AI Association** 🤖 | Saudi AI association platform — programs, community, events & bilingual support | [AI Society](https://artificial-intelligence-association-five.vercel.app) |
 | **Sweeds** 💼 | Personal branding site for a business consultant — workshops, testimonials & media | [sweeds](https://sweeds.vercel.app) |
 
