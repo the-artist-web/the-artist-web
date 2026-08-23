@@ -77,6 +77,7 @@ Feel free to invite me any time!
  
 | Project | Description | Link |
 |---------|-------------|------|
+| **Merit Dhikr** | Read daily adhkar, Quran, hadith, prayer times, and Islamic articles | [meritdhikr](https://meritdhikr.vercel.app) |
 | **Dealin.sa** | Saudi B2B platform — Full Frontend implementation | [dealin](https://dealin.sa) |
 | **Naif Rooms** 🏨 | Hotel booking website — rooms, pricing plans, testimonials & news | [naif-rooms](https://naif-rooms.vercel.app) |
 | **Your Lawyer** ⚖️ | Lawyer portfolio website — legal services, practice areas, testimonials & blog | [your-lawyer](https://your-lawyer-ten.vercel.app) |
