@@ -137,25 +137,6 @@ Key contributions:
     /**
      * Colors
      */
-    --scrim: rgb(0 0 0 / 45%);
-    --success: oklch(0.72 0.17 150);
-    --on-success: oklch(1 0 0);
-    --soft-success: oklch(0.95 0.03 150);
-    --warning: oklch(0.83 0.17 85);
-    --on-warning: oklch(1 0 0);
-    --soft-warning: oklch(0.97 0.03 85);
-    --info: oklch(0.71 0.14 245);
-    --on-info: oklch(1 0 0);
-    --soft-info: oklch(0.95 0.02 245);
-    --purple: oklch(0.63 0.29 305);
-    --on-purple: oklch(1 0 0);
-    --soft-purple: oklch(0.94 0.04 305);
-    --rosy: oklch(0.74 0.21 350);
-    --on-rosy: oklch(1 0 0);
-    --soft-rosy: oklch(0.95 0.04 350);
-    --error: oklch(0.64 0.24 25);
-    --on-error: oklch(1 0 0);
-    --soft-error: oklch(0.95 0.04 25);
 
     /* Primary */
     ...
@@ -168,19 +149,6 @@ Key contributions:
     /**
      * Colors
      */
-    --scrim: rgb(0 0 0 / 70%);
-    --success: oklch(0.79 0.18 150);
-    --soft-success: oklch(0.28 0.07 150);
-    --warning: oklch(0.89 0.18 85);
-    --soft-warning: oklch(0.30 0.07 85);
-    --info: oklch(0.82 0.14 245);
-    --soft-info: oklch(0.29 0.05 245);
-    --purple: oklch(0.76 0.25 305);
-    --soft-purple: oklch(0.31 0.07 305);
-    --rosy: oklch(0.81 0.20 350);
-    --soft-rosy: oklch(0.32 0.07 350);
-    --error: oklch(0.76 0.21 25);
-    --soft-error: oklch(0.31 0.07 25);
 
     /* Primary */
     ...
@@ -195,25 +163,6 @@ Key contributions:
     /**
      * Colors
      */
-    --color-scrim: var(--scrim);
-    --color-success: var(--success);
-    --color-on-success: var(--on-success);
-    --color-soft-success: var(--soft-success);
-    --color-warning: var(--warning);
-    --color-on-warning: var(--on-warning);
-    --color-soft-warning: var(--soft-warning);
-    --color-info: var(--info);
-    --color-on-info: var(--on-info);
-    --color-soft-info: var(--soft-info);
-    --color-purple: var(--purple);
-    --color-on-purple: var(--on-purple);
-    --color-soft-purple: var(--soft-purple);
-    --color-rosy: var(--rosy);
-    --color-on-rosy: var(--on-rosy);
-    --color-soft-rosy: var(--soft-rosy);
-    --color-error: var(--error);
-    --color-on-error: var(--on-error);
-    --color-soft-error: var(--soft-error);
 
     /* Primary */
     ...
@@ -292,12 +241,6 @@ Key contributions:
     --breakpoint-md: 992px;
     --breakpoint-lg: 1280px;
     --breakpoint-xl: 1440px;
-
-    /**
-     * Animations
-     */
-    --animate-fade-in: fadeIn 150ms ease-out;
-    --animate-fade-out: fadeOut 150ms ease-in;
 
     /**
      * Others
