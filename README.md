@@ -134,42 +134,18 @@ Key contributions:
 @custom-variant dark (&:where(.dark, .dark *));
 
 :root {
-    /**
-     * Colors
-     */
-
-    /* Primary */
-    ...
-
-    /* Neutrals */
-    ...
+    --radius: 4px;
 }
 
-.dark {
-    /**
-     * Colors
-     */
-
-    /* Primary */
-    ...
-
-    /* Neutrals */
-    ...
-}
+.dark {}
 
 @theme inline {
     --spacing: 4px;
-
-    /**
-     * Colors
-     */
-
-    /* Primary */
+   
     ...
+}
 
-    /* Neutrals */
-    ...
-
+@theme {
     /**
      * Spacing
      */
@@ -182,9 +158,6 @@ Key contributions:
     /**
      * Typography
      */
-
-    /* Font Family */
-    --font-...: ...;
 
     /* Font size */
     --text-base: 10px;
@@ -223,17 +196,6 @@ Key contributions:
     --leading-label-small: 1.6rem;
 
     /**
-     * Border Radius
-     */
-    --radius-extra-small: 4px;
-    --radius-small: 8px;
-    --radius-medium: 12px;
-    --radius-large: 16px;
-    --radius-extra-large: 24px;
-    --radius-circle: 50%;
-    --radius-full: 1000px;
-
-    /**
      * Breakpoint
      */
     --breakpoint-xs: 568px;
@@ -248,29 +210,17 @@ Key contributions:
     ...
 }
 
-/* ---------------------------------------------------- *\
- * RESET
-\* ---------------------------------------------------- */
-
-
-
-
-
-
-
-
-
-/* ---------------------------------------------------- *\
- * BASE
-\* ---------------------------------------------------- */
-
-
-
-
-
-
-
-
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  html {
+    @apply font-sans;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
 
 /* ---------------------------------------------------- *\
  * TYPOGRAPHY
@@ -305,7 +255,3 @@ Key contributions:
 @utility label-medium { @apply text-label-medium leading-label-medium font-semibold tracking-[0.5px]; }
 
 @utility label-small { @apply text-label-small leading-label-small font-semibold tracking-[0.5px]; }
-
-/* ---------------------------------------------------- *\
- * REUSED STYLES
-\* ---------------------------------------------------- */
