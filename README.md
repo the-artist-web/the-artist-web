@@ -125,10 +125,6 @@ Key contributions:
 <h1>Design System TailwindCSS:</h1>
 
 ```css
-/* ---------------------------------------------------- *\
- * STYLE GUID
-\* ---------------------------------------------------- */
-
 @import "tailwindcss";
 
 @custom-variant dark (&:where(.dark, .dark *));
@@ -156,46 +152,6 @@ Key contributions:
     --spacing-extra-large: 96px;
 
     /**
-     * Typography
-     */
-
-    /* Font size */
-    --text-base: 10px;
-    --text-display-large: 5.7rem;
-    --text-display-medium: 4.5rem;
-    --text-display-small: 3.6rem;
-    --text-headline-large: 3.2rem;
-    --text-headline-medium: 2.8rem;
-    --text-headline-small: 2.4rem;
-    --text-title-large: 2.2rem;
-    --text-title-medium: 1.6rem;
-    --text-title-small: 1.4rem;
-    --text-body-large: 1.6rem;
-    --text-body-medium: 1.4rem;
-    --text-body-small: 1.2rem;
-    --text-label-large: 1.4rem;
-    --text-label-medium: 1.2rem;
-    --text-label-small: 1.1rem;
-
-    /* Line height */
-    --leading-base: 1.6;
-    --leading-display-large: 6.4rem;
-    --leading-display-medium: 5.2rem;
-    --leading-display-small: 4.4rem;
-    --leading-headline-large: 4.0rem;
-    --leading-headline-medium: 3.6rem;
-    --leading-headline-small: 3.2rem;
-    --leading-title-large: 2.8rem;
-    --leading-title-medium: 2.4rem;
-    --leading-title-small: 2.0rem;
-    --leading-body-large: 2.4rem;
-    --leading-body-medium: 2.0rem;
-    --leading-body-small: 1.6rem;
-    --leading-label-large: 2.0rem;
-    --leading-label-medium: 1.6rem;
-    --leading-label-small: 1.6rem;
-
-    /**
      * Breakpoint
      */
     --breakpoint-xs: 568px;
@@ -221,37 +177,3 @@ Key contributions:
     @apply bg-background text-foreground;
   }
 }
-
-/* ---------------------------------------------------- *\
- * TYPOGRAPHY
-\* ---------------------------------------------------- */
-
-@utility display-large { @apply text-display-large leading-display-large font-black tracking-tight rtl:font-extrabold rtl:tracking-normal rtl:leading-[1.35]; }
-
-@utility display-medium { @apply text-display-medium leading-display-medium font-black; }
-
-@utility display-small { @apply text-display-small leading-display-small font-black; }
-
-@utility headline-large { @apply text-headline-large leading-headline-large font-black rtl:font-bold rtl:tracking-normal rtl:leading-[1.45]; }
-
-@utility headline-medium { @apply text-headline-medium leading-headline-medium font-black; }
-
-@utility headline-small { @apply text-headline-small leading-headline-small font-black; }
- 
-@utility title-large { @apply text-title-large leading-title-large font-bold tracking-[0.15px] rtl:font-semibold rtl:tracking-normal rtl:leading-[1.55]; }
-
-@utility title-medium { @apply text-title-medium leading-title-medium font-bold tracking-[0.15px]; }
-
-@utility title-small { @apply text-title-small leading-title-small font-bold tracking-[0.1px]; }
-
-@utility body-large { @apply text-body-large leading-body-large font-semibold tracking-[0.25px] rtl:font-medium rtl:tracking-normal rtl:leading-[1.8]; }
-
-@utility body-medium { @apply text-body-medium leading-body-medium font-semibold tracking-[0.25px]; }
-
-@utility body-small { @apply text-body-small leading-body-small font-semibold tracking-[0.4px]; }
-
-@utility label-large { @apply text-label-large leading-label-large font-semibold tracking-[0.1px]; }
-
-@utility label-medium { @apply text-label-medium leading-label-medium font-semibold tracking-[0.5px]; }
-
-@utility label-small { @apply text-label-small leading-label-small font-semibold tracking-[0.5px]; }
