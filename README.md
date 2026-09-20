@@ -14,7 +14,7 @@
 .dark {}
 
 @theme inline {
-    --spacing: 4px;
+    --spacing: 0.25rem;
    
     ...
 }
