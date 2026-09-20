@@ -9,9 +9,7 @@
 
 @custom-variant dark (&:where(.dark, .dark *));
 
-:root {
-    --radius: 4px;
-}
+:root {}
 
 .dark {}
 
