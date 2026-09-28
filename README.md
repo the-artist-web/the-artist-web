@@ -4,8 +4,7 @@
     </a>
 </div>
 
-```css
-@import "tailwindcss";
+<!-- @import "tailwindcss";
 
 @custom-variant dark (&:where(.dark, .dark *));
 
@@ -55,4 +54,3 @@
     @apply bg-background text-foreground;
   }
 }
-```
